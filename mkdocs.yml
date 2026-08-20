@@ -1,0 +1,75 @@
+site_name: "Volo's Guide to P&P"
+site_description: "La wiki dei Permalosi & Polemici — Cronache, personaggi e lore della campagna"
+site_url: "https://Federicotar.github.io/volos-guide-to-pp"
+repo_url: "https://github.com/Federicotar/volos-guide-to-pp"
+repo_name: "Federicotar/volos-guide-to-pp"
+
+theme:
+  name: material
+  language: it
+  palette:
+    primary: deep purple
+    accent: amber
+  logo: assets/icons/d20.svg
+  favicon: assets/icons/d20.svg
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.indexes
+    - toc.follow
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+    - content.code.copy
+    - content.action.edit
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/
+  generator: false
+
+copyright: |
+  &copy; 2026 Permalosi & Polemici — Campagna D&D 5e
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable: false
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - glightbox
+  - tags:
+      tags_file: tags.md
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
