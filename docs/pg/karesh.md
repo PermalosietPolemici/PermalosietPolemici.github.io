@@ -174,11 +174,3 @@ Armi: marziali, semplici
 
 ### Background: Soldier (Fellow at Arms)
 Durante la sua carriera come soldato, Karesh ha guadagnato rispetto e autorità tra i pari. Può ottenere alleanze amichevoli con altre fazioni militari e richiedere santuario o passaggio sicuro, specialmente da membri della propria organizzazione.
-
----
-
-## Note
-
-- CG/Personaggio di **Federico**
-- Il suo background è già ricco di agganci narrativi: l'occhio, il magazzino, il Tempio di Bahamut
-- Potenziale evoluzione: scoprire cosa ha visto veramente quella notte
