@@ -1,4 +1,4 @@
-![Kobrut](../assets/pg/kobrut.jpg){: align=right width=300px }
+![Kobrut](../assets/pg/kobrut.jpg){: .portrait }
 
 # Kobrut
 
