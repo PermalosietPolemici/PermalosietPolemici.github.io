@@ -1,0 +1,13 @@
+/* Responsive fix per immagini flottanti */
+@media (max-width: 768px) {
+  figure[markdown] img,
+  p img[style*="float"],
+  img[style*="float"] {
+    float: none !important;
+    display: block !important;
+    margin: 1em auto !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    height: auto !important;
+  }
+}
