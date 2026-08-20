@@ -1,8 +1,8 @@
 site_name: "Volo's Guide to P&P"
 site_description: "La wiki dei Permalosi & Polemici — Cronache, personaggi e lore della campagna"
-site_url: "https://Federicotar.github.io/volos-guide-to-pp"
-repo_url: "https://github.com/Federicotar/volos-guide-to-pp"
-repo_name: "Federicotar/volos-guide-to-pp"
+site_url: "https://permalosietpolemici.github.io"
+repo_url: "https://github.com/PermalosietPolemici/PermalosietPolemici.github.io"
+repo_name: "PermalosietPolemici/PermalosietPolemici.github.io"
 
 theme:
   name: material
