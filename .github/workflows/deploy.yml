@@ -5,16 +5,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+  contents: write
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,12 +16,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs-material pillow cairosvg mkdocs-glightbox mkdocs-git-revision-date-localized-plugin
-      - run: mkdocs build
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - run: mkdocs gh-deploy --force
