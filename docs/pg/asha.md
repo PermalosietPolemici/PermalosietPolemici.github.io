@@ -180,11 +180,3 @@ Le guardie di Neverwinter — la sua nuova famiglia, che l'ha accolta senza giud
 
 ### Difetti
 La perdita delle corna è una ferita che non si rimargina. Se qualcuno le menziona, reagisce male.
-
----
-
-## Note
-
-- **CG/Personaggio di**: Federico
-- La profezia, il culto, le corna come trofeo — agganci narrativi pronti da sviluppare
-- Possibile dinamica interessante con Karesh: entrambi guardie di Neverwinter, prospettive molto diverse sul mondo
