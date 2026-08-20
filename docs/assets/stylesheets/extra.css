@@ -1,13 +1,12 @@
-/* Mobile: toglie il float alle immagini align=right, le centra */
+/* Mobile: rimuove float alle immagini e le centra */
 @media (max-width: 768px) {
-  img[align="right"] {
+  img[align="right"],
+  img[align="left"] {
     float: none !important;
     display: block !important;
     max-width: 80% !important;
     width: auto !important;
     height: auto !important;
     margin: 1em auto !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
   }
 }
