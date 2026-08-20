@@ -1,10 +1,8 @@
+![Kobrut](../assets/pg/kobrut.jpg){: align=right width=300px }
+
 # Kobrut
 
 > *Kobold Psi Warrior, Cavaliere di nobile casata*
-
-<figure markdown>
-  ![Kobrut](../assets/pg/kobrut.jpg){: style="max-width:320px; width:100%; height:auto; float:right; margin:0 0 1em 1em" }
-</figure>
 
 ---
 
