@@ -24,4 +24,5 @@ La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 - [Slap](strahd/slap.md) —
 - [Randal](strahd/randal.md) —
 - [Laszlo Morel](strahd/laszlo.md) — Hexblood Circle of Stars Druid 10, astrologo e divinatore, in realtà una strega del Feywild
+- [Slap](strahd/slap.md) — Satyr College of Spirits Bard 10, bardo satiro alcolizzato e ossessionato dalle umane
 - [Radagast](strahd/radagast.md) —

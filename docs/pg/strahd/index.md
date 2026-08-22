@@ -5,4 +5,5 @@
 - [Slap](slap.md) —
 - [Randal](randal.md) —
 - [Laszlo Morel](laszlo.md) — Hexblood Circle of Stars Druid 10, astrologo e divinatore, in realtà una strega del Feywild
+- [Slap](slap.md) — Satyr College of Spirits Bard 10, bardo satiro alcolizzato e ossessionato dalle umane
 - [Radagast](radagast.md) —
