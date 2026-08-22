@@ -73,5 +73,15 @@ plugins:
       enable_creation_date: true
       type: date
 
+nav:
+  - "Volo's Guide to P&P": index.md
+  - Personaggi: pg/
+  - Sessioni: sessioni/
+  - Missioni: missioni/
+  - Lore: lore/
+  - PNG: png/
+  - Fazioni: fazioni/
+  - Tag: tags.md
+
 extra_css:
   - assets/stylesheets/extra.css
