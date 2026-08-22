@@ -10,7 +10,7 @@ Storia, città, regioni e segreti del mondo. La lore è condivisa tra le campagn
 
 ## Timeline
 
-[//]: # (Prossimamente — una cronologia degli eventi delle campagne, in ordine temporale.)
+- [Timeline](timeline.md) — Cronologia degli eventi del mondo e delle campagne
 
 ## Altre pagine di lore
 
