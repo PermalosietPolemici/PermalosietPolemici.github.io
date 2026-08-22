@@ -1,0 +1,1 @@
+# Sessioni — Curse of Strahd

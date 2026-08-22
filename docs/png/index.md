@@ -1,5 +1,11 @@
 # PNG
 
-Personaggi Non Giocanti incontrati durante le sessioni.
+I personaggi non giocanti, divisi per campagna.
 
-[//]: # (Aggiungi qui le pagine dei PNG — nome, ruolo, descrizione, note)
+---
+
+## Vecna: Eve of Ruin
+
+---
+
+## Curse of Strahd

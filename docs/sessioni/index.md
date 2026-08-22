@@ -1,5 +1,15 @@
 # Sessioni
 
-Archivio cronologico dei riassunti delle sessioni.
+I riassunti delle sessioni, divisi per campagna.
 
-[//]: # (Aggiungi qui le pagine delle sessioni in ordine — Sessione 1, Sessione 2, ...)
+---
+
+## Vecna: Eve of Ruin
+
+La campagna in corso.
+
+---
+
+## Curse of Strahd
+
+La campagna conclusa.

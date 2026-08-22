@@ -1,4 +1,4 @@
-![Kobrut](../assets/pg/kobrut.jpg){: .portrait }
+![Kobrut](../../assets/pg/kobrut.jpg){: .portrait }
 
 # Kobrut
 

@@ -1,5 +1,11 @@
 # Fazioni
 
-Gilde, ordini, sette e organizzazioni incontrate durante la campagna.
+Le organizzazioni, gilde e fazioni incontrate nelle campagne.
 
-[//]: # (Aggiungi qui le pagine delle fazioni)
+---
+
+## Vecna: Eve of Ruin
+
+---
+
+## Curse of Strahd

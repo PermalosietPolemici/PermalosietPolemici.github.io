@@ -1,0 +1,1 @@
+# PNG — Curse of Strahd

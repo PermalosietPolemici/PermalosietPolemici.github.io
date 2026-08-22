@@ -1,4 +1,4 @@
-![Karesh](../assets/pg/karesh.jpg){: .portrait }
+![Karesh](../../assets/pg/karesh.jpg){: .portrait }
 
 # Karesh "Brightscale" Jenrath
 

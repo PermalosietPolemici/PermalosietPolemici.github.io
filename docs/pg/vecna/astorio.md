@@ -1,4 +1,4 @@
-![Astorio](../assets/pg/astorio.jpg){: .portrait }
+![Astorio](../../assets/pg/astorio.jpg){: .portrait }
 
 # Astorio Wisewind
 

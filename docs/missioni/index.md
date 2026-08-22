@@ -1,5 +1,11 @@
 # Missioni
 
-Archi narrativi, quest, missioni secondarie e agganci per il futuro.
+Gli incarichi e le missioni dei personaggi, divisi per campagna.
 
-[//]: # (Aggiungi qui le pagine delle missioni — attive, completate, fallite)
+---
+
+## Vecna: Eve of Ruin
+
+---
+
+## Curse of Strahd

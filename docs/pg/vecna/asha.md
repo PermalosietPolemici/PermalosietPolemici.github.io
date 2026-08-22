@@ -1,4 +1,4 @@
-![Asha](../assets/pg/asha.jpg){: .portrait }
+![Asha](../../assets/pg/asha.jpg){: .portrait }
 
 # Asha
 
