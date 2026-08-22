@@ -4,90 +4,90 @@ La campagna completa di Curse of Strahd, narrata in 22 capitoli.
 
 ---
 
-## 01 — [Prologo: Il Circo](01-prologo.md)
+## 01 — [Prologo: Il Circo](01-prologo/)
 
 Witchlight Carnival, la sbornia, Naso, Maddok, la consegna dei volantini. La notte che ha cambiato tutto.
 
-## 02 — [Death House](02-death-house.md)
+## 02 — [Death House](02-death-house/)
 
 Rose & Thorne, la casa stregata, Lorgoht il distruttore, il crollo. Il cesto con "Benvenuti in Barovia".
 
-## 03 — [Il Villaggio di Barovia](03-barovia.md)
+## 03 — [Il Villaggio di Barovia](03-barovia/)
 
 La vecchia dei pasticcini, la locanda, Ismark e Ireena, il pozzo avvelenato, i primi segreti del dominio.
 
-## 04 — [La Chiesa di Barovia](04-la-chiesa.md)
+## 04 — [La Chiesa di Barovia](04-la-chiesa/)
 
 Padre Donavich, suo figlio Doru, il confronto nella chiesa. La prima vera faccia della maledizione.
 
-## 05 — [L'Incidente](05-lincidente.md)
+## 05 — [L'Incidente](05-lincidente/)
 
 Randal uccide Radu, l'arresto, l'attacco alla casa di Ismark. Il baratro e la prima possibilità di redenzione.
 
-## 06 — [Funerali e Redenzione](06-funerali.md)
+## 06 — [Funerali e Redenzione](06-funerali/)
 
 Il funerale del borgomastro, la lettera di Strahd, la marcia dei morti. Randal redento giura di proteggere Ireena.
 
-## 07 — [Il Viaggio e l'Accampamento Vistani](07-viaggio-vistani.md)
+## 07 — [Il Viaggio e l'Accampamento Vistani](07-viaggio-vistani/)
 
 Il ponte sul fiume, il bivacco misterioso, l'accampamento Vistani, Madam Eva e la lettura dei tarocchi.
 
-## 08 — [L'Incontro con Laszlo](08-laszlo.md)
+## 08 — [L'Incontro con Laszlo](08-laszlo/)
 
 Il druido veggente nel cerchio di pietre infestato dagli insetti. Destini che si incrociano sulla strada per Ravenloft.
 
-## 09 — [La Cena a Castle Ravenloft](09-cena-ravenloft.md)
+## 09 — [La Cena a Castle Ravenloft](09-cena-ravenloft/)
 
 Strahd, le sue spose (Ludmilla, Anastrasya, Volenta, Escher), Gertruda, il banchetto, le danze, il biglietto di Helga.
 
-## 10 — [La Tragedia del Lago Zarovich](10-lago-zarovich.md)
+## 10 — [La Tragedia del Lago Zarovich](10-lago-zarovich/)
 
 Il lago, la fanciulla salvata dalle acque, il ritorno a casa. Un incontro che cambierà le sorti del gruppo.
 
-## 11 — [Il Mulino di Bonegrinder](11-bonegrinder.md)
+## 11 — [Il Mulino di Bonegrinder](11-bonegrinder/)
 
 Le tre streghe, la verità sulla vecchia dei pasticcini, il mulino maledetto. La dolcezza che nasconde l'orrore.
 
-## 12 — [Arrivo a Vallaki](12-vallaki.md)
+## 12 — [Arrivo a Vallaki](12-vallaki/)
 
 I cancelli, il barone Vargas Vallakovich, Izek Strazni, la cattedrale di Sant'Andral, l'orfanotrofio, i Wachter.
 
-## 13 — [La Morte di Radagast](13-morte-radagast.md)
+## 13 — [La Morte di Radagast](13-morte-radagast/)
 
 La tragedia sotto il mulino. L'addio al Folle di Dio. Il funerale sulle rive del lago.
 
-## 14 — [Il Festival e la Caduta del Barone](14-festival-vallaki.md)
+## 14 — [Il Festival e la Caduta del Barone](14-festival-vallaki/)
 
 L'attacco alla chiesa, il demone di Izek, la rivolta di Lady Wachter. Vallaki cambia volto.
 
-## 15 — [Il Vigneto del Mago dei Vini](15-mago-dei-vini.md)
+## 15 — [Il Vigneto del Mago dei Vini](15-mago-dei-vini/)
 
 Davian Martikov, i druidi, il recupero delle gemme magiche. I segreti dei Wizard of Wines.
 
-## 16 — [Argynvostholt](16-argynvostholt.md)
+## 16 — [Argynvostholt](16-argynvostholt/)
 
 I cavalieri d'argento, il revenant, la luce perduta. Un'antica promessa da onorare.
 
-## 17 — [La Torre di Van Richten](17-torre-baratok.md)
+## 17 — [La Torre di Van Richten](17-torre-baratok/)
 
 L'incontro con Rudolph Van Richten, Ezmeralda D'Avenir, il piano per fermare Strahd.
 
-## 18 — [Krezk e l'Abbazia di Santa Markovia](18-krezk.md)
+## 18 — [Krezk e l'Abbazia di Santa Markovia](18-krezk/)
 
 Il villaggio di Krezk, l'abate, la Fabbrica di Sogni. Il confine ovest di Barovia.
 
-## 19 — [La Palude di Berez](19-berez.md)
+## 19 — [La Palude di Berez](19-berez/)
 
 Baba Lysaga, la casa sulla gamba di gallina, i Fanes. Le radici oscure del potere di Strahd.
 
-## 20 — [Yester Hill](20-yester-hill.md)
+## 20 — [Yester Hill](20-yester-hill/)
 
 I druidi, il Wintersplinter, la terza gemma. L'ultimo bastione della natura contro il vampiro.
 
-## 21 — [Il Tempio d'Ambra](21-tempio-ambra.md)
+## 21 — [Il Tempio d'Ambra](21-tempio-ambra/)
 
 I giganti d'ambra, le stanze sigillate, il patto oscuro. Ciò che Strahd ha trovato — e ciò che ha pagato.
 
-## 22 — [L'Assalto a Ravenloft e la Sconfitta Finale](22-finale.md)
+## 22 — [L'Assalto a Ravenloft e la Sconfitta Finale](22-finale/)
 
 Castle Ravenloft, lo scontro con Strahd, il matrimonio, l'addio a Barovia. La fine di un'era.
