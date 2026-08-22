@@ -2,7 +2,7 @@
 
 # Astorio Wisewind
 
-> *Earthborn Human — School of Divination Wizard 10, Mago consulente nell'esercito di Neverwinter*
+> *Umano — School of Divination Wizard 10, Mago consulente nell'esercito di Neverwinter*
 
 ---
 
@@ -41,7 +41,7 @@ Così, quando le finanze iniziarono a scarseggiare, Astorio accettò un incarico
 | | |
 |---|---|
 | **Nome completo** | Astorio Wisewind |
-| **Razza** | Earthborn Human |
+| **Razza** | Umano |
 | **Classe** | School of Divination Wizard 10 |
 | **Background** | Sage (Astronomer) |
 | **Allineamento** | Neutral Good |
@@ -87,10 +87,9 @@ Armi: Dagger, Dart, Light Crossbow, Quarterstaff, Sling
 
 ## Privilegi e Tratti
 
-### Tratti Razziali (Earthborn Human)
+### Tratti Razziali (Umano)
 - **Bonus Feat** — Talento aggiuntivo al 1° livello.
 - **Skill Proficiency** — Competenza in un'abilità aggiuntiva.
-- **Versatile** — Può impugnare armi a due mani con una mano sola.
 
 ### Wizard (School of Divination 10)
 - **Ritual Casting** — Può lanciare come rituale qualsiasi incantesimo con il taglio *ritual* preparato nel suo spellbook.
