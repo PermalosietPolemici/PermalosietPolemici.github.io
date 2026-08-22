@@ -24,4 +24,4 @@ La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 - [Slap](strahd/slap.md) — Satyr College of Spirits Bard 10, bardo satiro alcolizzato e ossessionato dalle umane
 - [Randal](strahd/randal.md) — Variant Human Life Domain Cleric 10, guaritore e servo di Pelor
 - [Laszlo Morel](strahd/laszlo.md) — Hexblood Circle of Stars Druid 10, astrologo e divinatore, in realtà una strega del Feywild
-- [Radagast](strahd/radagast.md) —
+- [Radagast](strahd/radagast.md) — Variant Human Divine Soul Sorcerer 6, il Folle di Dio, artista e guaritore del circo
