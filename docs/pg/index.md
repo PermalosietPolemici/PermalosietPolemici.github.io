@@ -22,6 +22,6 @@ La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 - [Lûth Aen Elentir](strahd/luth-aen-elentir.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
 - [Nezuko](strahd/nezuko.md) — Bugbear Path of the Beast Barbarian 10, ex-barbaro dal cuore dolce diventato uomo forzuto del circo
 - [Slap](strahd/slap.md) — Satyr College of Spirits Bard 10, bardo satiro alcolizzato e ossessionato dalle umane
-- [Randal](strahd/randal.md) —
+- [Randal](strahd/randal.md) — Variant Human Life Domain Cleric 10, guaritore e servo di Pelor
 - [Laszlo Morel](strahd/laszlo.md) — Hexblood Circle of Stars Druid 10, astrologo e divinatore, in realtà una strega del Feywild
 - [Radagast](strahd/radagast.md) —
