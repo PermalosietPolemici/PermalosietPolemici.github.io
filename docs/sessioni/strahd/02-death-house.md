@@ -158,3 +158,9 @@ Il biglietto recita:
 - Fuga dalla casa in crollo
 - Il cesto con il messaggio di benvenuto di Strahd
 - La valle di Barovia e il castello Ravenloft all'orizzonte
+
+---
+
+[**← Capitolo precedente**](01-prologo.md) | [**Capitolo successivo →**](03-barovia.md)
+
+*[Torna all'indice](index.md)*

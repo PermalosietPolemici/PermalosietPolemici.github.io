@@ -171,3 +171,9 @@ Non comprendono appieno il significato di queste parole, ma in fondo non sono ne
 - Attacco di lupi nel bosco, incluso un lupo gigante
 - Trovano la lettera del borgomastro di Barovia sul cadavere di un uomo
 - Prima menzione di Barovia, del male e della figlia adottiva ferita
+
+---
+
+**← Capitolo precedente** | [**Capitolo successivo →**](02-death-house.md)
+
+*[Torna all'indice](index.md)*
