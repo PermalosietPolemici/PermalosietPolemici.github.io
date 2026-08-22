@@ -187,10 +187,17 @@ Strumenti: Disguise Kit, Drum, Flute, Harp, Lute, Pan Flute
 - Teschio di lupo (focus spirituale)
 - Lira d'oro
 - Tunica degli Oggetti Utili
-- Explorer's Pack
+- Explorer's Pack (zaino, otre, pietre focaie, 8 candele, 10 razioni)
 - Corda 15m
-- 144 GP
-- *Cono di freddo*
+- 1 perla
+- 144 GP + 9 CP
+
+### Oggetti da Campagna
+- *Porta di ferro*
+- *Barca a remi*
+- *Pergamena del bagliore lunare*
+- *Mastini* (da inventario)
+- *Cono di freddo* (pergamena o oggetto magico)
 
 ---
 
