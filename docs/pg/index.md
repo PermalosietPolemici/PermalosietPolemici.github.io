@@ -1,7 +1,5 @@
 # Personaggi Giocanti
 
-![Il gruppo di Curse of Strahd](../assets/pg/gruppo-strahd.jpg)
-
 I personaggi dei Permalosi & Polemici, divisi per campagna.
 
 ---
@@ -20,6 +18,8 @@ La campagna in corso.
 ## Curse of Strahd
 
 La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
+
+![Il gruppo di Curse of Strahd](../assets/pg/gruppo-strahd.jpg)
 
 - [Lûth Aen Elentir](strahd/luth-aen-elentir.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
 - [Nezuko](strahd/nezuko.md) — Bugbear Path of the Beast Barbarian 10, ex-barbaro dal cuore dolce diventato uomo forzuto del circo
