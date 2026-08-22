@@ -19,7 +19,7 @@ La campagna in corso.
 
 La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 
-- [Lûth Aen Elentir](strahd/luth-aen-elentir.md) —
+- [Lûth Aen Elentir](strahd/luth-aen-elentir.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
 - [Nezuko](strahd/nezuko.md) —
 - [Slap](strahd/slap.md) —
 - [Randal](strahd/randal.md) —
