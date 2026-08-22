@@ -1,5 +1,7 @@
 # Personaggi Giocanti
 
+![Il gruppo di Curse of Strahd](../assets/pg/gruppo-strahd.jpg)
+
 I personaggi dei Permalosi & Polemici, divisi per campagna.
 
 ---
