@@ -20,7 +20,7 @@ La campagna in corso.
 La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 
 - [Lûth Aen Elentir](strahd/luth-aen-elentir.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
-- [Nezuko](strahd/nezuko.md) —
+- [Nezuko](strahd/nezuko.md) — Bugbear Path of the Beast Barbarian 10, ex-barbaro dal cuore dolce diventato uomo forzuto del circo
 - [Slap](strahd/slap.md) —
 - [Randal](strahd/randal.md) —
 - [Laszlo](strahd/laszlo.md) —
