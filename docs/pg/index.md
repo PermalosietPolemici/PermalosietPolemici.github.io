@@ -23,5 +23,5 @@ La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 - [Nezuko](strahd/nezuko.md) — Bugbear Path of the Beast Barbarian 10, ex-barbaro dal cuore dolce diventato uomo forzuto del circo
 - [Slap](strahd/slap.md) —
 - [Randal](strahd/randal.md) —
-- [Laszlo](strahd/laszlo.md) —
+- [Laszlo Morel](strahd/laszlo.md) — Hexblood Circle of Stars Druid 10, astrologo e divinatore, in realtà una strega del Feywild
 - [Radagast](strahd/radagast.md) —
