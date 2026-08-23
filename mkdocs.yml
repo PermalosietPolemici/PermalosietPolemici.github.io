@@ -10,8 +10,8 @@ theme:
   palette:
     primary: deep purple
     accent: amber
-  logo: assets/icons/d20.svg
-  favicon: assets/icons/d20.svg
+  logo: assets/icons/logo-pp-square.png
+  favicon: assets/icons/logo-pp-favicon.png
   features:
     - navigation.instant
     - navigation.tracking
