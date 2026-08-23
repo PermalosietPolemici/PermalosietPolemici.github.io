@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/icons/logo-pp.png" alt="Logo P&P" style="max-width:320px;width:100%;height:auto;" />
+</div>
+
 # Volo's Guide to P&P
 
 *Benvenuti, avventurieri e curiosi!*
