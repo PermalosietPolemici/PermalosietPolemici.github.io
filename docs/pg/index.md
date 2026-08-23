@@ -8,6 +8,8 @@ I personaggi dei Permalosi & Polemici, divisi per campagna.
 
 La campagna in corso.
 
+![Il gruppo di Vecna: Eve of Ruin](../assets/pg/gruppo-eor.jpg)
+
 - [Asha](vecna/asha.md) — Tiefling Arcane Archer 7 / Monster Slayer 3, guardia di Neverwinter
 - [Karesh "Brightscale" Jenrath](vecna/karesh.md) — Dragonide Paladino 10 (Oath of the Watchers), guardia di Neverwinter
 - [Kobrut](vecna/kobrut.md) — Kobold Psi Warrior Fighter 10, principe spodestato
