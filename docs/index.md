@@ -8,6 +8,8 @@
 
 Questa è la cronaca della campagna dei **Permalosi & Polemici** (P&P), un gruppo di avventurieri — e persone — che da anni popola le nostre serate di dadi, risate e colpi di scena.
 
+[Scopri chi siamo →](/chi-siamo/)
+
 Qui troverete:
 
 - 🧙 **Personaggi** — chi sono, da dove vengono, cosa sanno fare
