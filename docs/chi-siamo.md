@@ -6,7 +6,7 @@
 
 <div align="center">
   <figure>
-    <img src="assets/images/gruppo-pp.jpg" alt="I Permalosi & Polemici" style="max-width:100%;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
+    <img src="/assets/images/gruppo-pp.jpg" alt="I Permalosi & Polemici" style="max-width:100%;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.3);" />
     <figcaption><em>Noi, in una delle nostre uscite serali — 2026</em></figcaption>
   </figure>
 </div>
