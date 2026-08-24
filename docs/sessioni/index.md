@@ -12,6 +12,6 @@ La campagna in corso.
 
 ## Curse of Strahd
 
-La campagna conclusa.
+La nostra prima grande avventura in Barovia. 22 capitoli di cronache, dal prologo fino all'epilogo.
 
-- [Indice completo](strahd/) — 22 capitoli, dal prologo alla sconfitta finale
+- [Indice completo](strahd/)
