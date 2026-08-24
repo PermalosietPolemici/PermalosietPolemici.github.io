@@ -100,6 +100,6 @@ Lasciano l'accampamento in direzione del castello.
 
 ---
 
-[← **Capitolo precedente**](06-funerali/) | [**Capitolo successivo →**](08-laszlo/)
+[← **Capitolo precedente**](06-funerali/) | [**Capitolo successivo →**](../08-laszlo/)
 
 *[Torna all'indice](index.md)*
