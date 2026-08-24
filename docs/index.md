@@ -12,7 +12,7 @@ Questa è la cronaca della campagna dei **Permalosi & Polemici** (P&P), un grupp
 
 Qui troverete:
 
-- 🧙 **Personaggi** — chi sono, da dove vengono, cosa sanno fare
+- 🧙 **[Personaggi](/pg/)** — chi sono, da dove vengono, cosa sanno fare
 - 🏰 **Lore** — città, regioni, storia del mondo
 - ⚔️ **Fazioni** — gilde, ordini, poteri in gioco
 - 🎭 **PNG** — le facce che incontrate
