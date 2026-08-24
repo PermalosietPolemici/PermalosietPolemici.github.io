@@ -76,4 +76,4 @@ Sbrigate queste formalità, vengono scortati nell'enorme **Sala da Pranzo**. Le 
 
 [← **Capitolo precedente**](07-viaggio-vistani/) | [**Capitolo successivo →**](09-cena-ravenloft/)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*

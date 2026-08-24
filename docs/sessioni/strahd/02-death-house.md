@@ -163,4 +163,4 @@ Il biglietto recita:
 
 [**← Capitolo precedente**](01-prologo.md) | [**Capitolo successivo →**](03-barovia.md)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*

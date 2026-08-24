@@ -20,7 +20,7 @@ Arik porta Randal dal **borgomastro**. Il chierico non oppone resistenza.
 
 ### Il Giudizio
 
-Solo qualche ora prima, Randal redarguiva **[[Ismark]]**. Ora si trova di fronte a lui come **peccatore**.
+Solo qualche ora prima, Randal redarguiva **Ismark**. Ora si trova di fronte a lui come **peccatore**.
 
 Ismark è irreprensibile: sarà giudicato alla stessa maniera del prete per il crimine commesso. Cercano di convincerlo dell'errore e di considerare le attenuanti — d'altronde hanno appena aiutato l'intero villaggio nella sua sopravvivenza. Ismark ci penserà.
 
@@ -51,4 +51,4 @@ Alloggiano alla taverna, aspettando la sera.
 
 [**← Capitolo precedente**](04-la-chiesa/) | [**Capitolo successivo →**](06-funerali/)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*

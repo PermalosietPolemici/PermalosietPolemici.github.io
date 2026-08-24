@@ -90,4 +90,4 @@ In quel momento, **Radu** entra in locanda e chiede una bottiglia di vino ad **A
 
 [**← Capitolo precedente**](03-barovia/) | [**Capitolo successivo →**](05-lincidente/)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*

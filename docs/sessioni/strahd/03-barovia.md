@@ -163,4 +163,4 @@ Decidono di fargli visita. Scoprono che la casa è **vuota**, con evidenti segni
 
 [**← Capitolo precedente**](02-death-house.md) | [**Capitolo successivo →**](04-la-chiesa.md)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*

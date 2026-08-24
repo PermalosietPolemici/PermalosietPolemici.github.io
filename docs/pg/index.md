@@ -23,7 +23,7 @@ La campagna conclusa. Personaggi che hanno affrontato l'orrore di Barovia.
 
 ![Il gruppo di Curse of Strahd](../assets/pg/gruppo-strahd.jpg)
 
-- [Lûth Aen Elentir](strahd/luth-aen-elentir.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
+- [Lûth Aen Elentir](strahd/luth.md) — Harengon Rogue 1 / Gloom Stalker Ranger 4 / Battle Master Fighter 5, coniglio cresciuto al Circo del Witchlight
 - [Nezuko](strahd/nezuko.md) — Bugbear Path of the Beast Barbarian 10, ex-barbaro dal cuore dolce diventato uomo forzuto del circo
 - [Slap](strahd/slap.md) — Satyr College of Spirits Bard 10, bardo satiro alcolizzato e ossessionato dalle umane
 - [Randal](strahd/randal.md) — Variant Human Life Domain Cleric 10, guaritore e servo di Pelor

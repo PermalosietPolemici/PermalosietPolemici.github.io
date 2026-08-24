@@ -87,4 +87,4 @@ Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la c
 
 [**← Capitolo precedente**](05-lincidente/) | [**Capitolo successivo →**](07-viaggio-vistani/)
 
-*[Torna all'indice](index.md)*
+*[Torna all'indice](../)*
