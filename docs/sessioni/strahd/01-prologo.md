@@ -176,4 +176,4 @@ Non comprendono appieno il significato di queste parole, ma in fondo non sono ne
 
 **← Capitolo precedente** | [**Capitolo successivo →**](02-death-house.md)
 
-*[Torna all'indice](./)*
+*[Torna all'indice](/sessioni/strahd/)*
