@@ -1,6 +1,6 @@
 # 08 — L'Incontro con Laszlo
 
-> *Il druido veggente nel cerchio di pietre infestato dagli insetti. Destini che si incrociano sulla strada per Ravenloft.*
+> *Il druido veggente nel cerchio di pietre infestato dagli insetti. Un nuovo compagno si unisce al gruppo sulla strada per Ravenloft.*
 
 ---
 
@@ -20,11 +20,11 @@ Liberata l'area dagli insetti, il gruppo fa la conoscenza della figura nel cerch
 
 Il suo arrivo a Barovia è recente, eppure il fato lo ha già messo sulla strada giusta: è in cerca di una **stella in particolare** — una stella sopita, come la chiama lui — ma il cielo di Barovia, perennemente coperto dalle nebbie, non lascia molto spazio alla sua ricerca.
 
-### Un Invito inaspettato
+### Un Invito Inaspettato
 
-Durante la conversazione emerge un dettaglio che fa scattare qualcosa nel gruppo: anche Laszlo è stato **invitato al castello da Rahadin**, il sinistro ciambellano di Strahd. La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
+Durante la conversazione emerge un dettaglio che fa scattare qualcosa: anche Laszlo è stato **invitato al castello da Rahadin**, il sinistro ciambellano di Strahd. La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
 
-Una coincidenza che non lascia spazio a dubbi. I destini del gruppo e del veggente si intrecciano proprio mentre si preparano a varcare le soglie di Castle Ravenloft.
+Una coincidenza che non lascia spazio a dubbi. I destini del gruppo e del veggente si intrecciano proprio mentre si preparano a varcare le soglie di Castle Ravenloft. Laszlo si unisce a loro, e il gruppo accoglie un nuovo compagno.
 
 ### Verso le Porte Ovest
 
@@ -50,9 +50,12 @@ Sbrigate queste formalità, vengono scortati nell'enorme **Sala da Pranzo**. Le 
 
 ---
 
+## Personaggi
+
+- **Laszlo** — Druido veggente, si unisce al gruppo dopo l'incontro nel cerchio di pietre. In cerca di una stella sopita, il suo arrivo a Barovia è guidato dal fato. Invitato anche lui a Castle Ravenloft.
+
 ## NPC Incontrati
 
-- **Laszlo** — Veggente e druido, in cerca di una stella sopita. Invitato anche lui a Castle Ravenloft. Il suo modo di parlare è peculiare, ma le sue capacità divinatorie sembrano autentiche.
 - **Cyrus** — Un umanoide composito, fatto di parti di più creature, che funge da guardiano all'ingresso del castello.
 - **Rahadin** — Ciambellano di Strahd, elfo dalla pelle scura e lunghi capelli neri. Elegante, sinistro, impeccabile.
 
@@ -62,7 +65,7 @@ Sbrigate queste formalità, vengono scortati nell'enorme **Sala da Pranzo**. Le 
 
 - Una luce nel bosco conduce a un cerchio di pietre
 - Incontro con Laszlo, druido veggente in cerca di una stella
-- Laszlo è stato invitato al castello da Rahadin, come il gruppo
+- Laszlo è stato invitato al castello da Rahadin, come il gruppo, e si unisce a loro
 - Viaggio insieme verso le porte ovest di Barovia
 - Carrozza senza cocchiere li trasporta a Castle Ravenloft
 - Attraversamento del ponte levatoio
