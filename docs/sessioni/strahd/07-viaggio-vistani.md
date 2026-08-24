@@ -74,15 +74,7 @@ Mentre Radagast passa la notte in riva al lago ubriaco e Slap intorno al fuoco p
 
 Prima di partire, cercano informazioni sulla vecchietta dei dolcetti. I Vistani li informano che una signora anziana su un carro è passata circa quattro giorni fa sulla strada in direzione Vallaki, ma non sanno se sia la persona che cercano.
 
-### Sulla Strada per il Castello
-
-Lasciano l'accampamento in direzione del castello. Lungo la strada, una luce li attira nel bosco. Uno strano tizio si trova all'interno di un cerchio di enormi pietre, circondato da centinaia di insetti. Liberata l'area, fanno la sua conoscenza.
-
-È **Laszlo**, un veggente che studia le stelle e legge le carte. Racconta di essere stato attirato in Barovia dai Vistani stessi e di aver incontrato Madam Eva. Il suo modo di parlare è alquanto strano, ma sembra possedere una particolare capacità di leggere — in qualche modo — nel futuro tramite strane carte che ricordano i Tarocchi della Vistana.
-
-Laszlo dice di essere in cerca di una stella in particolare, ma il cielo di Barovia non lascia molto spazio alla vista. Inoltre, sembra che lo stesso Laszlo sia stato invitato al castello da Rahadin.
-
-Una coincidenza che li fa mettere in marcia insieme.
+Lasciano l'accampamento in direzione del castello.
 
 ---
 
@@ -91,7 +83,6 @@ Una coincidenza che li fa mettere in marcia insieme.
 - **Corvo dalle ali blu** — Già visto in precedenza, sembra guidarli verso la Polla di Tser.
 - **I Vistani** — Popolo nomade che vive nelle terre di Barovia, legato a Strahd da un antico patto.
 - **Madam Eva** — La più vecchia saggia e matrona dei Vistani, lettrice di tarocchi.
-- **Laszlo** — Veggente e druido, in cerca di una stella sopita. Invitato anche lui a Castle Ravenloft.
 
 ---
 
@@ -106,8 +97,6 @@ Una coincidenza che li fa mettere in marcia insieme.
 - Serata all'accampamento Vistani — storia dell'antico patto con Strahd
 - Lettura dei tarocchi di Madam Eva (5+1 carte)
 - Notte tormentata per Randal e Nezuko (sintomi da astinenza)
-- Incontro con Laszlo nel cerchio di pietre
-- Insieme verso Castle Ravenloft
 
 ---
 
