@@ -83,7 +83,7 @@ nav:
   - Chi Siamo: chi-siamo.md
   - Personaggi: pg/
   - Sessioni: sessioni/
-  - Missioni: missioni/
+  # - Missioni: missioni/
   - Lore: lore/
   - PNG: png/
   - Fazioni: fazioni/
