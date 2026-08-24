@@ -17,7 +17,7 @@ Qui troverete:
 - ⚔️ **Fazioni** — gilde, ordini, poteri in gioco
 - 🎭 **PNG** — le facce che incontrate
 - 📜 **Missioni** — archi narrativi, quest completate e in sospeso
-- 📝 **Sessioni** — riassunti di ogni incontro
+- 📝 **[Sessioni](/sessioni/)** — riassunti di ogni incontro
 
 ---
 
