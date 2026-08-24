@@ -31,8 +31,12 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/discord
-      link: https://discord.gg/
+    - icon: fontawesome/brands/twitch
+      link: https://www.twitch.tv/permalosietpolemici
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@permalosietpolemici
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/permalosi_et_polemici
   generator: false
 
 copyright: |
@@ -76,6 +80,7 @@ plugins:
 
 nav:
   - "Volo's Guide to P&P": index.md
+  - Chi Siamo: chi-siamo.md
   - Personaggi: pg/
   - Sessioni: sessioni/
   - Missioni: missioni/
