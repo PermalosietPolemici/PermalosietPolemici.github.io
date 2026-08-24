@@ -16,7 +16,7 @@ Seguendo il bagliore, si addentrano nel sottobosco e scoprono una radura che osp
 
 Liberata l'area dagli insetti, il gruppo fa la conoscenza della figura nel cerchio.
 
-È **Laszlo**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in Barovia dai Vistani stessi. Ha incontrato Madam Eva, e con lei ha condiviso parte della sua conoscenza divinatoria.
+È **[[Laszlo]]**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in Barovia dai Vistani stessi. Ha incontrato Madam Eva, e con lei ha condiviso parte della sua conoscenza divinatoria.
 
 Il suo arrivo a Barovia è recente, eppure il fato lo ha già messo sulla strada giusta: è in cerca di una **stella in particolare** — una stella sopita, come la chiama lui — ma il cielo di Barovia, perennemente coperto dalle nebbie, non lascia molto spazio alla sua ricerca.
 

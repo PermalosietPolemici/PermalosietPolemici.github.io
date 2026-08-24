@@ -66,6 +66,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - roamlinks
   - glightbox
   - tags:
       tags_file: tags.md

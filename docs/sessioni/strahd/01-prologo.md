@@ -14,13 +14,13 @@ Birra, vino e musica allietano la serata, spingendo tutti, come altre volte già
 
 ### La Sbornia
 
-**Radagast** è sdraiato completamente nudo, in preda ai fumi dell'alcool, in un letto fatto di decine di cuscini colorati. Continua a sorseggiare vino da una bottiglia mentre alcune bellissime donne in abiti succinti lo imboccano con frutta e piccoli dolci squisiti. Gli sembra di essere in paradiso.
+**[[Radagast]]** è sdraiato completamente nudo, in preda ai fumi dell'alcool, in un letto fatto di decine di cuscini colorati. Continua a sorseggiare vino da una bottiglia mentre alcune bellissime donne in abiti succinti lo imboccano con frutta e piccoli dolci squisiti. Gli sembra di essere in paradiso.
 
 Sente un colpo al fianco. **Xenia**, completamente nuda, gli ha appena dato un calcio. Poi un altro, e un altro ancora. Fa male, ma è così bella. La donna apre bocca e parla con la voce di un vecchio:
 
 — *Maledetto di uno sporco ubriacone, alzati e datti una sistemata.*
 
-Improvvisamente apre gli occhi. Si trova all'interno di una grossa tenda. Intravede i suoi amici accatastati in alcuni angoli, e un vecchio che sta prendendo a calci **Slap**.
+Improvvisamente apre gli occhi. Si trova all'interno di una grossa tenda. Intravede i suoi amici accatastati in alcuni angoli, e un vecchio che sta prendendo a calci **[[Slap]]**.
 
 — *Lurido caprone buono a nulla* — urla. — *Svegliati, svegliatevi tutti.*
 
@@ -36,7 +36,7 @@ Una volta rimessi in sesto, escono dalla tenda. Naso aspetta fuori con aria furi
 
 — *Sapete cosa fare. Camminare.*
 
-**Randal** esce dalla tenda.
+**[[Randal]]** esce dalla tenda.
 
 — *Da te questo proprio non me lo aspettavo. Guarda come sei conciato. Che delusione.*
 
@@ -52,7 +52,7 @@ Ognuno si dirige ai propri lavori. Da quando sono al circo, hanno imparato ogni 
 
 Escono uno alla volta sotto lo sguardo vigile di Naso.
 
-**Nezuko** è l'ultimo. La testa gli pulsa da morire — da quando ci sono Radagast e Slap, queste serate prendono una brutta piega. Naso lo ferma con il bastone.
+**[[Nezuko]]** è l'ultimo. La testa gli pulsa da morire — da quando ci sono Radagast e Slap, queste serate prendono una brutta piega. Naso lo ferma con il bastone.
 
 — *Tu no. Hai un appuntamento con Maddok.*
 
@@ -76,7 +76,7 @@ Maddok è un **Kenku**, medico locale particolarmente capace di curare le ferite
 
 ### La Routine
 
-**Luth** torna al tendone degli acrobati, dove spera un giorno di esibirsi e mostrare le sue ineffabili doti. Ogni volta che si immagina quel momento è terrorizzato e nello stesso tempo galvanizzato. Chissà cosa si prova ad avere tutti quegli occhi addosso, pensa spesso. **Xenia** è già più avvezza a calcare il palco. Le doti dei due sono molto simili, ma ciò che li distingue è la capacità di stare davanti a un pubblico, di inebriarsi degli applausi e non perdere la concentrazione. La rivalità tra i due è a volte palpabile. **Baffo**, il mastro acrobata, tratta tutti allo stesso modo — ma questo a Xenia non va molto giù, e in più di un'occasione si è messa in mostra per far valere le sue doti.
+**[[Luth]]** torna al tendone degli acrobati, dove spera un giorno di esibirsi e mostrare le sue ineffabili doti. Ogni volta che si immagina quel momento è terrorizzato e nello stesso tempo galvanizzato. Chissà cosa si prova ad avere tutti quegli occhi addosso, pensa spesso. **Xenia** è già più avvezza a calcare il palco. Le doti dei due sono molto simili, ma ciò che li distingue è la capacità di stare davanti a un pubblico, di inebriarsi degli applausi e non perdere la concentrazione. La rivalità tra i due è a volte palpabile. **Baffo**, il mastro acrobata, tratta tutti allo stesso modo — ma questo a Xenia non va molto giù, e in più di un'occasione si è messa in mostra per far valere le sue doti.
 
 **Radagast** e **Slap** sembrano in qualche modo spiriti affini. Entrambi amano l'alcool e le belle donne, anche se con risultati ben diversi: mentre Radagast racconta continuamente delle sue conquiste amorose e degli inseguimenti dei mariti gelosi, Slap racconta perlopiù dei suoi fallimenti e dell'inseguimento di donne adirate con qualsivoglia oggetto in mano a mo' di bastone. Svolgono i lavori più umili, ma sempre con quel sorriso sulle labbra che li contraddistingue.
 

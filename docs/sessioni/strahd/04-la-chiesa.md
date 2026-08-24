@@ -12,7 +12,7 @@ L'interno è scarno e semidistrutto. Il sacerdote, **padre Donavich**, dice loro
 
 Sentono un **ringhio soffocato**. Sfoderano le armi. Il prete si fa nervoso. Lo incalzano con domande sugli attacchi e sulle sparizioni, vogliono entrare nelle sue stanze per perquisire. Il sacerdote è sempre più nervoso e chiede loro di andarsene. Le uniche notizie che ottengono sono che suo **figlio è stato il primo a sparire**, circa un anno fa.
 
-**Randal** tira fuori il medaglione trovato e lo mostra a Donavich. **Luth** si fa più pressante, finché il prete non cede.
+**[[Randal]]** tira fuori il medaglione trovato e lo mostra a Donavich. **[[Luth]]** si fa più pressante, finché il prete non cede.
 
 ### La Verità
 
@@ -38,7 +38,7 @@ Doru scappa, si rintana nel **sotterraneo** dal quale era uscito. Lo inseguono, 
 
 Ci mettono qualche attimo di troppo per rompere la botola che li teneva chiusi. Una volta risaliti, vedono **Doru accovacciato sul corpo del padre legato**, mentre gli **morde il collo**, lasciandolo quasi privo di vita. Poi fugge da una finestra e sparisce nella nebbia. Vani i tentativi di inseguimento.
 
-Padre Donavich sta morendo. **Radagast** pronuncia le sue parole di guarigione, ma viene fermato dal prete, che dice di non meritarlo, di lasciarlo morire. Radagast non ci sta: *deve pagare per ciò che ha fatto.*
+Padre Donavich sta morendo. **[[Radagast]]** pronuncia le sue parole di guarigione, ma viene fermato dal prete, che dice di non meritarlo, di lasciarlo morire. Radagast non ci sta: *deve pagare per ciò che ha fatto.*
 
 Tentano in tutti i modi di farlo parlare, anche con la violenza, ma il prete è irremovibile. Dopo ciò che ha fatto, non consegnerà mai suo figlio.
 

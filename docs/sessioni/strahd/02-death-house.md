@@ -20,15 +20,15 @@ Prendono alla leggera la cosa, ma decidono di dare un'occhiata alla casa. Pochi 
 
 La casa, nonostante esternamente appaia vecchia e logora, internamente è molto ben curata e pulita.
 
-Non passa molto che iniziano a sentire alcuni rumori provenire dal piano di sopra: **passi**. Un campanello suona in una stanza. Aprono la porta: una cucina ben curata e ordinata. Su un muro c'è un **montavivande** con attaccato un piccolo campanello. Dietro un'altra porta sentono dei colpi. Provano ad aprirla, ma è chiusa. **Xenia** cerca di mettere in risalto le sue doti da scassinatrice, ma invano. Quando **Luth** si avvicina alla porta, questa si apre da sola.
+Non passa molto che iniziano a sentire alcuni rumori provenire dal piano di sopra: **passi**. Un campanello suona in una stanza. Aprono la porta: una cucina ben curata e ordinata. Su un muro c'è un **montavivande** con attaccato un piccolo campanello. Dietro un'altra porta sentono dei colpi. Provano ad aprirla, ma è chiusa. **Xenia** cerca di mettere in risalto le sue doti da scassinatrice, ma invano. Quando **[[Luth]]** si avvicina alla porta, questa si apre da sola.
 
-Decidono di chiamare i due bambini per fare loro alcune domande, ma la porta d'ingresso è chiusa. Alle spalle di Luth, anche quella del corridoio. Non resta che sfondarle — e a questo ci pensa, senza troppa fatica, **Nezuko**.
+Decidono di chiamare i due bambini per fare loro alcune domande, ma la porta d'ingresso è chiusa. Alle spalle di Luth, anche quella del corridoio. Non resta che sfondarle — e a questo ci pensa, senza troppa fatica, **[[Nezuko]]**.
 
 ### Il Pranzo Impossibile
 
 Aperta la porta d'ingresso, si ritrovano di fronte a un **muro di nebbia**. Chiamano invano i due bambini: non rispondono.
 
-Trovano la sala da pranzo. È strano: la tavola è imbandita con ogni ben di Dio e il cibo è ancora caldo. Lo stomaco di Nezuko brontola e non ci pensa due volte ad azzannare una coscia sul tavolo, così come **Radagast**, mentre **Slap** assaggia un vino che sembra aperto da ormai troppo tempo — sta per andare a male. Il cibo sembra completamente insapore.
+Trovano la sala da pranzo. È strano: la tavola è imbandita con ogni ben di Dio e il cibo è ancora caldo. Lo stomaco di Nezuko brontola e non ci pensa due volte ad azzannare una coscia sul tavolo, così come **[[Radagast]]**, mentre **[[Slap]]** assaggia un vino che sembra aperto da ormai troppo tempo — sta per andare a male. Il cibo sembra completamente insapore.
 
 Escono dalla stanza, ma vengono richiamati da un trillo del campanello in cucina e da alcuni passi al piano di sopra. La casa scricchiola al passaggio del vento.
 
@@ -96,7 +96,7 @@ La stanza è per più di metà coperta d'acqua. Al centro, un **altare rialzato*
 
 Non appena mettono piede sulla piattaforma dell'altare, **tredici figure ammantate di nero** compaiono nella stanza, indicando tutte l'altare e recitando come una litania: *"Qualcuno deve morire."*
 
-**Randal**, salito sull'altare, non bada a ciò che le voci dicono e scende.
+**[[Randal]]**, salito sull'altare, non bada a ciò che le voci dicono e scende.
 
 Qualcosa trema nella stanza. Un **cumulo di carne e detriti** da un lato si alza e prende vita.
 

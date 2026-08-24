@@ -6,17 +6,17 @@
 
 ### La Partenza
 
-Preparati i bagagli, il gruppo esce da Barovia in direzione del castello. Randal è stranamente silenzioso durante il viaggio. Camminano alcune ore lasciandosi il villaggio alle spalle, sotto un cielo nuvoloso e una nebbia che non li abbandona mai.
+Preparati i bagagli, il gruppo esce da Barovia in direzione del castello. [[Randal]] è stranamente silenzioso durante il viaggio. Camminano alcune ore lasciandosi il villaggio alle spalle, sotto un cielo nuvoloso e una nebbia che non li abbandona mai.
 
 Arrivano a un fiume che taglia la valle in due, attraversato da un ponte di pietra.
 
 ### Il Rituale di Luth
 
-Vicino al ponte, Luth decide — con l'aiuto di Xenia — di eseguire uno strano rituale di caccia che aveva visto in passato, per cercare di canalizzare meglio le sue doti. Il gruppo non nota particolari differenze in lui, ma Nezuko si rende conto che nell'ombra il suo corpo sembra svanire come quello di un fantasma, come se diventasse lui stesso un'ombra.
+Vicino al ponte, [[Luth]] decide — con l'aiuto di Xenia — di eseguire uno strano rituale di caccia che aveva visto in passato, per cercare di canalizzare meglio le sue doti. Il gruppo non nota particolari differenze in lui, ma [[Nezuko]] si rende conto che nell'ombra il suo corpo sembra svanire come quello di un fantasma, come se diventasse lui stesso un'ombra.
 
 ### Il Bivacco Misterioso
 
-Accanto al ponte trovano un piccolo bivacco: un fuoco spento ormai da giorni, tracce di una o due persone al massimo e alcuni bastoncini piantati nel terreno. A prima vista non dicono nulla, ma Slap riesce a interpretare i segni: sembrano disposti a formare una qualche tipo di costellazione. La cosa intriga molto il bardo, che cerca di replicare i segni per poterli studiare più avanti.
+Accanto al ponte trovano un piccolo bivacco: un fuoco spento ormai da giorni, tracce di una o due persone al massimo e alcuni bastoncini piantati nel terreno. A prima vista non dicono nulla, ma [[Slap]] riesce a interpretare i segni: sembrano disposti a formare una qualche tipo di costellazione. La cosa intriga molto il bardo, che cerca di replicare i segni per poterli studiare più avanti.
 
 ### L'Incrocio
 
@@ -70,7 +70,7 @@ Madam Eva è stupita di questa nuova carta. Li congeda, dubbiosa.
 
 ### La Notte al Campo
 
-Mentre Radagast passa la notte in riva al lago ubriaco e Slap intorno al fuoco più o meno nelle stesse condizioni, gli altri vengono ospitati nelle tende. Randal e Nezuko affrontano una notte orribile: tremori e incubi, sudore freddo. La notte non è ristoratrice. Si svegliano al mattino più stanchi della sera prima, con crampi allo stomaco, un terribile mal di testa, gambe molli e una sensazione di malanno — ma con un'unica voglia: avere per colazione uno di quei meravigliosi pasticcini.
+Mentre [[Radagast]] passa la notte in riva al lago ubriaco e Slap intorno al fuoco più o meno nelle stesse condizioni, gli altri vengono ospitati nelle tende. Randal e Nezuko affrontano una notte orribile: tremori e incubi, sudore freddo. La notte non è ristoratrice. Si svegliano al mattino più stanchi della sera prima, con crampi allo stomaco, un terribile mal di testa, gambe molli e una sensazione di malanno — ma con un'unica voglia: avere per colazione uno di quei meravigliosi pasticcini.
 
 Prima di partire, cercano informazioni sulla vecchietta dei dolcetti. I Vistani li informano che una signora anziana su un carro è passata circa quattro giorni fa sulla strada in direzione Vallaki, ma non sanno se sia la persona che cercano.
 

@@ -12,7 +12,7 @@ Dopo essersi riposati, si dirigono verso il villaggio. Non appena arrivati, si r
 
 Ma qualcosa cambia quando sentono nell'aria un **delizioso profumo**. Con le pance che brontolano, a digiuno dal giorno prima, seguono l'odore e incontrano una **vecchia** che trascina un carretto di dolciumi.
 
-**Nezuko** non si fa scrupoli: ne afferra uno, e si rende conto che probabilmente è la cosa più buona che abbia mai assaggiato in vita sua. **Randal** lo ferma e si offre di comprarne alcuni.
+**[[Nezuko]]** non si fa scrupoli: ne afferra uno, e si rende conto che probabilmente è la cosa più buona che abbia mai assaggiato in vita sua. **[[Randal]]** lo ferma e si offre di comprarne alcuni.
 
 Randal, Nezuko e **Radagast** li mangiano. Sono tutti della stessa opinione: paradisiaci. Anche se il prezzo è notevole, sarebbero quasi disposti a comprarli tutti.
 
@@ -22,7 +22,7 @@ La gentile vecchietta li saluta, sperando di rivederli ancora, e indica loro la 
 
 La locanda è nel centro del villaggio. Semi deserta e tetra, ospita solamente due tavoli occupati: uno con un **giovane riverso sul tavolo**, e uno con **tre donne** dai vestiti e accessori sgargianti che quasi stonano in questo luogo tetro.
 
-**Radagast** non perde tempo e si siede con le tre donne. Loro sembrano prendersi gioco dello stregone e sono meravigliate di vedere tante razze "strane" nel gruppo. Lui le invita ai loro spettacoli del circo, ma la loro reazione è strana.
+**[[Radagast]]** non perde tempo e si siede con le tre donne. Loro sembrano prendersi gioco dello stregone e sono meravigliate di vedere tante razze "strane" nel gruppo. Lui le invita ai loro spettacoli del circo, ma la loro reazione è strana.
 
 — *Qui a Barovia non esiste alcun circo. E se siete qui, non potrete più tornare indietro.*
 
@@ -60,7 +60,7 @@ Alla fine, la ragazza propone un **accordo**: lo lascerà andare solo se accette
 
 ### Il Villaggio
 
-**Slap** e **Randal** escono dalla locanda. Mentre il bardo suona la sua musica, osservano il villaggio. Poche persone, qua e là, camminano frettolosamente. Una si avvicina: vestita con abiti viola sgargianti, un turbante, pesantemente truccato — sia occhi che viso. Entra in locanda, si fa consegnare una bottiglia di vino e del cibo, e se ne va.
+**[[Slap]]** e Randal escono dalla locanda. Mentre il bardo suona la sua musica, osservano il villaggio. Poche persone, qua e là, camminano frettolosamente. Una si avvicina: vestita con abiti viola sgargianti, un turbante, pesantemente truccato — sia occhi che viso. Entra in locanda, si fa consegnare una bottiglia di vino e del cibo, e se ne va.
 
 ### Il Cancello Chiuso
 
@@ -72,7 +72,7 @@ Fuggono, non inseguiti dal branco, per tornare al villaggio.
 
 Tornati in taverna, incontrano una delle ragazze che accusa Radagast di **tentato stupro** ai danni di sua sorella. Questo sarebbe il motivo per cui lo hanno minacciato. Lo stregone tenta di difendersi in ogni modo, ma la versione di un'altra delle sorelle sembrerebbe confermare la cosa. Solo il patto che hanno stretto potrebbe ripagare in parte ciò che hanno subito.
 
-Fanno visita a **Ismark nella sua casa**. Qui fanno la conoscenza di sua sorella **IREENA KOLYANA**, una bellissima giovane ragazza in lutto per la morte del padre. **Luth** la osserva attentamente. Nella lettera trovata in precedenza, avevano letto che la ragazza era ferita, ma non ne trovano traccia, e lei smentisce quanto letto.
+Fanno visita a **Ismark nella sua casa**. Qui fanno la conoscenza di sua sorella **IREENA KOLYANA**, una bellissima giovane ragazza in lutto per la morte del padre. **[[Luth]]** la osserva attentamente. Nella lettera trovata in precedenza, avevano letto che la ragazza era ferita, ma non ne trovano traccia, e lei smentisce quanto letto.
 
 Ismark racconta quello che sa sui **Vistani**, un popolo nomade che vive nelle terre di Barovia. Per qualche motivo, sembrerebbe che siano in grado di lasciare questo luogo. Voci dicono che siano in combutta con il "diavolo", o che abbiano stretto qualche oscuro patto con lui, ma non ha idea se tutto ciò sia vero o meno. Non sa nemmeno indicare dove poterli trovare.
 

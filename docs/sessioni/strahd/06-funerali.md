@@ -10,7 +10,7 @@ Il gruppo si reca al **cimitero**, dove un piccolo numero di persone si è radun
 
 Durante la funzione arriva una **carrozza**. Ne scende un uomo. **Ireena** si dirige verso di lui, riceve una lettera, la legge, la getta a terra e **scappa via**.
 
-**Nezuko** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **Rahadin**, ed è stato mandato dal **Conte Strahd Von Zarovich**. Dà il benvenuto in Barovia, si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
+**[[Nezuko]]** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **Rahadin**, ed è stato mandato dal **Conte Strahd Von Zarovich**. Dà il benvenuto in Barovia, si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
 
 ### L'Invito
 
@@ -32,7 +32,7 @@ Le anime di coloro che, negli anni, hanno provato ad opporsi alla tirannia di St
 
 ### La Tentazione
 
-Nel frattempo, **Randal** è in prigione a pregare. Viene avvicinato da qualcuno che si presenta come **Arik**, il taverniere. Arik è rimasto impressionato dal fatto che finalmente qualcuno abbia trovato il coraggio di fronteggiare gentaglia come Radu. Gli offre la **chiave per la libertà**, esortandolo a riflettere su come i suoi amici, invece di aiutarlo, siano beatamente con Ismark — il suo aguzzino. Lo avvisa che la sua fuga potrebbe salvare Ireena, in imminente pericolo.
+Nel frattempo, **[[Randal]]** è in prigione a pregare. Viene avvicinato da qualcuno che si presenta come **Arik**, il taverniere. Arik è rimasto impressionato dal fatto che finalmente qualcuno abbia trovato il coraggio di fronteggiare gentaglia come Radu. Gli offre la **chiave per la libertà**, esortandolo a riflettere su come i suoi amici, invece di aiutarlo, siano beatamente con Ismark — il suo aguzzino. Lo avvisa che la sua fuga potrebbe salvare Ireena, in imminente pericolo.
 
 Randal **rifiuta**. Getta via la chiave. Il suo cuore e la sua anima sono distrutti. Non trova motivazioni per andare avanti.
 
