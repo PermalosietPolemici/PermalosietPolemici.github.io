@@ -13,9 +13,9 @@ Questa è la cronaca della campagna dei **Permalosi & Polemici** (P&P), un grupp
 Qui troverete:
 
 - 🧙 **[Personaggi](/pg/)** — chi sono, da dove vengono, cosa sanno fare
-- 🏰 **Lore** — città, regioni, storia del mondo
-- ⚔️ **Fazioni** — gilde, ordini, poteri in gioco
-- 🎭 **PNG** — le facce che incontrate
+- 🏰 **[Lore](/lore/)** — città, regioni, storia del mondo
+- ⚔️ **[Fazioni](/fazioni/)** — gilde, ordini, poteri in gioco
+- 🎭 **[PNG](/png/)** — le facce che incontrate
 - 📝 **[Sessioni](/sessioni/)** — riassunti di ogni incontro
 
 ---
