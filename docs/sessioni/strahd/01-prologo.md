@@ -44,7 +44,7 @@ In effetti Randal non è il tipo da fare certe cose, ma ahimè la gioventù port
 
 — *Ma la colpa è di certo di quei due* — dice indicando Slap e Radagast con il bastone.
 
-I due non fanno una piega, sapendo che discutere con Naso è pressoché inutile.
+I due non fanno una piega, sapendo che discutere con [Naso](<../../../png/strahd/#naso>) è pressoché inutile.
 
 ### I Lavori del Giorno
 
@@ -60,7 +60,7 @@ Il solo sentire quel nome gli fa venire i brividi.
 
 ### Il Colloquio con Maddok
 
-Nezuko si siede dentro la tenda su una sedia troppo piccola e guarda in silenzio la creatura davanti a sé. Sa che la condizione imprescindibile per la sua permanenza al circo è affrontare questi saltuari colloqui. Gli occhi di **Maddok** lo scrutano, come se riuscissero a guardare nel profondo. Ha sempre odiato quegli occhi accusatori privi di palpebre. Non riesce mai a decifrare cosa stia pensando.
+Nezuko si siede dentro la tenda su una sedia troppo piccola e guarda in silenzio la creatura davanti a sé. Sa che la condizione imprescindibile per la sua permanenza al circo è affrontare questi saltuari colloqui. Gli occhi di **[Maddok](<../../../png/strahd/#maddok>)** lo scrutano, come se riuscissero a guardare nel profondo. Ha sempre odiato quegli occhi accusatori privi di palpebre. Non riesce mai a decifrare cosa stia pensando.
 
 Maddok è seduto dietro un piccolo tavolo su una sedia di legno che tanto ricorda un seggiolone da bambini — e questa cosa gli ha sempre fatto un po' sorridere. Davanti a lui, sul tavolo, una piccola lavagnetta con dei gessetti colorati.
 
@@ -76,7 +76,7 @@ Maddok è un **Kenku**, medico locale particolarmente capace di curare le ferite
 
 ### La Routine
 
-**[[Luth]]** torna al tendone degli acrobati, dove spera un giorno di esibirsi e mostrare le sue ineffabili doti. Ogni volta che si immagina quel momento è terrorizzato e nello stesso tempo galvanizzato. Chissà cosa si prova ad avere tutti quegli occhi addosso, pensa spesso. **Xenia** è già più avvezza a calcare il palco. Le doti dei due sono molto simili, ma ciò che li distingue è la capacità di stare davanti a un pubblico, di inebriarsi degli applausi e non perdere la concentrazione. La rivalità tra i due è a volte palpabile. **Baffo**, il mastro acrobata, tratta tutti allo stesso modo — ma questo a Xenia non va molto giù, e in più di un'occasione si è messa in mostra per far valere le sue doti.
+**[[Luth]]** torna al tendone degli acrobati, dove spera un giorno di esibirsi e mostrare le sue ineffabili doti. Ogni volta che si immagina quel momento è terrorizzato e nello stesso tempo galvanizzato. Chissà cosa si prova ad avere tutti quegli occhi addosso, pensa spesso. **[Xenia](<../../../png/strahd/#xenia>)** è già più avvezza a calcare il palco. Le doti dei due sono molto simili, ma ciò che li distingue è la capacità di stare davanti a un pubblico, di inebriarsi degli applausi e non perdere la concentrazione. La rivalità tra i due è a volte palpabile. **Baffo**, il mastro acrobata, tratta tutti allo stesso modo — ma questo a Xenia non va molto giù, e in più di un'occasione si è messa in mostra per far valere le sue doti.
 
 **Radagast** e **Slap** sembrano in qualche modo spiriti affini. Entrambi amano l'alcool e le belle donne, anche se con risultati ben diversi: mentre Radagast racconta continuamente delle sue conquiste amorose e degli inseguimenti dei mariti gelosi, Slap racconta perlopiù dei suoi fallimenti e dell'inseguimento di donne adirate con qualsivoglia oggetto in mano a mo' di bastone. Svolgono i lavori più umili, ma sempre con quel sorriso sulle labbra che li contraddistingue.
 
@@ -156,7 +156,7 @@ Non comprendono appieno il significato di queste parole, ma in fondo non sono ne
 
 ## NPC Incontrati
 
-- **Naso** — Agente teatrale e responsabile marketing del Witchlight Carnival. Tyrannico ma efficace.
+- **Naso** — Agente teatrale e responsabile marketing del [Witchlight Carnival](<../../../lore/strahd/#witchlight-carnival>). Tyrannico ma efficace.
 - **Maddok** — Kenku medico del circo. Comunica scrivendo su una lavagnetta. Capace di curare ferite del corpo e dell'anima.
 - **Xenia** — Acrobata del circo. Ex-PG, presto divenuta PNG. Rivaleggia con Luth.
 - **Baffo** — Mastro acrobata del circo.
@@ -169,7 +169,7 @@ Non comprendono appieno il significato di queste parole, ma in fondo non sono ne
 - Naso li manda a consegnare volantini nella città vicina
 - Attraversano una muraglia di pietra con cancelli che si aprono da soli
 - Attacco di lupi nel bosco, incluso un lupo gigante
-- Trovano la lettera del borgomastro di Barovia sul cadavere di un uomo
+- Trovano la lettera del borgomastro di [Barovia](<../../../lore/strahd/#barovia>) sul cadavere di un uomo
 - Prima menzione di Barovia, del male e della figlia adottiva ferita
 
 ---

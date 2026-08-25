@@ -36,7 +36,7 @@ Il gruppo si accampa fuori dal mulino. Randal ha una crisi e sviene. Laszlo gli 
 
 Ne scende **[Xenia](<../../../png/strahd/#xenia>)**. La sua permanenza al castello è stata breve: non ha scoperto molto, ma il Conte è stato benevolo nel concederle di tornare.
 
-Il giorno dopo, il viaggio riprende verso Vallaki.
+Il giorno dopo, il viaggio riprende verso [Vallaki](<../../../lore/strahd/#vallaki>).
 
 ---
 
@@ -52,7 +52,7 @@ Il giorno dopo, il viaggio riprende verso Vallaki.
 - Il profumo dei pasticcini e l'offerta della vecchia
 - Scoperta del tempio sotterraneo sigillato
 - Randal ha una crisi dopo aver mangiato il dolce
-- Ritorno di Xenia da [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)
+- Ritorno di [Xenia](<../../../png/strahd/#xenia>) da [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)
 - Il gruppo riparte verso Vallaki
 
 ---

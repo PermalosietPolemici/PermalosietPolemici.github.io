@@ -6,9 +6,9 @@
 
 ### L'Ingresso al Tempio
 
-Dopo Berez, il gruppo si separa. **Ezmeralda**, **Rina** e **Gnemo** si dirigono dai druidi di Yester Hill. Il resto del gruppo va a **Berez** per affrontare [Baba Lysaga](<../../../png/strahd/#baba-lysaga>).
+Dopo [Berez](<../../../lore/strahd/#berez>), il gruppo si separa. **[Ezmeralda](<../../../png/strahd/#ezmeralda>)**, **[Rina](<../../../png/strahd/#rina>)** e **[Gnemo](<../../../png/strahd/#gnemo>)** si dirigono dai druidi di [Yester Hill](<../../../lore/strahd/#yester-hill>). Il resto del gruppo va a **Berez** per affrontare [Baba Lysaga](<../../../png/strahd/#baba-lysaga>).
 
-Ma prima, il Tempio d'Ambra li chiama. Attraverso un braciere magico a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>), **[[Nezuko]]** viene teletrasportato in cima a un picco innevato. Davanti a lui, un tempio scolpito nella parete rocciosa: **Il Tempio d'Ambra**.
+Ma prima, il [Tempio d'Ambra](<../../../lore/strahd/#tempio-ambra>) li chiama. Attraverso un braciere magico a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>), **[[Nezuko]]** viene teletrasportato in cima a un picco innevato. Davanti a lui, un tempio scolpito nella parete rocciosa: **Il Tempio d'Ambra**.
 
 ### I Poteri Oscuri
 
@@ -26,7 +26,7 @@ Il resto del gruppo viene teletrasportato al **Passo Tsolenka**, dove affrontano
 
 ### Escher e Nefron
 
-Escher, aiutato da una creatura chiamata **Nefron**, combatte il gruppo. La battaglia nelle sale del tempio è furiosa. Escher invoca progenie vampiriche e una delle creature dall'ambra.
+[Escher](<../../../png/strahd/#escher>), aiutato da una creatura chiamata **Nefron**, combatte il gruppo. La battaglia nelle sale del tempio è furiosa. Escher invoca progenie vampiriche e una delle creature dall'ambra.
 
 Alla fine, la luce solare di **[[Randal]]** indebolisce il vampiro, che cade e si dissolve in nebbia.
 
@@ -34,20 +34,20 @@ Alla fine, la luce solare di **[[Randal]]** indebolisce il vampiro, che cade e s
 
 Il gruppo incontra **Exethannder**, un lich che lavorò come architetto per [Strahd](<../../../png/strahd/#strahd-von-zarovich>). La sua memoria è deteriorata dal tempo, ma **[[Laszlo]]** riesce a curarlo parzialmente.
 
-Il lich rivela che Strahd è appena giunto al tempio. Il gruppo decide di aspettare che vada via.
+Il lich rivela che [Strahd](<../../../png/strahd/#strahd-von-zarovich>) è appena giunto al tempio. Il gruppo decide di aspettare che vada via.
 
 ### Il Tomo di Strahd
 
-Nella stanza dell'architetto, trovano un **modellino di Castle Ravenloft**. All'interno, un tomo di pelle nera — le **memorie di Strahd**. Il gruppo viene risucchiato nei ricordi:
+Nella stanza dell'architetto, trovano un **modellino di [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)**. All'interno, un tomo di pelle nera — le **memorie di Strahd**. Il gruppo viene risucchiato nei ricordi:
 
-- **Baba Lysaga** alleva il piccolo Strahd.
+- **[Baba Lysaga](<../../../png/strahd/#baba-lysaga>)** alleva il piccolo Strahd.
 - **Re Barov** la caccia, lei maledice la famiglia.
 - L'**assalto ad [Argynvostholt](<../../../lore/strahd/#argynvostholt>)**.
 - La **conquista della valle**.
 
 ### Il Ritorno
 
-**Ezmeralda** prepara un rituale di teletrasporto che li riporta alla torre di Baratok. Qui trovano il corpo di **[Van Richten](<../../../png/strahd/#van-richten>)**, morto durante l'assedio della torre. Ha lasciato una lettera per Ezmeralda con le sue ultime scoperte: Strahd aveva una sorellastra, **Katarina** (Madam Eva), il cui dono della preveggenza è stato tramandato nei Vistani.
+**Ezmeralda** prepara un rituale di teletrasporto che li riporta alla [torre di Baratok](<../../../lore/strahd/#torre-van-richten>). Qui trovano il corpo di **[Van Richten](<../../../png/strahd/#van-richten>)**, morto durante l'assedio della torre. Ha lasciato una lettera per Ezmeralda con le sue ultime scoperte: Strahd aveva una sorellastra, **Katarina** ([Madam Eva](<../../../png/strahd/#madam-eva>)), il cui dono della preveggenza è stato tramandato nei [Vistani](<../../../fazioni/strahd/#vistani>).
 
 ### La Battaglia Finale per Berez
 
@@ -57,11 +57,11 @@ La strega cade. Il teschio di Argynvost e la tunica di Baba Lysaga vengono recup
 
 ### Argynvost
 
-Il gruppo riporta il **teschio di Argynvost** ad Argynvostholt. **[Vladimir](<../../../png/strahd/#vladimir>)** li attacca furiosamente. Il drago si anima, accecato da un'oscura furia.
+Il gruppo riporta il **teschio di Argynvost** ad [Argynvostholt](<../../../lore/strahd/#argynvostholt>). **[Vladimir](<../../../png/strahd/#vladimir>)** li attacca furiosamente. Il drago si anima, accecato da un'oscura furia.
 
 Dopo una battaglia brutale, il drago cade. L'**anima di Argynvost** si stacca dal corpo corrotto, ringrazia il gruppo e si dirige al faro, che si accende illuminando di speranza l'intera valle.
 
-Vladimir si redime. I cavalieri d'argento diventano alleati del gruppo.
+[Vladimir](<../../../png/strahd/#vladimir>) si redime. I [cavalieri d'argento](<../../../fazioni/strahd/#cavalieri-dargento>) diventano alleati del gruppo.
 
 ---
 
@@ -80,7 +80,7 @@ Vladimir si redime. I cavalieri d'argento diventano alleati del gruppo.
 - Nezuko sigla un patto con i dark power
 - Battaglia contro Escher nel Tempio d'Ambra
 - Scoperta del Tomo di Strahd
-- Morte di Van Richten
+- Morte di [Van Richten](<../../../png/strahd/#van-richten>)
 - Battaglia finale a Berez: Baba Lysaga cade
 - Il teschio di Argynvost torna al faro
 - I cavalieri d'argento diventano alleati

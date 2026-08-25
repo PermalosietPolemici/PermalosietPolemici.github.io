@@ -10,7 +10,7 @@ Dopo aver salvato il vino al Mago dei Vini, il gruppo segue le tracce dell'enorm
 
 ### L'Incontro con Strahd
 
-Sulla cima della collina, **Strahd** li attende. Li invita a seguirlo. **Sarek** e **[Kasimir](<../../../png/strahd/#kasimir>)** si rifiutano. Strahd, senza esitare, scaglia i suoi vampiri su di loro.
+Sulla cima della collina, **[Strahd](<../../../png/strahd/#strahd-von-zarovich>)** li attende. Li invita a seguirlo. **[Sarek](<../../../png/strahd/#sarek>)** e **[Kasimir](<../../../png/strahd/#kasimir>)** si rifiutano. Strahd, senza esitare, scaglia i suoi vampiri su di loro.
 
 Mentre le creature non morte attaccano, [Strahd](<../../../png/strahd/#strahd-von-zarovich>) chiede al gruppo di seguirlo e non badare a ciò che accade. Attraversano la collina e vedono druidi costruire croci di legno.
 
@@ -18,9 +18,9 @@ Strahd li porta dalla parte opposta, dove un **muro di nebbia** forma immagini c
 
 ### La Punizione
 
-Sarek e Kasimir vengono abbattuti dai vampiri. Strahd fa crocifiggere entrambi, insieme ad **[Anastrasya](<../../../png/strahd/#anastrasya>)** che ha agito di sua iniziativa a Vallaki. Resteranno lì per un anno, curati dai druidi.
+Sarek e [Kasimir](<../../../png/strahd/#kasimir>) vengono abbattuti dai vampiri. Strahd fa crocifiggere entrambi, insieme ad **[Anastrasya](<../../../png/strahd/#anastrasya>)** che ha agito di sua iniziativa a [Vallaki](<../../../lore/strahd/#vallaki>). Resteranno lì per un anno, curati dai druidi.
 
-Strahd chiede notizie di **[Van Richten](<../../../png/strahd/#van-richten>)**. **[[Nezuko]]**, ingenuamente, racconta tutto. Poi Strahd chiede al gruppo di recuperare la **testa rimpicciolita** dalla torre di Baratok.
+Strahd chiede notizie di **[Van Richten](<../../../png/strahd/#van-richten>)**. **[[Nezuko]]**, ingenuamente, racconta tutto. Poi Strahd chiede al gruppo di recuperare la **testa rimpicciolita** dalla [torre di Baratok](<../../../lore/strahd/#torre-van-richten>).
 
 Rinnova la sua offerta a **[[Laszlo]]** di diventare signore dei druidi. Laszlo rifiuta, ma Strahd non accetta il rifiuto — gli dà tempo per pensarci.
 
@@ -44,13 +44,13 @@ Sconfitti i nemici, **[Sarek](<../../../png/strahd/#sarek>)** decide di prosegui
 
 ---
 
-**Lasciate così Yester Hill** per fare ritorno al vigneto.
+**Lasciate così [Yester Hill](<../../../lore/strahd/#yester-hill>)** per fare ritorno al vigneto.
 
 ---
 
 ## NPC Incontrati
 
-- **Strahd** — Si rivela sulla collina. Punisce Anastrasya, Sarek e Kasimir.
+- **Strahd** — Si rivela sulla collina. Punisce [Anastrasya](<../../../png/strahd/#anastrasya>), Sarek e Kasimir.
 - **I Druidi di Yester Hill** — Seguaci di Strahd. Costruiscono croci e custodiscono l'albero.
 
 ---

@@ -22,11 +22,11 @@ Accanto al ponte trovano un piccolo bivacco: un fuoco spento ormai da giorni, tr
 
 La marcia prosegue per alcune ore attraverso il bosco, finché la strada li porta a un incrocio. Un piccolo spiazzo, un piccolo cimitero con tombe senza nome e un patibolo con una corda penzolante mossa dal vento.
 
-Al centro dell'incrocio, un'insegna con due indicazioni: a sud, verso **Vallaki**; l'altra, verso la **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**.
+Al centro dell'incrocio, un'insegna con due indicazioni: a sud, verso **[Vallaki](<../../../lore/strahd/#vallaki>)**; l'altra, verso la **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**.
 
 Slap entra nel cimitero ed esamina le tombe. Una mano esce dal terreno e afferra la sua gamba — Luth corre in suo aiuto, ma si rende conto che è semplicemente rimasto incastrato in una radice. Questo ambiente gioca brutti scherzi alla mente.
 
-Un **corvo con la punta delle ali blu** si posa sul cartello e inizia a picchiettare con il becco il cartello che indica la Polla di Tser. Lo hanno già visto. Luth prova a comunicare con la magia, senza successo. Anche Nezuko prova, intimorito dagli occhi dell'animale che gli ricordano quelli di [Maddok](<../../../png/strahd/#maddok>). Il corvo vola via.
+Un **corvo con la punta delle ali blu** si posa sul cartello e inizia a picchiettare con il becco il cartello che indica la [Polla di Tser](<../../../lore/strahd/#polla-di-tser>). Lo hanno già visto. Luth prova a comunicare con la magia, senza successo. Anche Nezuko prova, intimorito dagli occhi dell'animale che gli ricordano quelli di [Maddok](<../../../png/strahd/#maddok>). Il corvo vola via.
 
 Mentre proseguono, Slap si volta per guardare indietro e vede il **suo stesso cadavere appeso alla forca**.
 
@@ -38,9 +38,9 @@ Lungo la strada, alcune creature arboree li attaccano. Randal riprende coscienza
 
 Il viaggio prosegue fino a sera, quando una musica gioviale e un buon profumino di cibo li attirano verso un lago, dove trovano un **accampamento [Vistani](<../../../fazioni/strahd/#vistani>)**.
 
-I Vistani, senza porsi troppe domande, li trascinano in una serata fatta di danze e buon cibo. Poi inizia la conversazione: il gruppo cerca di capire chi sia questo popolo, che rapporti abbia con [Strahd](<../../../png/strahd/#strahd-von-zarovich>) e come mai siano gli unici che sembrano poter lasciare Barovia.
+I [Vistani](<../../../fazioni/strahd/#vistani>), senza porsi troppe domande, li trascinano in una serata fatta di danze e buon cibo. Poi inizia la conversazione: il gruppo cerca di capire chi sia questo popolo, che rapporti abbia con [Strahd](<../../../png/strahd/#strahd-von-zarovich>) e come mai siano gli unici che sembrano poter lasciare [Barovia](<../../../lore/strahd/#barovia>).
 
-Uno dei vecchi racconta una storia di un passato lontano, quando Strahd non era che un principe guerriero. Venne salvato in fin di vita e protetto dai suoi nemici, ricondotto sano e salvo a casa. In segno di gratitudine, Strahd disse loro di sentirsi sempre i benvenuti e che avrebbero potuto andare e venire come volevano nelle sue terre. Questo antico patto sembra perdurare ancora oggi, nonostante la terribile maledizione che vige su questa terra e sul conte.
+Uno dei vecchi racconta una storia di un passato lontano, quando [Strahd](<../../../png/strahd/#strahd-von-zarovich>) non era che un principe guerriero. Venne salvato in fin di vita e protetto dai suoi nemici, ricondotto sano e salvo a casa. In segno di gratitudine, Strahd disse loro di sentirsi sempre i benvenuti e che avrebbero potuto andare e venire come volevano nelle sue terre. Questo antico patto sembra perdurare ancora oggi, nonostante la terribile maledizione che vige su questa terra e sul conte.
 
 I Vistani non sanno dire molto altro: queste sono antiche leggende tramandate dai nonni dei loro nonni.
 
@@ -60,7 +60,7 @@ Gira cinque carte sul tavolo e, una ad una, inizia a parlare:
 
 5. **La Nebbia** — Questa carta non permette alla veggente di vedere oltre.
 
-Madam Eva non dà ulteriori spiegazioni: dice solo ciò che le carte vogliono. Quella notte saranno suoi ospiti, al sicuro dai pericoli del bosco.
+[Madam Eva](<../../../png/strahd/#madam-eva>) non dà ulteriori spiegazioni: dice solo ciò che le carte vogliono. Quella notte saranno suoi ospiti, al sicuro dai pericoli del bosco.
 
 Poco prima che stiano per andare via, li richiama: le carte non hanno finito. Stranamente, ce n'è un'altra che vuole farsi sentire. Mette sul tavolo una nuova carta:
 

@@ -6,7 +6,7 @@
 
 ### La Richiesta di Danika
 
-Prima di lasciare Vallaki, **Danika** ricorda al gruppo la richiesta di andare a recuperare le scorte di vino alla **Wizard of Wines**, il vigneto che rifornisce tutta [Barovia](<../../../lore/strahd/#barovia>). Le scorte stanno terminando.
+Prima di lasciare [Vallaki](<../../../lore/strahd/#vallaki>), **[Danika](<../../../png/strahd/#danika-martikov>)** ricorda al gruppo la richiesta di andare a recuperare le scorte di vino alla **Wizard of Wines**, il vigneto che rifornisce tutta [Barovia](<../../../lore/strahd/#barovia>). Le scorte stanno terminando.
 
 ### Il Viaggio Verso Krezk
 
@@ -16,7 +16,7 @@ Il gruppo lascia [Vallaki](<../../../lore/strahd/#vallaki>) di notte, diretto ve
 
 Arrivati al vigneto, incontrano il vecchio **Daviani Martikov**. Il vigneto è stato invaso da druidi malvagi con un'orda di creature arboree.
 
-Daviani spiega il segreto del vigneto: **tre gemme magiche** create nell'antichità erano sepolte nel terreno per renderlo fertile. Una è stata rubata dieci anni fa da un certo **[Escher](<../../../png/strahd/#escher>)**. La seconda è stata rubata un anno fa da spaventapasseri provenienti da **Berez**. Ora i druidi cercano la terza. Se la troveranno, il vino di Barovia sarà perduto per sempre.
+Daviani spiega il segreto del vigneto: **tre gemme magiche** create nell'antichità erano sepolte nel terreno per renderlo fertile. Una è stata rubata dieci anni fa da un certo **[Escher](<../../../png/strahd/#escher>)**. La seconda è stata rubata un anno fa da spaventapasseri provenienti da **[Berez](<../../../lore/strahd/#berez>)**. Ora i druidi cercano la terza. Se la troveranno, il vino di [Barovia](<../../../lore/strahd/#barovia>) sarà perduto per sempre.
 
 ### L'Assalto alla Vineria
 
@@ -57,7 +57,7 @@ Il gruppo recupera del vino e riparte verso **[Krezk](<../../../lore/strahd/#kre
 - Scoperta delle tre gemme magiche
 - Battaglia alla vineria e crollo dell'edificio
 - Scoperta del Totem del Corvo
-- La storia dei Custodi delle Piume
+- La storia dei [Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>)
 
 ---
 

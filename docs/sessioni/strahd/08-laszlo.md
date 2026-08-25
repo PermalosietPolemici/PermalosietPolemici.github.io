@@ -16,13 +16,13 @@ Seguendo il bagliore, si addentrano nel sottobosco e scoprono una radura che osp
 
 Liberata l'area dagli insetti, il gruppo fa la conoscenza della figura nel cerchio.
 
-È **[[Laszlo]]**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in Barovia dai Vistani stessi. Ha incontrato [Madam Eva](<../../../png/strahd/#madam-eva>), e con lei ha condiviso parte della sua conoscenza divinatoria.
+È **[[Laszlo]]**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in [Barovia](<../../../lore/strahd/#barovia>) dai [Vistani](<../../../fazioni/strahd/#vistani>) stessi. Ha incontrato [Madam Eva](<../../../png/strahd/#madam-eva>), e con lei ha condiviso parte della sua conoscenza divinatoria.
 
 Il suo arrivo a [Barovia](<../../../lore/strahd/#barovia>) è recente, eppure il fato lo ha già messo sulla strada giusta: è in cerca di una **stella in particolare** — una stella sopita, come la chiama lui — ma il cielo di Barovia, perennemente coperto dalle nebbie, non lascia molto spazio alla sua ricerca.
 
 ### Un Invito Inaspettato
 
-Durante la conversazione emerge un dettaglio che fa scattare qualcosa: anche Laszlo è stato **invitato al castello da [Rahadin](<../../../png/strahd/#rahadin>)**, il sinistro ciambellano di Strahd. La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
+Durante la conversazione emerge un dettaglio che fa scattare qualcosa: anche Laszlo è stato **invitato al castello da [Rahadin](<../../../png/strahd/#rahadin>)**, il sinistro ciambellano di [Strahd](<../../../png/strahd/#strahd-von-zarovich>). La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
 
 Una coincidenza che non lascia spazio a dubbi. I destini del gruppo e del veggente si intrecciano proprio mentre si preparano a varcare le soglie di [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>). Laszlo si unisce a loro, e il gruppo accoglie un nuovo compagno.
 
@@ -36,13 +36,13 @@ Nessun cocchiere alla guida. I cavalli, neri e impassibili, sanno perfettamente 
 
 ### Il Ponte Levatoio
 
-Un grosso ponte levatoio li separa dal castello, altrimenti inaccessibile dati i precipizi che lo circondano. La carrozza lo attraversa senza rallentare, e il gruppo si trova davanti all'ingresso di Castle Ravenloft.
+Un grosso ponte levatoio li separa dal castello, altrimenti inaccessibile dati i precipizi che lo circondano. La carrozza lo attraversa senza rallentare, e il gruppo si trova davanti all'ingresso di [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>).
 
 Ad accoglierli c'è **Cyrus**, una creatura che sembra il risultato di qualche sorta di esperimento: il suo corpo è formato da parti di più creature diverse cucite insieme. Un'orribile sentinella che li invita ad entrare.
 
 ### L'Accoglienza di Rahadin
 
-All'interno, **Rahadin** li attende. Il suo tono è misurato, ma la sua presenza incute timore. Ricorda loro che la cena sarà formale e che richiede una certa etichetta. I loro vestiti sono inadatti all'occasione, così come la loro igiene dopo giorni di viaggio.
+All'interno, **[Rahadin](<../../../png/strahd/#rahadin>)** li attende. Il suo tono è misurato, ma la sua presenza incute timore. Ricorda loro che la cena sarà formale e che richiede una certa etichetta. I loro vestiti sono inadatti all'occasione, così come la loro igiene dopo giorni di viaggio.
 
 Vengono invitati a lavarsi e cambiarsi. Abiti adatti sono stati scelti e preparati per ciascuno di loro.
 

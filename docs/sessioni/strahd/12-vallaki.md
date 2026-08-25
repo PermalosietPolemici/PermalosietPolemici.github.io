@@ -6,27 +6,27 @@
 
 ### I Cancelli di Vallaki
 
-Dopo un'ora di cammino, il gruppo arriva ai cancelli di **[Vallaki](<../../../lore/strahd/#vallaki>)**. Le guardie fermano il gruppo e illustrano le regole: pronunciare o scrivere il nome di Strahd è vietato. In città vengono effettuati festival per tenere alto il morale, e tutti sono tenuti a partecipare.
+Dopo un'ora di cammino, il gruppo arriva ai cancelli di **[Vallaki](<../../../lore/strahd/#vallaki>)**. Le guardie fermano il gruppo e illustrano le regole: pronunciare o scrivere il nome di [Strahd](<../../../png/strahd/#strahd-von-zarovich>) è vietato. In città vengono effettuati festival per tenere alto il morale, e tutti sono tenuti a partecipare.
 
 ### La Chiesa e la Locanda
 
-La chiesa di **Sant'Andral** è chiusa. Un cartello segna gli orari delle funzioni. Mancano ore, così si dirigono alla **Blue Water Inn**, l'unica locanda in città.
+La chiesa di **[Sant'Andral](<../../../fazioni/strahd/#chiesa-santandral>)** è chiusa. Un cartello segna gli orari delle funzioni. Mancano ore, così si dirigono alla **Blue Water Inn**, l'unica locanda in città.
 
 Nella piazza principale, gogne sorvegliate ospitano prigionieri con maschere da asino — la punizione per chi infrange la legge.
 
-In locanda vengono accolti da **[Danika](<../../../png/strahd/#danika-martikov>)** e **Urlick**, i proprietari, che sembravano aspettarli. **Vasili** ha lasciato per loro un pranzo pagato per scusarsi del malinteso.
+In locanda vengono accolti da **[Danika](<../../../png/strahd/#danika-martikov>)** e **Urlick**, i proprietari, che sembravano aspettarli. **[Vasili](<../../../png/strahd/#vasili-von-holtz>)** ha lasciato per loro un pranzo pagato per scusarsi del malinteso.
 
 ### Rictavio e Izek
 
-Un curioso **bardo di nome [Rictavio](<../../../png/strahd/#rictavio>)** si avvicina. Sembra simpatico e lega subito con loro. Viene da fuori Barovia e lavora per un circo. Li mette in guardia su **Izek**, il capitano delle guardie: un uomo rigido, pieno di sé.
+Un curioso **bardo di nome [Rictavio](<../../../png/strahd/#rictavio>)** si avvicina. Sembra simpatico e lega subito con loro. Viene da fuori [Barovia](<../../../lore/strahd/#barovia>) e lavora per un circo. Li mette in guardia su **Izek**, il capitano delle guardie: un uomo rigido, pieno di sé.
 
-**Bran**, il figlio dei locandieri, si avvicina a Randal chiedendo una moneta. Randal rifiuta e nota una vecchia bambola che il bambino tiene. Gliel'ha fatta **Blinsky**, il giocattolaio di Vallaki.
+**Bran**, il figlio dei locandieri, si avvicina a Randal chiedendo una moneta. Randal rifiuta e nota una vecchia bambola che il bambino tiene. Gliel'ha fatta **Blinsky**, il giocattolaio di [Vallaki](<../../../lore/strahd/#vallaki>).
 
 ### L'Incontro con Izek
 
 Lungo la strada, il gruppo incontra **[Izek](<../../../png/strahd/#izek>) Strazni**. L'uomo è massiccio, con un mantello che copre il lato destro del corpo — un braccio deforme, artigliato, pieno di bubboni.
 
-Izek nota **Ireena** e la prende in custodia per portarla da **[Padre Lucian](<../../../png/strahd/#padre-lucian>)**, senza ascoltare ragioni. Le guardie la portano via.
+Izek nota **[Ireena](<../../../png/strahd/#ireena-kolyana>)** e la prende in custodia per portarla da **[Padre Lucian](<../../../png/strahd/#padre-lucian>)**, senza ascoltare ragioni. Le guardie la portano via.
 
 ### Il Giocattolaio e l'Orfanotrofio
 
@@ -34,17 +34,17 @@ Il gruppo si divide: **[[Randal]]**, **[[Radagast]]** e **[[Nezuko]]** restano n
 
 Scovano l'**orfanotrofio**, una vecchia costruzione a tre piani in condizioni fatiscenti.
 
-Il negozio di **Blinsky** è una macabra bottega di giocattoli: bambole con teste mozzate, pipistrelli volanti. Blinsky è un uomo sulla cinquantina, sovrappeso, con una scimmietta di nome **Piccolo**. Comprano alcuni giocattoli e scoprono che la scimmia è l'animale di Rictavio.
+Il negozio di **Blinsky** è una macabra bottega di giocattoli: bambole con teste mozzate, pipistrelli volanti. Blinsky è un uomo sulla cinquantina, sovrappeso, con una scimmietta di nome **Piccolo**. Comprano alcuni giocattoli e scoprono che la scimmia è l'animale di [Rictavio](<../../../png/strahd/#rictavio>).
 
 ### I Segreti della Città
 
-Luth, in taverna, riceve una strigliata da Danika per aver lasciato soli i bambini. Due cacciatori parlano di **bambini scomparsi** dall'orfanotrofio.
+Luth, in taverna, riceve una strigliata da [Danika](<../../../png/strahd/#danika-martikov>) per aver lasciato soli i bambini. Due cacciatori parlano di **bambini scomparsi** dall'orfanotrofio.
 
 **Slap** e Laszlo esplorano e trovano una **villa nobiliare** nel nord della città: la famiglia **Watcher**, oppositori del barone.
 
 ### Padre Lucian e le Ossa Rubate
 
-Alla funzione, il gruppo conosce **Padre Lucian**, un vecchio prete devoto. [Ireena](<../../../png/strahd/#ireena-kolyana>) potrà vivere a Vallaki protetta, ma la chiesa non è più un luogo sicuro: **le ossa di Sant'Andral** sono state rubate.
+Alla funzione, il gruppo conosce **[Padre Lucian](<../../../png/strahd/#padre-lucian>)**, un vecchio prete devoto. [Ireena](<../../../png/strahd/#ireena-kolyana>) potrà vivere a Vallaki protetta, ma la chiesa non è più un luogo sicuro: **le ossa di Sant'Andral** sono state rubate.
 
 Non ci sono segni di effrazione. Gli unici a conoscere l'accesso erano il prete, **Yeska** (il chierichetto) e **Millivoj** (un orfano volontario).
 
@@ -70,7 +70,7 @@ La Belasco si oppone a portare via il ragazzo. Decidono di tornare di notte.
 
 ### Il Becchino Henrik
 
-Si dirigono verso la bottega di **[Henrik](<../../../png/strahd/#henrik>)**, il costruttore di bare. Luth si trasforma in Millivoj per ingannarlo. Henrik dà loro 4 monete d'oro — il doppio della paga settimanale — e dice di tornare dopo la festa.
+Si dirigono verso la bottega di **[Henrik](<../../../png/strahd/#henrik>)**, il costruttore di bare. Luth si trasforma in Millivoj per ingannarlo. [Henrik](<../../../png/strahd/#henrik>) dà loro 4 monete d'oro — il doppio della paga settimanale — e dice di tornare dopo la festa.
 
 Radagast e Luth si infiltrano dal retro. Al piano di sopra, una stanza piena di bare…
 
@@ -80,13 +80,13 @@ Radagast e Luth si infiltrano dal retro. Al piano di sopra, una stanza piena di 
 
 - **Danika e Urlick** — Locandieri della Blue Water Inn. Sembrano sapere più di quanto dicono.
 - **Rictavio** — Bardo misterioso. Ha un piano per uscire da [Barovia](<../../../lore/strahd/#barovia>).
-- **Izek Strazni** — Capitano delle guardie. Braccio demoniaco deforme.
+- **[Izek Strazni](<../../../png/strahd/#izek>)** — Capitano delle guardie. Braccio demoniaco deforme.
 - **Padre Lucian** — Prete di Sant'Andral. Le ossa del santo sono state rubate.
 - **Blinsky** — Giocattolaio macabro. Produce bambole inquietanti.
 - **Signora Belasco** — Gestore dell'orfanotrofio. Qualcosa di oscuro aleggia sulla sua casa.
 - **Millivoj** — Orfano, aiutante di Padre Lucian. In fin di vita per una misteriosa malattia.
 - **[Vasili Von Holtz](<../../../png/strahd/#vasili-von-holtz>)** — Mercante gentile e disponibile. Nessuno sa dove abiti.
-- **[Fiona Watcher](<../../../png/strahd/#fiona-watcher>)** — Matriarca della famiglia Watcher. Sostenitrice di Strahd.
+- **[[Fiona](<../../../png/strahd/#fiona-watcher>) Watcher](<../../../png/strahd/#fiona-watcher>)** — Matriarca della famiglia Watcher. Sostenitrice di Strahd.
 
 ---
 

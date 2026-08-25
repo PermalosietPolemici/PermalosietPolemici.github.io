@@ -6,13 +6,13 @@
 
 ### Krezk
 
-**Giunti a Krezk**, il gruppo vede le sue alte e fortificate mura. Conoscono il borgomastro **[Dimitri Krezkov](<../../../png/strahd/#dimitri-krezkov>)**, che non è intenzionato a farli entrare. Li considera possibili alleati di Strahd.
+**Giunti a [Krezk](<../../../lore/strahd/#krezk>)**, il gruppo vede le sue alte e fortificate mura. Conoscono il borgomastro **[Dimitri Krezkov](<../../../png/strahd/#dimitri-krezkov>)**, che non è intenzionato a farli entrare. Li considera possibili alleati di [Strahd](<../../../png/strahd/#strahd-von-zarovich>).
 
 Solo grazie a **[Odjek](<../../../png/strahd/#odjek>)** e alla promessa di aiutare con il problema del vino esaurito, ottengono il permesso di entrare.
 
 ### La Fonte Miracolosa
 
-Provano a immergere i compagni nella **fonte benedetta** di Krezk — senza risultato. Dall'acqua emerge la figura evanescente di **Sergei Von Zarovich**, fratello di [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Dice loro che se recupereranno la parte mancante della spada che possiedono, lui potrà renderla un'arma potente.
+Provano a immergere i compagni nella **fonte benedetta** di Krezk — senza risultato. Dall'acqua emerge la figura evanescente di **[Sergei](<../../../png/strahd/#sergei>) Von Zarovich**, fratello di [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Dice loro che se recupereranno la parte mancante della spada che possiedono, lui potrà renderla un'arma potente.
 
 ### L'Abbazia di Santa Markovia
 
@@ -24,7 +24,7 @@ Il gruppo si reca all'abbazia, dove incontrano due strane creature — parti di 
 
 L'Abate rivela che per riportare in vita i loro amici, vuole in cambio il **volto di una ragazza di [Krezk](<../../../lore/strahd/#krezk>)**, **Yana**, per completare la sua creatura — un golem di carne che deve diventare la perfetta sposa per Strahd.
 
-Il gruppo è diviso. **Odjek** è disperato — ama Yana. **[Kasimir](<../../../png/strahd/#kasimir>)** rifiuta l'idea. Ma alla fine, il bene superiore prevale: Yana viene portata all'Abate.
+Il gruppo è diviso. **[Odjek](<../../../png/strahd/#odjek>)** è disperato — ama Yana. **[Kasimir](<../../../png/strahd/#kasimir>)** rifiuta l'idea. Ma alla fine, il bene superiore prevale: Yana viene portata all'Abate.
 
 ### Slap e Randal Tornano in Vita
 
@@ -34,17 +34,17 @@ Strahd è stato invitato all'abbazia per vedere la creatura. Il gruppo preferisc
 
 ### La Partenza
 
-**Xenia** decide di rimanere all'abbazia per aspettare Strahd. **[Bluto](<../../../png/strahd/#bluto>)** e Nezuko si salutano come madre e figlio. Il gruppo lascia Krezk diretto verso la torre di Baratok.
+**[Xenia](<../../../png/strahd/#xenia>)** decide di rimanere all'abbazia per aspettare Strahd. **[Bluto](<../../../png/strahd/#bluto>)** e Nezuko si salutano come madre e figlio. Il gruppo lascia Krezk diretto verso la [torre di Baratok](<../../../lore/strahd/#torre-van-richten>).
 
 ---
 
 ## NPC Incontrati
 
 - **L'Abate** — Angelo del Signore del Mattino. Crea una sposa per Strahd usando parti di cadaveri.
-- **Dimitri Krezkov** — Borgomastro di Krezk. Diffidente verso gli stranieri.
+- **[Dimitri Krezkov](<../../../png/strahd/#dimitri-krezkov>)** — Borgomastro di Krezk. Diffidente verso gli stranieri.
 - **Odjek** — Cacciatore innamorato di Yana. Soffre per la scelta del gruppo.
 - **Yana** — La ragazza sacrificata per il volto di Vasilka.
-- **Bluto** — Il pastore di Krezk, amico di Nezuko.
+- **[Bluto](<../../../png/strahd/#bluto>)** — Il pastore di Krezk, amico di Nezuko.
 - **Vasilka** — Golem di carne creato dall'Abate per essere la sposa di Strahd.
 
 ---

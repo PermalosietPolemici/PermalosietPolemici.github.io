@@ -10,15 +10,15 @@
 
 ### Le Ossa di Sant'Andral
 
-Le ossa di Sant'Andral restano la priorità. Facendo visita al barone, scoprono che **[Henrik](<../../../png/strahd/#henrik>)** è morto sotto tortura. **[[Randal]]** evoca il suo spirito: le ossa sono nascoste in casa sua.
+Le ossa di [Sant'Andral](<../../../fazioni/strahd/#chiesa-santandral>) restano la priorità. Facendo visita al barone, scoprono che **[Henrik](<../../../png/strahd/#henrik>)** è morto sotto tortura. **[[Randal]]** evoca il suo spirito: le ossa sono nascoste in casa sua.
 
-Si infiltrano in casa di Henrik, ma arrivano tardi: un **biglietto di scherno** è stato lasciato al posto delle ossa. **[[Luth]]** trova uno strano simbolo circolare a terra pieno di rune.
+Si infiltrano in casa di [Henrik](<../../../png/strahd/#henrik>), ma arrivano tardi: un **biglietto di scherno** è stato lasciato al posto delle ossa. **[[Luth]]** trova uno strano simbolo circolare a terra pieno di rune.
 
 ### La Cospirazione
 
 Con uno stratagemma, estorcono dai bambini l'informazione: una "bella signora dai capelli blu" ha lasciato il biglietto.
 
-Fanno visita a **Lady [Fiona Watcher](<../../../png/strahd/#fiona-watcher>)**. La donna offre loro informazioni e denaro per eliminare **Izek**, il "demone malvagio" che detiene il potere.
+Fanno visita a **Lady [[Fiona](<../../../png/strahd/#fiona-watcher>) Watcher](<../../../png/strahd/#fiona-watcher>)**. La donna offre loro informazioni e denaro per eliminare **[Izek](<../../../png/strahd/#izek>)**, il "demone malvagio" che detiene il potere.
 
 ### La Notte e le Intrusioni
 
@@ -40,7 +40,7 @@ La parata si dirige verso la chiesa. Le campane rintoccano. Persone insanguinate
 
 Entrano e la porta si chiude alle loro spalle. Panche ribaltate, sangue ovunque, decine di cadaveri. Un **bambino** dal quale esce un'ombra demoniaca si erge davanti a [Izek](<../../../png/strahd/#izek>).
 
-Sull'altare, **[Padre Lucian](<../../../png/strahd/#padre-lucian>)** ferito e accanto a lui un corpo che sanguina in un calice. **Anastrasya**, una delle spose di Strahd, li accoglie al *"banchetto di Sant'Andral"*.
+Sull'altare, **[Padre [Lucian](<../../../png/strahd/#padre-lucian>)](<../../../png/strahd/#padre-lucian>)** ferito e accanto a lui un corpo che sanguina in un calice. **[Anastrasya](<../../../png/strahd/#anastrasya>)**, una delle spose di [Strahd](<../../../png/strahd/#strahd-von-zarovich>), li accoglie al *"banchetto di Sant'Andral"*.
 
 ### La Battaglia in Chiesa
 
@@ -54,7 +54,7 @@ Luth trafigge la vampira, che si dissolve in nebbia e fugge.
 
 ### La Rivolta
 
-Izek, ferito, dice di poter riportare in vita Randal, ma deve prima assolvere al suo dovere. Lo seguono in piazza: **Lady Fiona Watcher** ha guidato una rivolta. La famiglia Vallakovich è stata catturata, uccisa e appesa a testa in giù.
+Izek, ferito, dice di poter riportare in vita Randal, ma deve prima assolvere al suo dovere. Lo seguono in piazza: **Lady Fiona Watcher** ha guidato una rivolta. La [famiglia Vallakovich](<../../../fazioni/strahd/#famiglia-vallakovich>) è stata catturata, uccisa e appesa a testa in giù.
 
 Izek cade di fronte a quello spettacolo. Una picconata lo trafigge al collo. Prima di morire, sussurra: *"Santa Markova"*.
 
@@ -64,30 +64,30 @@ Izek cade di fronte a quello spettacolo. Una picconata lo trafigge al collo. Pri
 
 Poche ore dopo, **Izek** si presenta nella locanda — con un enorme buco nel collo, ancora sanguinante. Dice di essere **Sir [Kasimir](<../../../png/strahd/#kasimir>)**, cavaliere d'argento vissuto più di 400 anni fa.
 
-Danika si rivela: fa parte dei **[Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>)**, un'organizzazione di spie che opera tramite corvi. Li informa che **Muriel** è una korantropa (lupo mannaro corvo) e che è stata lei a indicare la casa di Vasili.
+[Danika](<../../../png/strahd/#danika-martikov>) si rivela: fa parte dei **[Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>)**, un'organizzazione di spie che opera tramite corvi. Li informa che **[Muriel](<../../../png/strahd/#muriel>)** è una korantropa (lupo mannaro corvo) e che è stata lei a indicare la casa di [Vasili](<../../../png/strahd/#vasili-von-holtz>).
 
-Il gruppo decide di dirigersi verso ovest: **Krezk**, **la torre di Baratok**, e poi **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**.
+Il gruppo decide di dirigersi verso ovest: **[Krezk](<../../../lore/strahd/#krezk>)**, **la [torre di Baratok](<../../../lore/strahd/#torre-van-richten>)**, e poi **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**.
 
 ---
 
 ## NPC Incontrati
 
-- **Victor Vallakovich** — Figlio del barone. Mago principiante, tortura Randal con esperimenti.
+- **[Victor Vallakovich](<../../../png/strahd/#victor-vallakovich>)** — Figlio del barone. Mago principiante, tortura Randal con esperimenti.
 - **Anastrasya** — Sposa di [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Guida l'attacco alla chiesa, uccide Randal.
 - **Fiona Watcher** — Guida la rivolta. Prende il potere a [Vallaki](<../../../lore/strahd/#vallaki>).
-- **Izek / Sir Kasimir** — Muore e rinasce come cavaliere d'argento di 400 anni fa.
-- **Danika** — Si rivela membro dei Custodi delle Piume.
+- **Izek / Sir [Kasimir](<../../../png/strahd/#kasimir>)** — Muore e rinasce come cavaliere d'argento di 400 anni fa.
+- **Danika** — Si rivela membro dei [Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>).
 
 ---
 
 ## Eventi Chiave
 
 - Randal muore morso da Anastrasya
-- Il festival del sole ardente e la rivolta di Vallaki
+- Il festival del sole ardente e la rivolta di [Vallaki](<../../../lore/strahd/#vallaki>)
 - La famiglia Vallakovich viene sterminata
 - Izek muore e rinasce come Sir Kasimir
 - Danika si rivela: Custodi delle Piume
-- Il gruppo decide la prossima meta: [Krezk](<../../../lore/strahd/#krezk>) e Argynvostholt
+- Il gruppo decide la prossima meta: [Krezk](<../../../lore/strahd/#krezk>) e [Argynvostholt](<../../../lore/strahd/#argynvostholt>)
 
 ---
 

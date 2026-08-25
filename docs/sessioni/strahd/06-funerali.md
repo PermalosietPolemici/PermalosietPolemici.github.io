@@ -10,15 +10,15 @@ Il gruppo si reca al **cimitero**, dove un piccolo numero di persone si è radun
 
 Durante la funzione arriva una **carrozza**. Ne scende un uomo. **[Ireena](<../../../png/strahd/#ireena-kolyana>)** si dirige verso di lui, riceve una lettera, la legge, la getta a terra e **scappa via**.
 
-**[[Nezuko]]** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **[Rahadin](<../../../png/strahd/#rahadin>)**, ed è stato mandato dal **Conte Strahd Von Zarovich**. Dà il benvenuto in Barovia, si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
+**[[Nezuko]]** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **[Rahadin](<../../../png/strahd/#rahadin>)**, ed è stato mandato dal **Conte [Strahd](<../../../png/strahd/#strahd-von-zarovich>) Von Zarovich**. Dà il benvenuto in [Barovia](<../../../lore/strahd/#barovia>), si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
 
 ### L'Invito
 
 La lettera è un **invito a cena** con il Conte stesso, tra tre giorni.
 
-Restano stupiti: a detta di Ismark, non ha mai saputo di nessuno invitato a **[Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)**.
+Restano stupiti: a detta di [Ismark](<../../../png/strahd/#ismark>), non ha mai saputo di nessuno invitato a **[Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)**.
 
-Raccolgono anche la lettera lasciata a terra da Ireena, scritta anch'essa dal Conte. Sembra una lunga lettera di condoglianze per la morte del padre, ma termina con:
+Raccolgono anche la lettera lasciata a terra da [Ireena](<../../../png/strahd/#ireena-kolyana>), scritta anch'essa dal Conte. Sembra una lunga lettera di condoglianze per la morte del padre, ma termina con:
 
 > *"Il tuo signore, padrone e Amore — Strahd Von Zarovich"*
 
@@ -44,7 +44,7 @@ Sconfiggono le creature all'esterno, entrano e trovano un **gigantesco lupo** en
 
 ### La Promessa
 
-Salvata la giovane, vengono ospitati per la notte. Il mattino seguente, **Ismark** rivela la decisione presa: Ireena è in pericolo e non può più restare a [Barovia](<../../../lore/strahd/#barovia>). Chiede loro di scortarla fino al villaggio di **Vallaki**, reputato un luogo più sicuro. In cambio, offre la **libertà di Randal**, a patto che non torni mai più a Barovia.
+Salvata la giovane, vengono ospitati per la notte. Il mattino seguente, **Ismark** rivela la decisione presa: Ireena è in pericolo e non può più restare a [Barovia](<../../../lore/strahd/#barovia>). Chiede loro di scortarla fino al villaggio di **[Vallaki](<../../../lore/strahd/#vallaki>)**, reputato un luogo più sicuro. In cambio, offre la **libertà di Randal**, a patto che non torni mai più a Barovia.
 
 Accettano — non prima però di essere andati a quella cena al castello.
 
@@ -66,7 +66,7 @@ Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la c
 
 ## NPC Incontrati
 
-- **Rahadin** — Servitore di Strahd, elfo dalla pelle scura. Consegna l'invito a cena e la lettera a Ireena.
+- **[Rahadin](<../../../png/strahd/#rahadin>)** — Servitore di Strahd, elfo dalla pelle scura. Consegna l'invito a cena e la lettera a Ireena.
 - **Arik** — Il taverniere che tenta di corrompere Randal in prigione.
 
 ---
@@ -74,7 +74,7 @@ Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la c
 ## Eventi Chiave
 
 - Interruzione del funerale da parte di Rahadin
-- Invito a cena a Castle Ravenloft tra tre giorni
+- Invito a cena a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>) tra tre giorni
 - La lettera di Strahd a Ireena: "il tuo signore, padrone e Amore"
 - La marcia dei morti nel cimitero
 - Arik offre la chiave a Randal, che rifiuta
@@ -85,6 +85,6 @@ Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la c
 
 ---
 
-[**← Capitolo precedente**](05-lincidente/) | [**Capitolo successivo →**](07-viaggio-vistani/)
+[**← Capitolo precedente**](05-lincidente/) | [**Capitolo successivo →**](07-viaggio-[vistani](<../../../fazioni/strahd/#vistani>)/)
 
 *[Torna all'indice](../)*

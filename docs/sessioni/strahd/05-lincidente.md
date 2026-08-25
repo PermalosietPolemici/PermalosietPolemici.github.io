@@ -22,7 +22,7 @@ Arik porta Randal dal **borgomastro**. Il chierico non oppone resistenza.
 
 Solo qualche ora prima, Randal redarguiva **[Ismark](<../../../png/strahd/#ismark>)**. Ora si trova di fronte a lui come **peccatore**.
 
-Ismark è irreprensibile: sarà giudicato alla stessa maniera del prete per il crimine commesso. Cercano di convincerlo dell'errore e di considerare le attenuanti — d'altronde hanno appena aiutato l'intero villaggio nella sua sopravvivenza. Ismark ci penserà.
+[Ismark](<../../../png/strahd/#ismark>) è irreprensibile: sarà giudicato alla stessa maniera del prete per il crimine commesso. Cercano di convincerlo dell'errore e di considerare le attenuanti — d'altronde hanno appena aiutato l'intero villaggio nella sua sopravvivenza. Ismark ci penserà.
 
 Li invita al **funerale del padre**, visti i servigi che hanno reso. Randal, invece, viene chiuso in **prigione**.
 

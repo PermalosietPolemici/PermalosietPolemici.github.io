@@ -26,19 +26,19 @@ Arabella si riprende. È una vistana che vive in un campo stabile vicino a [Vall
 
 Lungo la strada incontrano **[Vasili Von Holtz](<../../../png/strahd/#vasili-von-holtz>)**, un mercante gentile e disponibile — ma **[[Radagast]]** si innervosisce e l'affare salta.
 
-Arrivano al **campo Vistani**, una collinetta erbosa circondata da carri e una grande tenda. Qui incontrano **[Kasimir](<../../../png/strahd/#kasimir>)**, un elfo del crepuscolo molto anziano. Con lui c'è subito sintonia.
+Arrivano al **campo [Vistani](<../../../fazioni/strahd/#vistani>)**, una collinetta erbosa circondata da carri e una grande tenda. Qui incontrano **[Kasimir](<../../../png/strahd/#kasimir>)**, un elfo del crepuscolo molto anziano. Con lui c'è subito sintonia.
 
 ### La Storia di Kasimir
 
-Kasimir racconta la sua storia: sua sorella **Patrina** era stata scelta come moglie da [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Quando venne trasformata in vampira, capì la gravità di ciò che aveva fatto e si pentì. Kasimir guidò una spedizione al castello per liberarla, ma trovò un mostro che chiedeva la morte. La pietà di Kasimir fece sì che liberasse la sorella dal suo tormento eterno.
+[Kasimir](<../../../png/strahd/#kasimir>) racconta la sua storia: sua sorella **Patrina** era stata scelta come moglie da [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Quando venne trasformata in vampira, capì la gravità di ciò che aveva fatto e si pentì. Kasimir guidò una spedizione al castello per liberarla, ma trovò un mostro che chiedeva la morte. La pietà di Kasimir fece sì che liberasse la sorella dal suo tormento eterno.
 
-Strahd non gradì: ordinò lo sterminio di tutte le donne e i bambini elfi. Così fu, condannando gli elfi alla sparizione.
+[Strahd](<../../../png/strahd/#strahd-von-zarovich>) non gradì: ordinò lo sterminio di tutte le donne e i bambini elfi. Così fu, condannando gli elfi alla sparizione.
 
 Kasimir descrive Strahd come un mostro spietato e colpevole della maledizione che affligge [Barovia](<../../../lore/strahd/#barovia>), rendendo impossibile fuggire da queste terre.
 
 ### La Festa e l'Attacco
 
-**Luvash**, capo dei [Vistani](<../../../fazioni/strahd/#vistani>) e padre di Arabella, fa aprire una botte di vino. Si fa festa in onore del gruppo per aver salvato la piccola.
+**[Luvash](<../../../png/strahd/#luvash>)**, capo dei [Vistani](<../../../fazioni/strahd/#vistani>) e padre di Arabella, fa aprire una botte di vino. Si fa festa in onore del gruppo per aver salvato la piccola.
 
 Durante la notte, suona un **allarme**: Kasimir è stato aggredito nella sua casa. Enormi artigliate alla porta, un grosso graffio sulla spalla, la lingua strappata. Viene salvato per miracolo.
 
@@ -50,11 +50,11 @@ Kasimir dice che conoscere il passato del Conte potrebbe aiutare a distruggere l
 
 ## NPC Incontrati
 
-- **Muriel** — Misteriosa salvatrice dai capelli blu. Dice che "qualcuno li osserva". Se ne va senza spiegazioni.
+- **[Muriel](<../../../png/strahd/#muriel>)** — Misteriosa salvatrice dai capelli blu. Dice che "qualcuno li osserva". Se ne va senza spiegazioni.
 - **Arabella** — Bambina vistana salvata dalle acque del lago. Figlia di [Luvash](<../../../png/strahd/#luvash>).
 - **Kasimir** — Anziano elfo del crepuscolo. Ha perso la sorella Patrina per mano di Strahd. Diventerà un alleato prezioso.
 - **Luvash** — Capo dei Vistani, padre di Arabella. Uomo d'onore.
-- **Vasili Von Holtz** — Misterioso mercante incontrato sulla strada. Gentile, ma qualcosa in lui non convince.
+- **[Vasili Von Holtz](<../../../png/strahd/#vasili-von-holtz>)** — Misterioso mercante incontrato sulla strada. Gentile, ma qualcosa in lui non convince.
 
 ---
 

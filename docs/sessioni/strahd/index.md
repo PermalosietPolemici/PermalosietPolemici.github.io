@@ -1,24 +1,24 @@
 # Sessioni — Curse of Strahd
 
-La campagna completa di Curse of Strahd, narrata in 22 capitoli.
+La campagna completa di Curse of [Strahd](<../../../png/strahd/#strahd-von-zarovich>), narrata in 22 capitoli.
 
 ---
 
 ## 01 — [Prologo: Il Circo](01-prologo/)
 
-Witchlight Carnival, la sbornia, Naso, Maddok, la consegna dei volantini. La notte che ha cambiato tutto.
+[Witchlight Carnival](<../../../lore/strahd/#witchlight-carnival>), la sbornia, [Naso](<../../../png/strahd/#naso>), [Maddok](<../../../png/strahd/#maddok>), la consegna dei volantini. La notte che ha cambiato tutto.
 
 ## 02 — [Death House](02-death-house/)
 
-Rose & Thorne, la casa stregata, Lorgoht il distruttore, il crollo. Il cesto con "Benvenuti in Barovia".
+Rose & Thorne, la casa stregata, Lorgoht il distruttore, il crollo. Il cesto con "Benvenuti in [Barovia](<../../../lore/strahd/#barovia>)".
 
 ## 03 — [Il Villaggio di Barovia](03-barovia/)
 
-La vecchia dei pasticcini, la locanda, Ismark e Ireena, il pozzo avvelenato, i primi segreti del dominio.
+La vecchia dei pasticcini, la locanda, [Ismark](<../../../png/strahd/#ismark>) e [Ireena](<../../../png/strahd/#ireena-kolyana>), il pozzo avvelenato, i primi segreti del dominio.
 
 ## 04 — [La Chiesa di Barovia](04-la-chiesa/)
 
-Padre Donavich, suo figlio Doru, il confronto nella chiesa. La prima vera faccia della maledizione.
+[Padre Donavich](<../../../png/strahd/#donavich>), suo figlio [Doru](<../../../png/strahd/#doru>), il confronto nella chiesa. La prima vera faccia della maledizione.
 
 ## 05 — [L'Incidente](05-lincidente/)
 
@@ -30,7 +30,7 @@ Il funerale del borgomastro, la lettera di Strahd, la marcia dei morti. Randal r
 
 ## 07 — [Il Viaggio e l'Accampamento Vistani](07-viaggio-vistani/)
 
-Il ponte sul fiume, il bivacco misterioso, l'accampamento Vistani, Madam Eva e la lettura dei tarocchi.
+Il ponte sul fiume, il bivacco misterioso, l'accampamento [Vistani](<../../../fazioni/strahd/#vistani>), [Madam Eva](<../../../png/strahd/#madam-eva>) e la lettura dei tarocchi.
 
 ## 08 — [L'Incontro con Laszlo](08-laszlo/)
 
@@ -38,7 +38,7 @@ Il druido veggente nel cerchio di pietre infestato dagli insetti. Destini che si
 
 ## 09 — [La Cena a Castle Ravenloft](09-cena-ravenloft/)
 
-Strahd, le sue spose (Ludmilla, Anastrasya, Volenta, Escher), Gertruda, il banchetto, le danze, il biglietto di Helga.
+Strahd, le sue spose ([Ludmilla](<../../../png/strahd/#ludmilla>), [Anastrasya](<../../../png/strahd/#anastrasya>), [Volenta](<../../../png/strahd/#volenta>), [Escher](<../../../png/strahd/#escher>)), [Gertruda](<../../../png/strahd/#gertruda>), il banchetto, le danze, il biglietto di [Helga](<../../../png/strahd/#helga>).
 
 ## 10 — [La Tragedia del Lago Zarovich](10-lago-zarovich/)
 
@@ -50,7 +50,7 @@ Le tre streghe, la verità sulla vecchia dei pasticcini, il mulino maledetto. La
 
 ## 12 — [Arrivo a Vallaki](12-vallaki/)
 
-I cancelli, il barone Vargas Vallakovich, Izek Strazni, la cattedrale di Sant'Andral, l'orfanotrofio, i Wachter.
+I cancelli, il barone [Vargas Vallakovich](<../../../png/strahd/#vargas-vallakovich>), [Izek Strazni](<../../../png/strahd/#izek>), la cattedrale di [Sant'Andral](<../../../fazioni/strahd/#chiesa-santandral>), l'orfanotrofio, i [Wachter](<../../../png/strahd/#fiona-watcher>).
 
 ## 13 — [La Morte di Radagast](13-morte-radagast/)
 
@@ -58,27 +58,27 @@ La tragedia sotto il mulino. L'addio al Folle di Dio. Il funerale sulle rive del
 
 ## 14 — [Il Festival e la Caduta del Barone](14-festival-vallaki/)
 
-L'attacco alla chiesa, il demone di Izek, la rivolta di Lady Wachter. Vallaki cambia volto.
+L'attacco alla chiesa, il demone di Izek, la rivolta di Lady Wachter. [Vallaki](<../../../lore/strahd/#vallaki>) cambia volto.
 
 ## 15 — [Il Vigneto del Mago dei Vini](15-mago-dei-vini/)
 
-Davian Martikov, i druidi, il recupero delle gemme magiche. I segreti dei Wizard of Wines.
+[Davian Martikov](<../../../png/strahd/#davian-martikov>), i druidi, il recupero delle gemme magiche. I segreti dei Wizard of Wines.
 
 ## 16 — [Argynvostholt](16-argynvostholt/)
 
-I cavalieri d'argento, il revenant, la luce perduta. Un'antica promessa da onorare.
+I [cavalieri d'argento](<../../../fazioni/strahd/#cavalieri-dargento>), il revenant, la luce perduta. Un'antica promessa da onorare.
 
 ## 17 — [La Torre di Van Richten](17-torre-baratok/)
 
-L'incontro con Rudolph Van Richten, Ezmeralda D'Avenir, il piano per fermare Strahd.
+L'incontro con Rudolph [Van Richten](<../../../png/strahd/#van-richten>), [Ezmeralda](<../../../png/strahd/#ezmeralda>) D'Avenir, il piano per fermare Strahd.
 
 ## 18 — [Krezk e l'Abbazia di Santa Markovia](18-krezk/)
 
-Il villaggio di Krezk, l'abate, la Fabbrica di Sogni. Il confine ovest di Barovia.
+Il villaggio di [Krezk](<../../../lore/strahd/#krezk>), l'abate, la Fabbrica di Sogni. Il confine ovest di Barovia.
 
 ## 19 — [La Palude di Berez](19-berez/)
 
-Baba Lysaga, la casa sulla gamba di gallina, i Fanes. Le radici oscure del potere di Strahd.
+[Baba Lysaga](<../../../png/strahd/#baba-lysaga>), la casa sulla gamba di gallina, i Fanes. Le radici oscure del potere di Strahd.
 
 ## 20 — [Yester Hill](20-yester-hill/)
 
@@ -90,4 +90,4 @@ I giganti d'ambra, le stanze sigillate, il patto oscuro. Ciò che Strahd ha trov
 
 ## 22 — [L'Assalto a Ravenloft e la Sconfitta Finale](22-finale/)
 
-Castle Ravenloft, lo scontro con Strahd, il matrimonio, l'addio a Barovia. La fine di un'era.
+[Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>), lo scontro con Strahd, il matrimonio, l'addio a Barovia. La fine di un'era.

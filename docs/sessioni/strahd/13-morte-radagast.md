@@ -28,23 +28,23 @@ I vampiri sono letali: i loro corpi guariscono, i morsi risucchiano la forza vit
 
 ### La Scoperta di Henrik
 
-Il rumore attira **[Izek](<../../../png/strahd/#izek>)** e le guardie. È una carneficina. Izek intima al gruppo di andarsene.
+Il rumore attira **[Izek](<../../../png/strahd/#izek>)** e le guardie. È una carneficina. [Izek](<../../../png/strahd/#izek>) intima al gruppo di andarsene.
 
-Nezuko corre fuori e trova **Henrik** in catene. Lo interroga con la forza: una "donna in rosso" lo ha prima corrotto e poi intimidito.
+Nezuko corre fuori e trova **[Henrik](<../../../png/strahd/#henrik>)** in catene. Lo interroga con la forza: una "donna in rosso" lo ha prima corrotto e poi intimidito.
 
-Luth e Randal portano il corpo di Radagast da **[Padre Lucian](<../../../png/strahd/#padre-lucian>)**, che organizzerà un funerale per il mattino seguente.
+Luth e Randal portano il corpo di Radagast da **[Padre [Lucian](<../../../png/strahd/#padre-lucian>)](<../../../png/strahd/#padre-lucian>)**, che organizzerà un funerale per il mattino seguente.
 
 ### La Lettera di Kasimir
 
-Tornati in locanda, **Danika** presenta un mezzelfo di nome **Sarek**, nipote di [Kasimir](<../../../png/strahd/#kasimir>). L'elfo è stato ucciso quella notte. Vicino al corpo è stata trovata una lettera indirizzata al gruppo.
+Tornati in locanda, **[Danika](<../../../png/strahd/#danika-martikov>)** presenta un mezzelfo di nome **[Sarek](<../../../png/strahd/#sarek>)**, nipote di [Kasimir](<../../../png/strahd/#kasimir>). L'elfo è stato ucciso quella notte. Vicino al corpo è stata trovata una lettera indirizzata al gruppo.
 
-Kasimir scrive di aver cercato per anni una via tra le nebbie di Barovia. L'unico modo per trovarla è spezzare la maledizione. Esiste un luogo, **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, dove un'orgogliosa cerchia di cavalieri devoti al bene progettava la caduta di Strahd.
+[Kasimir](<../../../png/strahd/#kasimir>) scrive di aver cercato per anni una via tra le nebbie di [Barovia](<../../../lore/strahd/#barovia>). L'unico modo per trovarla è spezzare la maledizione. Esiste un luogo, **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, dove un'orgogliosa cerchia di cavalieri devoti al bene progettava la caduta di [Strahd](<../../../png/strahd/#strahd-von-zarovich>).
 
 Sarek ha intenzione di rispettare le volontà dello zio e combattere [Strahd](<../../../png/strahd/#strahd-von-zarovich>).
 
 ### Il Sospetto su Vasili
 
-Luth e Nezuko cercano **Ireena** — nessuna traccia. Nemmeno di [Rictavio](<../../../png/strahd/#rictavio>). Nessuno sa dove abiti Vasili.
+Luth e Nezuko cercano **[Ireena](<../../../png/strahd/#ireena-kolyana>)** — nessuna traccia. Nemmeno di [Rictavio](<../../../png/strahd/#rictavio>). Nessuno sa dove abiti [Vasili](<../../../png/strahd/#vasili-von-holtz>).
 
 Luth è sempre più sospettoso.
 
@@ -74,7 +74,7 @@ Un **corvo** bussa alla finestra: una lettera da **Strahd** in persona, che fa l
 - Il gruppo uccide i sei vampiri
 - Henrik viene arrestato e interrogato
 - Arriva Sarek con la lettera di Kasimir
-- La prima menzione di Argynvostholt
+- La prima menzione di [Argynvostholt](<../../../lore/strahd/#argynvostholt>)
 - Strahd manda le condoglianze: il gruppo è spiato
 
 ---

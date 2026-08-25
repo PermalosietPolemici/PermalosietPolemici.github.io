@@ -6,7 +6,7 @@
 
 ### La Magione dei Cavalieri d'Argento
 
-Dopo Krezk, il gruppo si dirige ad **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, la magione dei cavalieri d'argento. Quattrocento anni di abbandono hanno lasciato il segno: distruzione e desolazione regnano sovrane.
+Dopo [Krezk](<../../../lore/strahd/#krezk>), il gruppo si dirige ad **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, la magione dei [cavalieri d'argento](<../../../fazioni/strahd/#cavalieri-dargento>). Quattrocento anni di abbandono hanno lasciato il segno: distruzione e desolazione regnano sovrane.
 
 All'ingresso, una **bara** con il nome di **[Kasimir](<../../../png/strahd/#kasimir>)** inciso sopra. All'interno, un cadavere umanoide.
 
@@ -28,11 +28,11 @@ Il drago chiede al gruppo di trovare la verità, scoprire quale male ha avvelena
 
 ### Sir Godfrey
 
-**[Sir Godfrey](<../../../png/strahd/#sir-godfrey>)**, ex capitano dei cavalieri, si anima quando Kasimir recita l'antico giuramento. Racconta la loro storia:
+**[Sir Godfrey](<../../../png/strahd/#sir-godfrey>)**, ex capitano dei cavalieri, si anima quando [Kasimir](<../../../png/strahd/#kasimir>) recita l'antico giuramento. Racconta la loro storia:
 
 *"Il teschio di Argynvost fu strappato alle sue ossa, simbolo maledetto della sua disfatta. Ora riposa a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>). Il faro di Argynvost si è spento."*
 
-**[Vladimir](<../../../png/strahd/#vladimir>)**, il comandante dei cavalieri, è consumato dall'odio. Non permetterà che il teschio torni al faro — ogni atto di redenzione lenirebbe l'inferno che lui stesso ha scelto di infliggere a Strahd.
+**[Vladimir](<../../../png/strahd/#vladimir>)**, il comandante dei cavalieri, è consumato dall'odio. Non permetterà che il teschio torni al faro — ogni atto di redenzione lenirebbe l'inferno che lui stesso ha scelto di infliggere a [Strahd](<../../../png/strahd/#strahd-von-zarovich>).
 
 ### La Promessa
 
@@ -43,14 +43,14 @@ Il gruppo promette di recuperare il teschio di Argynvost dal castello di Strahd 
 ## NPC Incontrati
 
 - **Argynvost** — L'anima del drago d'argento. Chiede aiuto per redimere i suoi cavalieri.
-- **Sir Godfrey Gwilym** — Ex capitano dei cavalieri d'argento. Racconta la loro storia.
-- **Vladimir Horngaard** — Comandante dei cavalieri. Consumato dall'odio contro Strahd.
+- **[Sir Godfrey Gwilym](<../../../png/strahd/#sir-godfrey>)** — Ex capitano dei cavalieri d'argento. Racconta la loro storia.
+- **[Vladimir Horngaard](<../../../png/strahd/#vladimir>)** — Comandante dei cavalieri. Consumato dall'odio contro Strahd.
 
 ---
 
 ## Eventi Chiave
 
-- Arrivo alla magione di Argynvostholt
+- Arrivo alla magione di [Argynvostholt](<../../../lore/strahd/#argynvostholt>)
 - Battaglia contro i cavalieri non morti
 - Incontro con l'anima di Argynvost
 - Sir Godfrey racconta la storia del teschio

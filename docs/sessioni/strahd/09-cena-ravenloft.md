@@ -8,7 +8,7 @@
 
 Sbrigate le formalità, il gruppo viene scortato nell'enorme **Sala da Pranzo** di [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>). Le porte si aprono e una **musica d'organo** li investe.
 
-Nella sala, oltre a loro, ci sono altre persone: tre donne e un uomo. Una delle donne è **[Gertruda](<../../../png/strahd/#gertruda>)**, la figlia di Mary, la donna piangente di Barovia.
+Nella sala, oltre a loro, ci sono altre persone: tre donne e un uomo. Una delle donne è **[Gertruda](<../../../png/strahd/#gertruda>)**, la figlia di Mary, la donna piangente di [Barovia](<../../../lore/strahd/#barovia>).
 
 Il **Conte** in persona sta suonando. Terminata la melodia, si alza e li accoglie presentandosi.
 
@@ -20,13 +20,13 @@ Il **Conte** in persona sta suonando. Terminata la melodia, si alza e li accogli
 - **[Anastrasya](<../../../png/strahd/#anastrasya>)** — Un po' più grande delle altre, bellissima e affascinante.
 - **[Volenta](<../../../png/strahd/#volenta>)** — Una ragazza con una maschera, di statura minuta come una ragazzina.
 - **[Escher](<../../../png/strahd/#escher>)** — Un uomo biondo dalla pelle molto chiara.
-- **Gertruda** — La figlia di Mary, la donna piangente del villaggio di [Barovia](<../../../lore/strahd/#barovia>).
+- **[Gertruda](<../../../png/strahd/#gertruda>)** — La figlia di Mary, la donna piangente del villaggio di [Barovia](<../../../lore/strahd/#barovia>).
 
 **[Helga](<../../../png/strahd/#helga>)**, una cameriera, offre loro calici di vino. I posti a sedere sono già assegnati. Non appena seduti, inizia il lauto banchetto: servitori invisibili portano portate fumanti mentre i discorsi con il Conte prendono il via.
 
 ### I Discorsi
 
-Strahd si rivela sorprendentemente informato. Dice di essere rimasto colpito dal loro atteggiamento a Barovia e da come hanno aiutato gli abitanti. Si scusa di aver invitato un "estraneo" a questa cena — riferendosi a **[[Laszlo]]**.
+[Strahd](<../../../png/strahd/#strahd-von-zarovich>) si rivela sorprendentemente informato. Dice di essere rimasto colpito dal loro atteggiamento a Barovia e da come hanno aiutato gli abitanti. Si scusa di aver invitato un "estraneo" a questa cena — riferendosi a **[[Laszlo]]**.
 
 Mette alla prova le abilità divinatorie del druido, poi gli chiede se è in grado di rintracciare una persona che sta cercando: un **cacciatore di nome Rudolph [Van Richten](<../../../png/strahd/#van-richten>)**, che si trova da qualche parte a Barovia.
 
@@ -36,7 +36,7 @@ Molte delle parole del Conte sono denigratorie nei confronti dei suoi popolani. 
 
 ### La Cantina
 
-**[[Slap]]** suona per il Conte. Volenta balla con lui — delle quattro sembra la più espansiva, ma viene ripresa bruscamente da Ludmilla che la riporta a un comportamento più appropriato. Slap nota che **Helga**, la cameriera, ha dei **lividi sulle braccia**.
+**[[Slap]]** suona per il Conte. [Volenta](<../../../png/strahd/#volenta>) balla con lui — delle quattro sembra la più espansiva, ma viene ripresa bruscamente da [Ludmilla](<../../../png/strahd/#ludmilla>) che la riporta a un comportamento più appropriato. Slap nota che **[Helga](<../../../png/strahd/#helga>)**, la cameriera, ha dei **lividi sulle braccia**.
 
 Quando finisce il vino, **[[Nezuko]]** si propone di aiutare la giovane a prenderne dell'altro e la accompagna alle cantine. Lungo la strada, sbircia all'interno di una cantina e scopre qualcosa di tremendo che scuote profondamente la sua anima:
 
@@ -48,11 +48,11 @@ Nezuko viene scosso, si chiude in sé stesso. Quell'orrore lo ha segnato a tal p
 
 La cena prosegue fino alla sua conclusione, quando iniziano le **danze**.
 
-**[[Luth]]** balla con Escher, che si fa provocatorio, mettendo il giovane Haregon in visibile imbarazzo. Volenta balla con Slap, parlando del piacere di uccidere piccoli animali e di come ha dissanguato la capra che hanno mangiato a cena.
+**[[Luth]]** balla con [Escher](<../../../png/strahd/#escher>), che si fa provocatorio, mettendo il giovane Haregon in visibile imbarazzo. Volenta balla con Slap, parlando del piacere di uccidere piccoli animali e di come ha dissanguato la capra che hanno mangiato a cena.
 
 Ludmilla balla con Randal, cercando di fare chiarezza sul peso che il chierico porta sul cuore. Nezuko, ancora sconvolto, si mette da parte e non danza — nemmeno quando Helga glielo chiede. La giovane mette in tasca a Nezuko qualcosa: solo più tardi scoprirà che si tratta di un biglietto con su scritto *"Non tutti qui vi sono nemici"*.
 
-**[[Radagast]]** viene portato fuori da Anastrasya, stufa delle danze. Prende una bottiglia di vino e lo porta sul ciglio della rupe del castello, dove si può ammirare l'intera valle. La ragazza provoca Radagast, che non ci pensa due volte — ma si tira indietro quando, forse per sbaglio, la ragazza gli dà un **piccolo morso al collo**.
+**[[Radagast]]** viene portato fuori da [Anastrasya](<../../../png/strahd/#anastrasya>), stufa delle danze. Prende una bottiglia di vino e lo porta sul ciglio della rupe del castello, dove si può ammirare l'intera valle. La ragazza provoca Radagast, che non ci pensa due volte — ma si tira indietro quando, forse per sbaglio, la ragazza gli dà un **piccolo morso al collo**.
 
 Strahd danza con **[Xenia](<../../../png/strahd/#xenia>)**. Il fascino del Conte la strega: alla proposta di rimanere al castello, la ragazza dice di sì. In cambio, il Conte rivela la sua età, come promesso: dice di essere a questo mondo da **più di quattro secoli**.
 
@@ -68,19 +68,19 @@ La notte passa tranquilla — tranne che per Nezuko, Randal e Radagast, che cont
 
 ### La Partenza
 
-Durante la notte, **Xenia se ne va**.
+Durante la notte, **[Xenia](<../../../png/strahd/#xenia>) se ne va**.
 
 Al mattino, si preparano per lasciare il castello. **[Rahadin](<../../../png/strahd/#rahadin>)** li attende. Chiedono di poter vedere e salutare l'amica, ma viene loro negato: *"È impegnata con il Conte."*
 
-Nessuno viene a salutare la loro partenza. La carrozza che li riporterà a Barovia li attende. Prima di andarsene, Laszlo dona a Rahadin **un'altra ciocca di barba**, chiedendo di darla a Xenia.
+Nessuno viene a salutare la loro partenza. La carrozza che li riporterà a Barovia li attende. Prima di andarsene, Laszlo dona a [Rahadin](<../../../png/strahd/#rahadin>) **un'altra ciocca di barba**, chiedendo di darla a Xenia.
 
 ### Il Ritorno
 
 Durante il viaggio, Nezuko si riprende dalla sua apatia e si chiede come gli altri abbiano potuto lasciare Xenia in quel posto — un posto dove sgozzano esseri umani e li lasciano a dissanguare.
 
-Arrivati a Barovia, trovano la casa di **Ismark** completamente sbarrata. La casa ha subito tre notti di assalto da parte delle creature della notte. Inizialmente il giovane è restio a farli entrare, spaventato e confuso, ma viene calmato da Randal e **[Ireena](<../../../png/strahd/#ireena-kolyana>)**.
+Arrivati a Barovia, trovano la casa di **[Ismark](<../../../png/strahd/#ismark>)** completamente sbarrata. La casa ha subito tre notti di assalto da parte delle creature della notte. Inizialmente il giovane è restio a farli entrare, spaventato e confuso, ma viene calmato da Randal e **[Ireena](<../../../png/strahd/#ireena-kolyana>)**.
 
-Ismark fa preparare un improvvisato **carro** con un asino che li condurrà a **Vallaki**. Dà loro un contatto: **[Padre Lucian](<../../../png/strahd/#padre-lucian>)** della chiesa di Sant'Andral, vecchio amico di suo padre. Chiede anche di mandare un prete per Barovia, se possibile.
+Ismark fa preparare un improvvisato **carro** con un asino che li condurrà a **[Vallaki](<../../../lore/strahd/#vallaki>)**. Dà loro un contatto: **[Padre [Lucian](<../../../png/strahd/#padre-lucian>)](<../../../png/strahd/#padre-lucian>)** della [chiesa di Sant'Andral](<../../../fazioni/strahd/#chiesa-santandral>), vecchio amico di suo padre. Chiede anche di mandare un prete per Barovia, se possibile.
 
 [Ismark](<../../../png/strahd/#ismark>) resterà lì. Questa è ancora la sua città. Prenderà orgogliosamente il posto di suo padre come borgomastro, per cercare di risollevare il più possibile il villaggio.
 
@@ -102,15 +102,15 @@ Ismark fa preparare un improvvisato **carro** con un asino che li condurrà a **
 
 ## Eventi Chiave
 
-- Banchetto e danze a Castle Ravenloft
-- Strahd interroga Laszlo su Van Richten
+- Banchetto e danze a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)
+- Strahd interroga Laszlo su [Van Richten](<../../../png/strahd/#van-richten>)
 - Nezuko scopre il cadavere dissanguato in cantina
 - Helga lascia un biglietto a Nezuko
 - Strahd rivela a Xenia di avere più di quattro secoli
 - Xenia accetta di rimanere al castello
 - Laszlo usa Gertruda come spia, scopre i piani della madre
 - Partenza da Ravenloft e ritorno a Barovia
-- Ismark affida loro Ireena e il carro per [Vallaki](<../../../lore/strahd/#vallaki>)
+- Ismark affida loro [Ireena](<../../../png/strahd/#ireena-kolyana>) e il carro per [Vallaki](<../../../lore/strahd/#vallaki>)
 
 ---
 

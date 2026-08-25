@@ -6,9 +6,9 @@
 
 ### L'Assalto a Castle Ravenloft
 
-Il gruppo chiama a raccolta tutti gli alleati. I **Cavalieri d'Argento**, i **[Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>)**, **Muriel** e gli altri si preparano per l'ultimo assalto. Il matrimonio di Strahd si avvicina.
+Il gruppo chiama a raccolta tutti gli alleati. I **[Cavalieri d'Argento](<../../../fazioni/strahd/#cavalieri-dargento>)**, i **[Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>)**, **[Muriel](<../../../png/strahd/#muriel>)** e gli altri si preparano per l'ultimo assalto. Il matrimonio di Strahd si avvicina.
 
-Prima del grande giorno, il gruppo fa un salto alla **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**, dove Madam Eva li attende sola. Tutti i Vistani sono stati convocati al castello per i preparativi.
+Prima del grande giorno, il gruppo fa un salto alla **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**, dove [Madam Eva](<../../../png/strahd/#madam-eva>) li attende sola. Tutti i [Vistani](<../../../fazioni/strahd/#vistani>) sono stati convocati al castello per i preparativi.
 
 ### Il Cuore del Dolore
 
@@ -38,21 +38,21 @@ Nel caos dello scontro, **[[Nezuko]]** rimane solo davanti al sarcofago. Crede c
 
 **Nezuko colpisce Ireena**.
 
-La Sunsword si spegne. L'anima di **Sergei** emerge dall'elsa e si ricongiunge con quella di [Tatiana](<../../../png/strahd/#tatyana>), finalmente libere. Strahd, ferito, si rigenera.
+La Sunsword si spegne. L'anima di **[Sergei](<../../../png/strahd/#sergei>)** emerge dall'elsa e si ricongiunge con quella di [Tatiana](<../../../png/strahd/#tatyana>), finalmente libere. Strahd, ferito, si rigenera.
 
 ### La Caduta degli Eroi
 
-La battaglia nelle cripte diventa un massacro. **Rina** cade. **Randal** cade. **Nezuko** cade. **Laszlo** cade. **[Kasimir](<../../../png/strahd/#kasimir>)** cade. **Odjek** cade.
+La battaglia nelle cripte diventa un massacro. **[Rina](<../../../png/strahd/#rina>)** cade. **Randal** cade. **Nezuko** cade. **Laszlo** cade. **[Kasimir](<../../../png/strahd/#kasimir>)** cade. **[Odjek](<../../../png/strahd/#odjek>)** cade.
 
 **Slap** e **[Gnemo](<../../../png/strahd/#gnemo>)** tentano la fuga, ma Slap si ferma: non può abbandonare i compagni. Torna indietro incontro alla sua fine.
 
-**Gnemo** resta solo. Circondato dai cadaveri dei compagni, davanti a Strahd. Il vampiro intima la resa. Gnemo abbassa le armi.
+**[Gnemo](<../../../png/strahd/#gnemo>)** resta solo. Circondato dai cadaveri dei compagni, davanti a Strahd. Il vampiro intima la resa. Gnemo abbassa le armi.
 
 Non rimane più nessuno.
 
 ### La Sconfitta
 
-Strahd von Zarovich è rimasto. Il signore eterno di [Barovia](<../../../lore/strahd/#barovia>) avanza tra i caduti. Il sangue, suo e altrui, macchia il suo abito nuziale.
+[Strahd von Zarovich](<../../../png/strahd/#strahd-von-zarovich>) è rimasto. Il signore eterno di [Barovia](<../../../lore/strahd/#barovia>) avanza tra i caduti. Il sangue, suo e altrui, macchia il suo abito nuziale.
 
 Ai suoi piedi giace Ireena — Tatiana. Non più viva. Non più sua.
 
@@ -64,7 +64,7 @@ Strahd si inginocchia. Una mano tremante sfiora il suo volto.
 
 Le torri di Ravenloft si ergono nere contro un cielo senza stelle. Nel villaggio, la vita riprende come sempre. Nessuno parla di eroi. Nessuno parla di speranza.
 
-Perché in Barovia, la speranza non muore. Non nasce affatto.
+Perché in [Barovia](<../../../lore/strahd/#barovia>), la speranza non muore. Non nasce affatto.
 
 Strahd von Zarovich rimane sul suo trono di ombre — non come un re, ma come l'eco vivente di una tragedia che non avrà mai fine.
 
@@ -85,7 +85,7 @@ E che, per questo, fu condannato ad avere tutto…
 - **[[Randal]]** — Ucciso da Strahd nelle cripte.
 - **[[Nezuko]]** — Ucciso da Strahd dopo aver colpito Ireena per errore.
 - **[[Slap]]** — Torna indietro per morire con i compagni.
-- **[[Luth]]** — Ucciso da Rahadin durante il banchetto.
+- **[[Luth]]** — Ucciso da [Rahadin](<../../../png/strahd/#rahadin>) durante il banchetto.
 - **[[Laszlo]]** — Ucciso da Strahd nelle cripte.
 
 ---
@@ -93,11 +93,11 @@ E che, per questo, fu condannato ad avere tutto…
 ## NPC Incontrati
 
 - **Strahd Von Zarovich** — Vince. Ancora una volta. Il ciclo si ripete.
-- **Ireena Kolyana / Tatiana** — Muore per mano di Nezuko. La sua anima si ricongiunge con [Sergei](<../../../png/strahd/#sergei>).
+- **[Ireena Kolyana](<../../../png/strahd/#ireena-kolyana>) / Tatiana** — Muore per mano di Nezuko. La sua anima si ricongiunge con [Sergei](<../../../png/strahd/#sergei>).
 - **Rahadin** — Ucciso dai [Cavalieri d'Argento](<../../../fazioni/strahd/#cavalieri-dargento>) nelle cripte.
-- **Lady [Fiona Watcher](<../../../png/strahd/#fiona-watcher>)** — Sconfitta dai Custodi delle Piume.
+- **Lady [[Fiona](<../../../png/strahd/#fiona-watcher>) Watcher](<../../../png/strahd/#fiona-watcher>)** — Sconfitta dai [Custodi delle Piume](<../../../fazioni/strahd/#custodi-delle-piume>).
 - **[Ludmilla](<../../../png/strahd/#ludmilla>)** — Sconfitta, fugge in forma di nebbia.
-- **[Sir Godfrey](<../../../png/strahd/#sir-godfrey>) e Vladimir** — Cadono combattendo Rahadin.
+- **[Sir [Godfrey](<../../../png/strahd/#sir-godfrey>)](<../../../png/strahd/#sir-godfrey>) e [Vladimir](<../../../png/strahd/#vladimir>)** — Cadono combattendo Rahadin.
 
 ---
 

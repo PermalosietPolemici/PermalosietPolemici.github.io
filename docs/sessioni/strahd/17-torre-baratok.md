@@ -30,11 +30,11 @@ Durante la notte, Luth ha un sogno: un lupo gli dice *"cerca il tuo branco, Luth
 
 Poco dopo, una **giovane donna** coperta di fango e sangue cade dal cavallo ai piedi della torre.
 
-Al mattino si presenta come **Ezmeralda D'Avenir**, cacciatrice di mostri, allieva di **Rudolph Van Richten**. Racconta di essere stata a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>) e di essere fuggita dopo giorni di inseguimento. La torre è un luogo sicuro dove le magie di divinazione non possono entrare.
+Al mattino si presenta come **[Ezmeralda](<../../../png/strahd/#ezmeralda>) D'Avenir**, cacciatrice di mostri, allieva di **Rudolph [Van Richten](<../../../png/strahd/#van-richten>)**. Racconta di essere stata a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>) e di essere fuggita dopo giorni di inseguimento. La torre è un luogo sicuro dove le magie di divinazione non possono entrare.
 
 ### Rahadin
 
-Mentre finiscono i preparativi, una voce chiama da fuori: **Rahadin** è giunto alla torre, seguendo [Ezmeralda](<../../../png/strahd/#ezmeralda>). La ragazza si consegna per salvare il gruppo, non prima di aver consegnato loro l'**elsa della spada di Sergei**, fratello di Strahd.
+Mentre finiscono i preparativi, una voce chiama da fuori: **[Rahadin](<../../../png/strahd/#rahadin>)** è giunto alla torre, seguendo [Ezmeralda](<../../../png/strahd/#ezmeralda>). La ragazza si consegna per salvare il gruppo, non prima di aver consegnato loro l'**elsa della spada di [Sergei](<../../../png/strahd/#sergei>)**, fratello di [Strahd](<../../../png/strahd/#strahd-von-zarovich>).
 
 ### La Maledizione dei Licantropi
 
@@ -44,16 +44,16 @@ Nezuko è sconvolto. Si chiude in sé stesso e si allontana dal gruppo.
 
 ### Il Viaggio Verso Krezk
 
-Il viaggio prosegue verso Krezk. L'aria si fa più fredda, la neve fa capolino. Un ululato intenso: un **lupo mannaro ferito** viene inseguito da un cacciatore di nome **[Odjek](<../../../png/strahd/#odjek>)**, che viene da Krezk.
+Il viaggio prosegue verso [Krezk](<../../../lore/strahd/#krezk>). L'aria si fa più fredda, la neve fa capolino. Un ululato intenso: un **lupo mannaro ferito** viene inseguito da un cacciatore di nome **[Odjek](<../../../png/strahd/#odjek>)**, che viene da Krezk.
 
-Odjek racconta di [Krezk](<../../../lore/strahd/#krezk>), dei lupi, della **fontana miracolosa** e del santuario di **Santa Markovia**.
+[Odjek](<../../../png/strahd/#odjek>) racconta di [Krezk](<../../../lore/strahd/#krezk>), dei lupi, della **fontana miracolosa** e del santuario di **Santa Markovia**.
 
 ---
 
 ## NPC Incontrati
 
 - **Ezmeralda D'Avenir** — Cacciatrice di mostri, allieva di [Van Richten](<../../../png/strahd/#van-richten>). Ferita, fuggita da Ravenloft.
-- **Rudolph Van Richten (Rictavio)** — Il famoso cacciatore di mostri sotto copertura da bardo.
+- **Rudolph Van Richten ([Rictavio](<../../../png/strahd/#rictavio>))** — Il famoso cacciatore di mostri sotto copertura da bardo.
 - **[Rahadin](<../../../png/strahd/#rahadin>)** — Ciambellano di Strahd. Cattura Ezmeralda.
 - **Odjek** — Cacciatore di Krezk. Guida il gruppo verso il villaggio.
 
@@ -61,7 +61,7 @@ Odjek racconta di [Krezk](<../../../lore/strahd/#krezk>), dei lupi, della **font
 
 ## Eventi Chiave
 
-- Arrivo alla torre di Baratok
+- Arrivo alla [torre di Baratok](<../../../lore/strahd/#torre-van-richten>)
 - Battaglia contro i gargoyle
 - Incontro con Ezmeralda
 - Rahadin cattura Ezmeralda

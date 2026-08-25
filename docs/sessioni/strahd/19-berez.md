@@ -6,9 +6,9 @@
 
 ### La Strada per Berez
 
-Dopo Krezk, il gruppo si dirige a **Berez**. La notte seguente, **[[Laszlo]]** continua a tradurre il **Tomo di [Strahd](<../../../png/strahd/#strahd-von-zarovich>)**, e il gruppo viene risucchiato nei ricordi del Conte.
+Dopo [Krezk](<../../../lore/strahd/#krezk>), il gruppo si dirige a **[Berez](<../../../lore/strahd/#berez>)**. La notte seguente, **[[Laszlo]]** continua a tradurre il **Tomo di [Strahd](<../../../png/strahd/#strahd-von-zarovich>)**, e il gruppo viene risucchiato nei ricordi del Conte.
 
-Assistono all'**assalto ad [Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, dove i cavalieri d'argento vengono sconfitti. Sir Godfrey viene trafitto a morte da sua sorella. Un drago d'argento vola nei cieli, mentre Strahd, ferito, viene salvato da un carro vistano.
+Assistono all'**assalto ad [Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, dove i [cavalieri d'argento](<../../../fazioni/strahd/#cavalieri-dargento>) vengono sconfitti. [Sir Godfrey](<../../../png/strahd/#sir-godfrey>) viene trafitto a morte da sua sorella. Un drago d'argento vola nei cieli, mentre [Strahd](<../../../png/strahd/#strahd-von-zarovich>), ferito, viene salvato da un carro vistano.
 
 ### Il Ricordo della Regina
 
@@ -18,7 +18,7 @@ Risucchiati ancora una volta nel libro, assistono alla morte della **Regina Rave
 
 Il carro si addentra in una umida e decadente palude. Un **muro di nebbia** con una potente aura di divinazione li avvolge. Dall'altra parte, il villaggio di [Berez](<../../../lore/strahd/#berez>) appare come un tempo: perfettamente tenuto, campi coltivati, il sole che splende.
 
-Un giovane **Re Barov** e una giovane **[Baba Lysaga](<../../../png/strahd/#baba-lysaga>)** escono da una casa. Lei è incinta — del piccolo Strahd. La regina Ravenovia chiede al gruppo di uccidere Baba Lysaga e il bambino.
+Un giovane **Re Barov** e una giovane **[Baba Lysaga](<../../../png/strahd/#baba-lysaga>)** escono da una casa. Lei è incinta — del piccolo Strahd. La regina Ravenovia chiede al gruppo di uccidere [Baba Lysaga](<../../../png/strahd/#baba-lysaga>) e il bambino.
 
 La scena cambia. Baba Lysaga allatta il piccolo. La regina ordina alle guardie di prendere il bambino. Passano gli anni: Strahd dodicenne lotta con il fratello **[Sergei](<../../../png/strahd/#sergei>)**, che lo insulta chiamandolo *"bastardo"*.
 
@@ -38,7 +38,7 @@ Laszlo accetta un **patto** con la strega: lei li porterà sani e salvi al caste
 
 ### Il Tomo di Strahd
 
-Durante il viaggio, il gruppo continua a leggere il Tomo. Assistono all'incontro tra Strahd e **Sergei**, alla festa in suo onore, ai combattimenti dimostrativi. Sergei sfida il fratello e viene sconfitto. Qui inizia il segreto odio di Strahd per il giovane, l'invidia per la sua bellezza e giovinezza.
+Durante il viaggio, il gruppo continua a leggere il Tomo. Assistono all'incontro tra Strahd e **[Sergei](<../../../png/strahd/#sergei>)**, alla festa in suo onore, ai combattimenti dimostrativi. Sergei sfida il fratello e viene sconfitto. Qui inizia il segreto odio di Strahd per il giovane, l'invidia per la sua bellezza e giovinezza.
 
 ### La Morte di Randal
 
@@ -48,15 +48,15 @@ Nezuko perde le staffe, ma Laszlo lo ferma e tratta con la strega. Lei accetta d
 
 ### La Fuga
 
-Il gruppo legge il Tomo — involontariamente trascinando anche la strega al suo interno. Rivivono la cena in cui Strahd conosce **[Tatiana](<../../../png/strahd/#tatyana>)**, la prima reincarnazione di Ireena.
+Il gruppo legge il Tomo — involontariamente trascinando anche la strega al suo interno. Rivivono la cena in cui Strahd conosce **[Tatiana](<../../../png/strahd/#tatyana>)**, la prima reincarnazione di [Ireena](<../../../png/strahd/#ireena-kolyana>).
 
 Baba Lysaga, scoperto il Tomo, ne diventa ossessionata e chiede di cambiare il patto. Il gruppo **fugge** mentre la strega dorme.
 
 ### Madam Eva
 
-Il gruppo si dirige alla **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**, dove sorge il campo vistani di **Madam Eva**. La veggente si rivela: è **Katarina**, la sorellastra di Strahd. Per anni ha lavorato in segreto per spodestare il fratello, richiamando avventurieri dalle nebbie.
+Il gruppo si dirige alla **[Polla di Tser](<../../../lore/strahd/#polla-di-tser>)**, dove sorge il campo [vistani](<../../../fazioni/strahd/#vistani>) di **[Madam Eva](<../../../png/strahd/#madam-eva>)**. La veggente si rivela: è **Katarina**, la sorellastra di Strahd. Per anni ha lavorato in segreto per spodestare il fratello, richiamando avventurieri dalle nebbie.
 
-Rivela l'esistenza di **tre antichi templi druidici** che proteggevano Barovia prima dell'arrivo di Strahd. Se riportati all'antico splendore, indebolirebbero la presa del Conte sulla terra.
+Rivela l'esistenza di **tre antichi templi druidici** che proteggevano [Barovia](<../../../lore/strahd/#barovia>) prima dell'arrivo di Strahd. Se riportati all'antico splendore, indebolirebbero la presa del Conte sulla terra.
 
 ---
 

@@ -32,9 +32,9 @@ Non capiscono di cosa stiano parlando. Quando chiedono chiarimenti, il **ragazzo
 
 Il ragazzo si chiama **ISMARK INDIROVICH**, figlio del borgomastro del villaggio, morto di malattia alcuni giorni prima.
 
-Racconta di quanto l'oppressione di quello che lui chiama **"il diavolo"** — che vive nel castello — faccia vivere di stenti la gente di Barovia. I campi producono sempre meno cibo, la caccia non fa buoni frutti, le foreste sono infestate da lupi e strane creature, e ultimamente scarseggia l'acqua. Inoltre, una **strana malattia** si sta diffondendo — la stessa che ha ucciso suo padre. Non è tutto: stanno avvenendo **strane sparizioni** di persone. La gente ha paura, non esce quasi più di casa.
+Racconta di quanto l'oppressione di quello che lui chiama **"il diavolo"** — che vive nel castello — faccia vivere di stenti la gente di [Barovia](<../../../lore/strahd/#barovia>). I campi producono sempre meno cibo, la caccia non fa buoni frutti, le foreste sono infestate da lupi e strane creature, e ultimamente scarseggia l'acqua. Inoltre, una **strana malattia** si sta diffondendo — la stessa che ha ucciso suo padre. Non è tutto: stanno avvenendo **strane sparizioni** di persone. La gente ha paura, non esce quasi più di casa.
 
-**Randal**, in special modo, cerca di rassicurarlo, ma [Ismark](<../../../png/strahd/#ismark>) è abbattuto. Ora che il padre non c'è più, toccherà a lui prendersi cura di questo posto, e non sa se riuscirà. Randal parla di avere fede e credere in un miracolo, ma Ismark dice di aver già visto troppi gruppi di persone passare di qua cercando di rassicurare e dicendo di aspettare un miracolo — ma tutti sono morti o spariti. Non crede che loro siano diversi dagli altri.
+**Randal**, in special modo, cerca di rassicurarlo, ma [Ismark](<../../../png/strahd/#ismark>) è abbattuto. Ora che il padre non c'è più, toccherà a lui prendersi cura di questo posto, e non sa se riuscirà. Randal parla di avere fede e credere in un miracolo, ma [Ismark](<../../../png/strahd/#ismark>) dice di aver già visto troppi gruppi di persone passare di qua cercando di rassicurare e dicendo di aspettare un miracolo — ma tutti sono morti o spariti. Non crede che loro siano diversi dagli altri.
 
 Ismark spiega che **Barovia è un luogo isolato**, che non può essere abbandonato. Le sue nebbie impediscono di uscire. Chiama questo luogo *cimitero, tomba, prigione*.
 
@@ -46,7 +46,7 @@ Chiedono chi sia questo "diavolo" che vive nel castello, e menzionano il nome **
 
 ### Le Tre Sorelle
 
-Le tre ragazze salgono al piano di sopra. **Radagast**, poco interessato ai discorsi ma molto alle femmine, le segue. Nota che anche loro, appena sentono il nome di Strahd, si fermano per un istante, come impietrite, per poi proseguire e infilarsi in una stanza.
+Le tre ragazze salgono al piano di sopra. **Radagast**, poco interessato ai discorsi ma molto alle femmine, le segue. Nota che anche loro, appena sentono il nome di [Strahd](<../../../png/strahd/#strahd-von-zarovich>), si fermano per un istante, come impietrite, per poi proseguire e infilarsi in una stanza.
 
 Ismark vede il dubbio sui loro volti e li **sfida a provare ad andarsene**, convinto che non possano riuscirci.
 
@@ -74,7 +74,7 @@ Tornati in taverna, incontrano una delle ragazze che accusa Radagast di **tentat
 
 Fanno visita a **Ismark nella sua casa**. Qui fanno la conoscenza di sua sorella **IREENA KOLYANA**, una bellissima giovane ragazza in lutto per la morte del padre. **[[Luth]]** la osserva attentamente. Nella lettera trovata in precedenza, avevano letto che la ragazza era ferita, ma non ne trovano traccia, e lei smentisce quanto letto.
 
-Ismark racconta quello che sa sui **[Vistani](<../../../fazioni/strahd/#vistani>)**, un popolo nomade che vive nelle terre di Barovia. Per qualche motivo, sembrerebbe che siano in grado di lasciare questo luogo. Voci dicono che siano in combutta con il "diavolo", o che abbiano stretto qualche oscuro patto con lui, ma non ha idea se tutto ciò sia vero o meno. Non sa nemmeno indicare dove poterli trovare.
+Ismark racconta quello che sa sui **[Vistani](<../../../fazioni/strahd/#[vistani](<../../../fazioni/strahd/#vistani>)>)**, un popolo nomade che vive nelle terre di Barovia. Per qualche motivo, sembrerebbe che siano in grado di lasciare questo luogo. Voci dicono che siano in combutta con il "diavolo", o che abbiano stretto qualche oscuro patto con lui, ma non ha idea se tutto ciò sia vero o meno. Non sa nemmeno indicare dove poterli trovare.
 
 Per quanto riguarda la geografia del luogo, sa che c'è almeno un altro villaggio di nome **[Vallaki](<../../../lore/strahd/#vallaki>)**, ma non ha idea di quanto lontano sia.
 
@@ -134,9 +134,9 @@ Decidono di fargli visita. Scoprono che la casa è **vuota**, con evidenti segni
 
 - **La Vecchia dei Pasticcini** — Misteriosa anziana che vende dolcetti paradisiaci ma dal prezzo sospetto.
 - **Ismark Indirovich** — Nuovo borgomastro di Barovia, figlio del defunto Kolyan Indirovich.
-- **Ireena Kolyana** — Sorella adottiva di Ismark, bellissima giovane ragazza in lutto. Ha attirato l'attenzione di Strahd.
+- **[Ireena Kolyana](<../../../png/strahd/#ireena-kolyana>)** — Sorella adottiva di Ismark, bellissima giovane ragazza in lutto. Ha attirato l'attenzione di Strahd.
 - **Mirabel** — Una delle tre sorelle della locanda. Minaccia Radagast e gli impone un patto.
-- **Mary** — Donna del villaggio, disperata per la scomparsa della figlia Gertruda.
+- **Mary** — Donna del villaggio, disperata per la scomparsa della figlia [Gertruda](<../../../png/strahd/#gertruda>).
 - **Radu** — Debitore delle tre sorelle, frequenta la locanda.
 - **Il Misterioso Viandante** — Uomo vestito di viola con turbante, entra e esce dalla locanda.
 

@@ -36,7 +36,7 @@ Lo stomaco di Nezuko sembra sottosopra, borbotta finché non apre la bocca in un
 
 ### La Biblioteca
 
-L'esplorazione continua. Salgono fino a una **biblioteca** dove Xenia trova un libro con su scritta la **sua vita**. È terrorizzata da quello che legge, soprattutto alla fine, quando legge che una creatura nell'ombra la sta seguendo e osservando. Radagast, osservando il libro, lo vede come un comunissimo libro di storia, ma Xenia è convinta di ciò che ha visto e letto.
+L'esplorazione continua. Salgono fino a una **biblioteca** dove [Xenia](<../../../png/strahd/#xenia>) trova un libro con su scritta la **sua vita**. È terrorizzata da quello che legge, soprattutto alla fine, quando legge che una creatura nell'ombra la sta seguendo e osservando. Radagast, osservando il libro, lo vede come un comunissimo libro di storia, ma Xenia è convinta di ciò che ha visto e letto.
 
 La casa sta mettendo alla prova i loro nervi. Urla, porte che sbattono, campanelli che suonano: tutto fa venire la pelle d'oca.
 
@@ -144,7 +144,7 @@ Il biglietto recita:
 
 ## Oggetti Trovati
 
-- **Lettera di Strahd** — Indirizzata al padrone di casa, lo accusa di essere un verme indegno del suo dominio.
+- **Lettera di [Strahd](<../../../png/strahd/#strahd-von-zarovich>)** — Indirizzata al padrone di casa, lo accusa di essere un verme indegno del suo dominio.
 - **Cesto con vino e biglietto** — "Benvenuti in [Barovia](<../../../lore/strahd/#barovia>)", sigillo del Conte.
 
 ---
@@ -157,7 +157,7 @@ Il biglietto recita:
 - Battaglia con Lorgoht nell'altare sommerso
 - Fuga dalla casa in crollo
 - Il cesto con il messaggio di benvenuto di Strahd
-- La valle di Barovia e il castello Ravenloft all'orizzonte
+- La valle di [Barovia](<../../../lore/strahd/#barovia>) e il castello Ravenloft all'orizzonte
 
 ---
 
