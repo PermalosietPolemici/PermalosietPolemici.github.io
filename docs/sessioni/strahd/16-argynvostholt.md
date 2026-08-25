@@ -6,9 +6,9 @@
 
 ### La Magione dei Cavalieri d'Argento
 
-Dopo Krezk, il gruppo si dirige ad **[Argynvostholt](<../../lore/strahd/#argynvostholt>)**, la magione dei cavalieri d'argento. Quattrocento anni di abbandono hanno lasciato il segno: distruzione e desolazione regnano sovrane.
+Dopo Krezk, il gruppo si dirige ad **[Argynvostholt](<../../../lore/strahd/#argynvostholt>)**, la magione dei cavalieri d'argento. Quattrocento anni di abbandono hanno lasciato il segno: distruzione e desolazione regnano sovrane.
 
-All'ingresso, una **bara** con il nome di **[Kasimir](<../../png/strahd/#kasimir>)** inciso sopra. All'interno, un cadavere umanoide.
+All'ingresso, una **bara** con il nome di **[Kasimir](<../../../png/strahd/#kasimir>)** inciso sopra. All'interno, un cadavere umanoide.
 
 ### I Cavalieri Non Morti
 
@@ -22,17 +22,17 @@ Nella sala del trono, un cumulo di macerie e un trono di marmo a forma di drago.
 
 Una creatura di fuoco — l'**anima di Argynvost**, il drago d'argento — appare e parla al gruppo:
 
-*"Secoli sono passati da quando il mio respiro solcava il cielo. Questo era il mio rifugio, la mia cittadella, il bastione della luce contro le tenebre. Qui nacque l'Ordine del Drago d'Argento. Ci opponemmo a [Strahd](<../../png/strahd/#strahd-von-zarovich>), ma la sua ombra ci travolse."*
+*"Secoli sono passati da quando il mio respiro solcava il cielo. Questo era il mio rifugio, la mia cittadella, il bastione della luce contro le tenebre. Qui nacque l'Ordine del Drago d'Argento. Ci opponemmo a [Strahd](<../../../png/strahd/#strahd-von-zarovich>), ma la sua ombra ci travolse."*
 
 Il drago chiede al gruppo di trovare la verità, scoprire quale male ha avvelenato il luogo, e riportare i suoi guerrieri alla pace.
 
 ### Sir Godfrey
 
-**[Sir Godfrey](<../../png/strahd/#sir-godfrey>)**, ex capitano dei cavalieri, si anima quando Kasimir recita l'antico giuramento. Racconta la loro storia:
+**[Sir Godfrey](<../../../png/strahd/#sir-godfrey>)**, ex capitano dei cavalieri, si anima quando Kasimir recita l'antico giuramento. Racconta la loro storia:
 
-*"Il teschio di Argynvost fu strappato alle sue ossa, simbolo maledetto della sua disfatta. Ora riposa a [Castle Ravenloft](<../../lore/strahd/#castle-ravenloft>). Il faro di Argynvost si è spento."*
+*"Il teschio di Argynvost fu strappato alle sue ossa, simbolo maledetto della sua disfatta. Ora riposa a [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>). Il faro di Argynvost si è spento."*
 
-**[Vladimir](<../../png/strahd/#vladimir>)**, il comandante dei cavalieri, è consumato dall'odio. Non permetterà che il teschio torni al faro — ogni atto di redenzione lenirebbe l'inferno che lui stesso ha scelto di infliggere a Strahd.
+**[Vladimir](<../../../png/strahd/#vladimir>)**, il comandante dei cavalieri, è consumato dall'odio. Non permetterà che il teschio torni al faro — ogni atto di redenzione lenirebbe l'inferno che lui stesso ha scelto di infliggere a Strahd.
 
 ### La Promessa
 

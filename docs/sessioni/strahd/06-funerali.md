@@ -8,15 +8,15 @@
 
 Il gruppo si reca al **cimitero**, dove un piccolo numero di persone si è radunato per l'ultimo addio al fu **borgomastro Kolyan Indirovich**.
 
-Durante la funzione arriva una **carrozza**. Ne scende un uomo. **[Ireena](<../../png/strahd/#ireena-kolyana>)** si dirige verso di lui, riceve una lettera, la legge, la getta a terra e **scappa via**.
+Durante la funzione arriva una **carrozza**. Ne scende un uomo. **[Ireena](<../../../png/strahd/#ireena-kolyana>)** si dirige verso di lui, riceve una lettera, la legge, la getta a terra e **scappa via**.
 
-**[[Nezuko]]** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **[Rahadin](<../../png/strahd/#rahadin>)**, ed è stato mandato dal **Conte Strahd Von Zarovich**. Dà il benvenuto in Barovia, si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
+**[[Nezuko]]** si avvicina all'uomo. Sembra un elfo dalla pelle leggermente scura e lunghi capelli neri. Si presenta con un inchino: si chiama **[Rahadin](<../../../png/strahd/#rahadin>)**, ed è stato mandato dal **Conte Strahd Von Zarovich**. Dà il benvenuto in Barovia, si scusa se il Conte non è venuto di persona, consegna una lettera e se ne va.
 
 ### L'Invito
 
 La lettera è un **invito a cena** con il Conte stesso, tra tre giorni.
 
-Restano stupiti: a detta di Ismark, non ha mai saputo di nessuno invitato a **[Castle Ravenloft](<../../lore/strahd/#castle-ravenloft>)**.
+Restano stupiti: a detta di Ismark, non ha mai saputo di nessuno invitato a **[Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)**.
 
 Raccolgono anche la lettera lasciata a terra da Ireena, scritta anch'essa dal Conte. Sembra una lunga lettera di condoglianze per la morte del padre, ma termina con:
 
@@ -28,11 +28,11 @@ Proprio mentre finiscono di leggere, un **unico rintocco** di una campana lontan
 
 **La marcia dei morti ha inizio.**
 
-Le anime di coloro che, negli anni, hanno provato ad opporsi alla tirannia di [Strahd](<../../png/strahd/#strahd-von-zarovich>) riposano qui. Ogni notte si risvegliano per formare una silenziosa marcia verso il castello. Un monito per futuri avventori: chiunque abbia mai provato ha sempre e solo fallito.
+Le anime di coloro che, negli anni, hanno provato ad opporsi alla tirannia di [Strahd](<../../../png/strahd/#strahd-von-zarovich>) riposano qui. Ogni notte si risvegliano per formare una silenziosa marcia verso il castello. Un monito per futuri avventori: chiunque abbia mai provato ha sempre e solo fallito.
 
 ### La Tentazione
 
-Nel frattempo, **[[Randal]]** è in prigione a pregare. Viene avvicinato da qualcuno che si presenta come **Arik**, il taverniere. Arik è rimasto impressionato dal fatto che finalmente qualcuno abbia trovato il coraggio di fronteggiare gentaglia come Radu. Gli offre la **chiave per la libertà**, esortandolo a riflettere su come i suoi amici, invece di aiutarlo, siano beatamente con [Ismark](<../../png/strahd/#ismark>) — il suo aguzzino. Lo avvisa che la sua fuga potrebbe salvare Ireena, in imminente pericolo.
+Nel frattempo, **[[Randal]]** è in prigione a pregare. Viene avvicinato da qualcuno che si presenta come **Arik**, il taverniere. Arik è rimasto impressionato dal fatto che finalmente qualcuno abbia trovato il coraggio di fronteggiare gentaglia come Radu. Gli offre la **chiave per la libertà**, esortandolo a riflettere su come i suoi amici, invece di aiutarlo, siano beatamente con [Ismark](<../../../png/strahd/#ismark>) — il suo aguzzino. Lo avvisa che la sua fuga potrebbe salvare Ireena, in imminente pericolo.
 
 Randal **rifiuta**. Getta via la chiave. Il suo cuore e la sua anima sono distrutti. Non trova motivazioni per andare avanti.
 
@@ -44,7 +44,7 @@ Sconfiggono le creature all'esterno, entrano e trovano un **gigantesco lupo** en
 
 ### La Promessa
 
-Salvata la giovane, vengono ospitati per la notte. Il mattino seguente, **Ismark** rivela la decisione presa: Ireena è in pericolo e non può più restare a [Barovia](<../../lore/strahd/#barovia>). Chiede loro di scortarla fino al villaggio di **Vallaki**, reputato un luogo più sicuro. In cambio, offre la **libertà di Randal**, a patto che non torni mai più a Barovia.
+Salvata la giovane, vengono ospitati per la notte. Il mattino seguente, **Ismark** rivela la decisione presa: Ireena è in pericolo e non può più restare a [Barovia](<../../../lore/strahd/#barovia>). Chiede loro di scortarla fino al villaggio di **Vallaki**, reputato un luogo più sicuro. In cambio, offre la **libertà di Randal**, a patto che non torni mai più a Barovia.
 
 Accettano — non prima però di essere andati a quella cena al castello.
 
@@ -60,7 +60,7 @@ Randal si libera dalla presa del barbaro e fugge correndo verso casa di Ismark. 
 
 Randal **riprende coraggio**. Adesso ha sulle spalle la promessa di proteggerla ad ogni costo. Il primo passo, forse, per una sua totale redenzione.
 
-Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la cena, torneranno a prendere Ireena per portarla a [Vallaki](<../../lore/strahd/#vallaki>).
+Preparati i bagagli, escono da Barovia in direzione del castello. Terminata la cena, torneranno a prendere Ireena per portarla a [Vallaki](<../../../lore/strahd/#vallaki>).
 
 ---
 

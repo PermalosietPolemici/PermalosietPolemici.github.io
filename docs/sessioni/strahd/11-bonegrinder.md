@@ -6,7 +6,7 @@
 
 ### Il Mulino
 
-Lasciato [Barovia](<../../lore/strahd/#barovia>), il gruppo viaggia verso ovest. La sera li coglie al limitare di un bosco, a un incrocio dove strani amuleti di legno pendono dagli alberi. **Sterminati campi di granoturco** secchi e marci circondano la zona. Una struttura si staglia nel crepuscolo tra la nebbia.
+Lasciato [Barovia](<../../../lore/strahd/#barovia>), il gruppo viaggia verso ovest. La sera li coglie al limitare di un bosco, a un incrocio dove strani amuleti di legno pendono dagli alberi. **Sterminati campi di granoturco** secchi e marci circondano la zona. Una struttura si staglia nel crepuscolo tra la nebbia.
 
 Una luce si accende lontano. Il vento porta con sé un **meraviglioso profumo di pasticcini**.
 
@@ -18,7 +18,7 @@ All'interno del mulino, una cucina con decine di ingredienti. La vecchia sta cuc
 
 Gli ingredienti sembrano normali. Il profumo inebria **[[Nezuko]]**, che acquista alcuni dolcetti.
 
-La vecchia offre a Nezuko un accordo: da piccola viveva a [Vallaki](<../../lore/strahd/#vallaki>), in un orfanotrofio orribile dove lei e le sue sorelle venivano vessate e picchiate. Chiede loro di salvare i bambini dell'orfanotrofio e portarne alcuni al mulino, dove lei e le sorelle potrebbero adottarli e dargli una vita migliore.
+La vecchia offre a Nezuko un accordo: da piccola viveva a [Vallaki](<../../../lore/strahd/#vallaki>), in un orfanotrofio orribile dove lei e le sue sorelle venivano vessate e picchiate. Chiede loro di salvare i bambini dell'orfanotrofio e portarne alcuni al mulino, dove lei e le sorelle potrebbero adottarli e dargli una vita migliore.
 
 ### Il Tempio Sotterraneo
 
@@ -34,7 +34,7 @@ Nessuno crede fino in fondo alle sue parole.
 
 Il gruppo si accampa fuori dal mulino. Randal ha una crisi e sviene. Laszlo gli fa mangiare un po' del dolce e dopo poco si riprende — giusto in tempo per vedere l'arrivo della **carrozza nera**.
 
-Ne scende **[Xenia](<../../png/strahd/#xenia>)**. La sua permanenza al castello è stata breve: non ha scoperto molto, ma il Conte è stato benevolo nel concederle di tornare.
+Ne scende **[Xenia](<../../../png/strahd/#xenia>)**. La sua permanenza al castello è stata breve: non ha scoperto molto, ma il Conte è stato benevolo nel concederle di tornare.
 
 Il giorno dopo, il viaggio riprende verso Vallaki.
 
@@ -42,7 +42,7 @@ Il giorno dopo, il viaggio riprende verso Vallaki.
 
 ## NPC Incontrati
 
-- **[Morgantha](<../../png/strahd/#morgantha>)** (e le sue sorelle) — La vecchia del mulino. Gentile, disponibile, incredibilmente sospetta. La verità su di lei è molto più oscura di quanto sembri.
+- **[Morgantha](<../../../png/strahd/#morgantha>)** (e le sue sorelle) — La vecchia del mulino. Gentile, disponibile, incredibilmente sospetta. La verità su di lei è molto più oscura di quanto sembri.
 
 ---
 
@@ -52,7 +52,7 @@ Il giorno dopo, il viaggio riprende verso Vallaki.
 - Il profumo dei pasticcini e l'offerta della vecchia
 - Scoperta del tempio sotterraneo sigillato
 - Randal ha una crisi dopo aver mangiato il dolce
-- Ritorno di Xenia da [Castle Ravenloft](<../../lore/strahd/#castle-ravenloft>)
+- Ritorno di Xenia da [Castle Ravenloft](<../../../lore/strahd/#castle-ravenloft>)
 - Il gruppo riparte verso Vallaki
 
 ---

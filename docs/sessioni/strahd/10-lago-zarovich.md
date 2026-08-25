@@ -6,39 +6,39 @@
 
 ### Il Lago Zarovich
 
-Dopo aver lasciato il mulino di Bonegrinder, il gruppo arriva a un bivio. **[Ireena](<../../png/strahd/#ireena-kolyana>)**, entusiasta, chiede di vedere il lago. Prendono quella strada.
+Dopo aver lasciato il mulino di Bonegrinder, il gruppo arriva a un bivio. **[Ireena](<../../../png/strahd/#ireena-kolyana>)**, entusiasta, chiede di vedere il lago. Prendono quella strada.
 
-Il **[Lago Zarovich](<../../lore/strahd/#lago-zarovich>)** è gigantesco. Le montagne innevate si specchiano nell'acqua. In mezzo al lago, un'isoletta con una torre. Un pescatore solitario è in barca.
+Il **[Lago Zarovich](<../../../lore/strahd/#lago-zarovich>)** è gigantesco. Le montagne innevate si specchiano nell'acqua. In mezzo al lago, un'isoletta con una torre. Un pescatore solitario è in barca.
 
 Prendono alcune barche per raggiungere l'isola. Non appena prendono il largo, il pescatore getta un **grosso sacco** nel lago. **[[Laszlo]]**, trasformato in coccodrillo, si tuffa e recupera il sacco — qualcosa si muove al suo interno.
 
 ### La Bambina Salvata
 
-**[Xenia](<../../png/strahd/#xenia>)**, terrorizzata dall'acqua, apre il sacco. Dentro c'è **Arabella**, una bambina di 8-9 anni, svenuta.
+**[Xenia](<../../../png/strahd/#xenia>)**, terrorizzata dall'acqua, apre il sacco. Dentro c'è **Arabella**, una bambina di 8-9 anni, svenuta.
 
 Un **coccodrillo gigante** attacca Laszlo. Creature acquatiche prendono di mira gli altri. **[[Randal]]** viene colpito più volte e trascinato sott'acqua, svenuto. Quando sembra spacciato, una **giovane donna con ciocche blu** si tuffa dal cielo e lo salva.
 
-La ragazza si chiama **[Muriel](<../../png/strahd/#muriel>)**. Dice che qualcuno li osserva e ha giudicato che meritassero aiuto. Se ne va senza aggiungere altro.
+La ragazza si chiama **[Muriel](<../../../png/strahd/#muriel>)**. Dice che qualcuno li osserva e ha giudicato che meritassero aiuto. Se ne va senza aggiungere altro.
 
 ### Il Campo Vistani
 
-Arabella si riprende. È una vistana che vive in un campo stabile vicino a [Vallaki](<../../lore/strahd/#vallaki>). La riportano a casa.
+Arabella si riprende. È una vistana che vive in un campo stabile vicino a [Vallaki](<../../../lore/strahd/#vallaki>). La riportano a casa.
 
-Lungo la strada incontrano **[Vasili Von Holtz](<../../png/strahd/#vasili-von-holtz>)**, un mercante gentile e disponibile — ma **[[Radagast]]** si innervosisce e l'affare salta.
+Lungo la strada incontrano **[Vasili Von Holtz](<../../../png/strahd/#vasili-von-holtz>)**, un mercante gentile e disponibile — ma **[[Radagast]]** si innervosisce e l'affare salta.
 
-Arrivano al **campo Vistani**, una collinetta erbosa circondata da carri e una grande tenda. Qui incontrano **[Kasimir](<../../png/strahd/#kasimir>)**, un elfo del crepuscolo molto anziano. Con lui c'è subito sintonia.
+Arrivano al **campo Vistani**, una collinetta erbosa circondata da carri e una grande tenda. Qui incontrano **[Kasimir](<../../../png/strahd/#kasimir>)**, un elfo del crepuscolo molto anziano. Con lui c'è subito sintonia.
 
 ### La Storia di Kasimir
 
-Kasimir racconta la sua storia: sua sorella **Patrina** era stata scelta come moglie da [Strahd](<../../png/strahd/#strahd-von-zarovich>). Quando venne trasformata in vampira, capì la gravità di ciò che aveva fatto e si pentì. Kasimir guidò una spedizione al castello per liberarla, ma trovò un mostro che chiedeva la morte. La pietà di Kasimir fece sì che liberasse la sorella dal suo tormento eterno.
+Kasimir racconta la sua storia: sua sorella **Patrina** era stata scelta come moglie da [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Quando venne trasformata in vampira, capì la gravità di ciò che aveva fatto e si pentì. Kasimir guidò una spedizione al castello per liberarla, ma trovò un mostro che chiedeva la morte. La pietà di Kasimir fece sì che liberasse la sorella dal suo tormento eterno.
 
 Strahd non gradì: ordinò lo sterminio di tutte le donne e i bambini elfi. Così fu, condannando gli elfi alla sparizione.
 
-Kasimir descrive Strahd come un mostro spietato e colpevole della maledizione che affligge [Barovia](<../../lore/strahd/#barovia>), rendendo impossibile fuggire da queste terre.
+Kasimir descrive Strahd come un mostro spietato e colpevole della maledizione che affligge [Barovia](<../../../lore/strahd/#barovia>), rendendo impossibile fuggire da queste terre.
 
 ### La Festa e l'Attacco
 
-**Luvash**, capo dei [Vistani](<../../fazioni/strahd/#vistani>) e padre di Arabella, fa aprire una botte di vino. Si fa festa in onore del gruppo per aver salvato la piccola.
+**Luvash**, capo dei [Vistani](<../../../fazioni/strahd/#vistani>) e padre di Arabella, fa aprire una botte di vino. Si fa festa in onore del gruppo per aver salvato la piccola.
 
 Durante la notte, suona un **allarme**: Kasimir è stato aggredito nella sua casa. Enormi artigliate alla porta, un grosso graffio sulla spalla, la lingua strappata. Viene salvato per miracolo.
 
@@ -51,7 +51,7 @@ Kasimir dice che conoscere il passato del Conte potrebbe aiutare a distruggere l
 ## NPC Incontrati
 
 - **Muriel** — Misteriosa salvatrice dai capelli blu. Dice che "qualcuno li osserva". Se ne va senza spiegazioni.
-- **Arabella** — Bambina vistana salvata dalle acque del lago. Figlia di [Luvash](<../../png/strahd/#luvash>).
+- **Arabella** — Bambina vistana salvata dalle acque del lago. Figlia di [Luvash](<../../../png/strahd/#luvash>).
 - **Kasimir** — Anziano elfo del crepuscolo. Ha perso la sorella Patrina per mano di Strahd. Diventerà un alleato prezioso.
 - **Luvash** — Capo dei Vistani, padre di Arabella. Uomo d'onore.
 - **Vasili Von Holtz** — Misterioso mercante incontrato sulla strada. Gentile, ma qualcosa in lui non convince.

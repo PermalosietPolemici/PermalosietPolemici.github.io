@@ -4,7 +4,7 @@
 
 ---
 
-Le luci del **[Witchlight Carnival](<../../lore/strahd/#witchlight-carnival>)** sono spente. Sono passati diversi giorni da quando il circo ha chiuso i battenti ed è ripartito per la sua nuova destinazione.
+Le luci del **[Witchlight Carnival](<../../../lore/strahd/#witchlight-carnival>)** sono spente. Sono passati diversi giorni da quando il circo ha chiuso i battenti ed è ripartito per la sua nuova destinazione.
 
 Come succede ogni volta, dopo lunghi giorni di duro lavoro, si fa festa.
 
@@ -16,7 +16,7 @@ Birra, vino e musica allietano la serata, spingendo tutti, come altre volte già
 
 **[[Radagast]]** è sdraiato completamente nudo, in preda ai fumi dell'alcool, in un letto fatto di decine di cuscini colorati. Continua a sorseggiare vino da una bottiglia mentre alcune bellissime donne in abiti succinti lo imboccano con frutta e piccoli dolci squisiti. Gli sembra di essere in paradiso.
 
-Sente un colpo al fianco. **[Xenia](<../../png/strahd/#xenia>)**, completamente nuda, gli ha appena dato un calcio. Poi un altro, e un altro ancora. Fa male, ma è così bella. La donna apre bocca e parla con la voce di un vecchio:
+Sente un colpo al fianco. **[Xenia](<../../../png/strahd/#xenia>)**, completamente nuda, gli ha appena dato un calcio. Poi un altro, e un altro ancora. Fa male, ma è così bella. La donna apre bocca e parla con la voce di un vecchio:
 
 — *Maledetto di uno sporco ubriacone, alzati e datti una sistemata.*
 
@@ -32,7 +32,7 @@ L'anziano è un vecchio agente teatrale giunto al carnival più o meno 3 anni fa
 
 ### Il Mattino Dopo
 
-Una volta rimessi in sesto, escono dalla tenda. [Naso](<../../png/strahd/#naso>) aspetta fuori con aria furiosa.
+Una volta rimessi in sesto, escono dalla tenda. [Naso](<../../../png/strahd/#naso>) aspetta fuori con aria furiosa.
 
 — *Sapete cosa fare. Camminare.*
 
@@ -54,7 +54,7 @@ Escono uno alla volta sotto lo sguardo vigile di Naso.
 
 **[[Nezuko]]** è l'ultimo. La testa gli pulsa da morire — da quando ci sono Radagast e Slap, queste serate prendono una brutta piega. Naso lo ferma con il bastone.
 
-— *Tu no. Hai un appuntamento con [Maddok](<../../png/strahd/#maddok>).*
+— *Tu no. Hai un appuntamento con [Maddok](<../../../png/strahd/#maddok>).*
 
 Il solo sentire quel nome gli fa venire i brividi.
 
@@ -146,7 +146,7 @@ Non sono preparati per questo. Alcuni di loro restano feriti prima di uccidere l
 
 ### La Lettera
 
-Sul corpo dell'uomo trovano una **lettera** con ancora il sigillo. Leggendola, vengono a conoscenza di una storia di terrore e tristezza, scritta dal **borgomastro di un villaggio chiamato [Barovia](<../../lore/strahd/#barovia>)**.
+Sul corpo dell'uomo trovano una **lettera** con ancora il sigillo. Leggendola, vengono a conoscenza di una storia di terrore e tristezza, scritta dal **borgomastro di un villaggio chiamato [Barovia](<../../../lore/strahd/#barovia>)**.
 
 Racconta di come la figlia adottiva sia stata ferita, e la sua gente soffra. Si augura che questo male possa restare confinato in questa terra, senza che il mondo patisca queste stesse sofferenze.
 

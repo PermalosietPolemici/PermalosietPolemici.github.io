@@ -6,25 +6,25 @@
 
 ### Krezk
 
-**Giunti a Krezk**, il gruppo vede le sue alte e fortificate mura. Conoscono il borgomastro **[Dimitri Krezkov](<../../png/strahd/#dimitri-krezkov>)**, che non è intenzionato a farli entrare. Li considera possibili alleati di Strahd.
+**Giunti a Krezk**, il gruppo vede le sue alte e fortificate mura. Conoscono il borgomastro **[Dimitri Krezkov](<../../../png/strahd/#dimitri-krezkov>)**, che non è intenzionato a farli entrare. Li considera possibili alleati di Strahd.
 
-Solo grazie a **[Odjek](<../../png/strahd/#odjek>)** e alla promessa di aiutare con il problema del vino esaurito, ottengono il permesso di entrare.
+Solo grazie a **[Odjek](<../../../png/strahd/#odjek>)** e alla promessa di aiutare con il problema del vino esaurito, ottengono il permesso di entrare.
 
 ### La Fonte Miracolosa
 
-Provano a immergere i compagni nella **fonte benedetta** di Krezk — senza risultato. Dall'acqua emerge la figura evanescente di **Sergei Von Zarovich**, fratello di [Strahd](<../../png/strahd/#strahd-von-zarovich>). Dice loro che se recupereranno la parte mancante della spada che possiedono, lui potrà renderla un'arma potente.
+Provano a immergere i compagni nella **fonte benedetta** di Krezk — senza risultato. Dall'acqua emerge la figura evanescente di **Sergei Von Zarovich**, fratello di [Strahd](<../../../png/strahd/#strahd-von-zarovich>). Dice loro che se recupereranno la parte mancante della spada che possiedono, lui potrà renderla un'arma potente.
 
 ### L'Abbazia di Santa Markovia
 
 Il figlio di Dimitri, morto alcuni giorni prima, è tornato in vita. L'**Abate** dell'abbazia lo ha resuscitato, ma il giovane sembra ancora un cadavere ambulante.
 
-Il gruppo si reca all'abbazia, dove incontrano due strane creature — parti di animali assemblate alla rinfusa. L'Abate è un **angelo** inviato dal Signore del Mattino un secolo fa per salvare [Barovia](<../../lore/strahd/#barovia>).
+Il gruppo si reca all'abbazia, dove incontrano due strane creature — parti di animali assemblate alla rinfusa. L'Abate è un **angelo** inviato dal Signore del Mattino un secolo fa per salvare [Barovia](<../../../lore/strahd/#barovia>).
 
 ### Il Prezzo della Resurrezione
 
-L'Abate rivela che per riportare in vita i loro amici, vuole in cambio il **volto di una ragazza di [Krezk](<../../lore/strahd/#krezk>)**, **Yana**, per completare la sua creatura — un golem di carne che deve diventare la perfetta sposa per Strahd.
+L'Abate rivela che per riportare in vita i loro amici, vuole in cambio il **volto di una ragazza di [Krezk](<../../../lore/strahd/#krezk>)**, **Yana**, per completare la sua creatura — un golem di carne che deve diventare la perfetta sposa per Strahd.
 
-Il gruppo è diviso. **Odjek** è disperato — ama Yana. **[Kasimir](<../../png/strahd/#kasimir>)** rifiuta l'idea. Ma alla fine, il bene superiore prevale: Yana viene portata all'Abate.
+Il gruppo è diviso. **Odjek** è disperato — ama Yana. **[Kasimir](<../../../png/strahd/#kasimir>)** rifiuta l'idea. Ma alla fine, il bene superiore prevale: Yana viene portata all'Abate.
 
 ### Slap e Randal Tornano in Vita
 
@@ -34,7 +34,7 @@ Strahd è stato invitato all'abbazia per vedere la creatura. Il gruppo preferisc
 
 ### La Partenza
 
-**Xenia** decide di rimanere all'abbazia per aspettare Strahd. **[Bluto](<../../png/strahd/#bluto>)** e Nezuko si salutano come madre e figlio. Il gruppo lascia Krezk diretto verso la torre di Baratok.
+**Xenia** decide di rimanere all'abbazia per aspettare Strahd. **[Bluto](<../../../png/strahd/#bluto>)** e Nezuko si salutano come madre e figlio. Il gruppo lascia Krezk diretto verso la torre di Baratok.
 
 ---
 
@@ -52,11 +52,11 @@ Strahd è stato invitato all'abbazia per vedere la creatura. Il gruppo preferisc
 ## Eventi Chiave
 
 - Arrivo a Krezk e incontro con Dimitri
-- La fonte benedetta rivela lo spirito di [Sergei](<../../png/strahd/#sergei>)
+- La fonte benedetta rivela lo spirito di [Sergei](<../../../png/strahd/#sergei>)
 - L'Abate e la sua richiesta: il volto di Yana
 - Slap viene resuscitato
 - Randal torna in vita
-- [Xenia](<../../png/strahd/#xenia>) resta all'abbazia
+- [Xenia](<../../../png/strahd/#xenia>) resta all'abbazia
 - Il gruppo riparte per la torre di Baratok
 
 ---
