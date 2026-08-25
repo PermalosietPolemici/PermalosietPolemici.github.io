@@ -16,7 +16,6 @@ Qui troverete:
 - 🏰 **Lore** — città, regioni, storia del mondo
 - ⚔️ **Fazioni** — gilde, ordini, poteri in gioco
 - 🎭 **PNG** — le facce che incontrate
-- 📜 **Missioni** — archi narrativi, quest completate e in sospeso
 - 📝 **[Sessioni](/sessioni/)** — riassunti di ogni incontro
 
 ---
