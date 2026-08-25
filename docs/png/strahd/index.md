@@ -1,6 +1,6 @@
 # PNG — Curse of Strahd
 
-I personaggi non giocanti incontrati durante l'avventura in Barovia.
+I personaggi non giocanti incontrati durante l'avventura in [Barovia](<../../lore/strahd/#barovia>).
 
 ---
 
@@ -10,7 +10,7 @@ Il Conte vampiro, signore indiscusso di Barovia. Elegante, crudele, immortale.
 
 ### Ireena Kolyana {#ireena-kolyana}
 
-La giovane dal destino segnato, reincarnazione di Tatyana. Oggetto dell'ossessione di [Strahd](<#strahd-von-zarovich>).
+La giovane dal destino segnato, reincarnazione di [Tatyana](<../../png/strahd/#tatyana>). Oggetto dell'ossessione di [Strahd](<#strahd-von-zarovich>).
 
 ### Tatyana {#tatyana}
 
@@ -26,7 +26,7 @@ Figlio del borgomastro di Barovia, detto "il Grande". Nuovo borgomastro dopo la 
 
 ### Madam Eva {#madam-eva}
 
-Misteriosa veggente Vistani, sorellastra di [Strahd](<#strahd-von-zarovich>). Ha letto le carte del destino ai personaggi.
+Misteriosa veggente [Vistani](<../../fazioni/strahd/#vistani>), sorellastra di [Strahd](<#strahd-von-zarovich>). Ha letto le carte del destino ai personaggi.
 
 ### Rudolph van Richten {#van-richten}
 
@@ -42,15 +42,15 @@ Cacciatrice di vampiri mezz'elfa, ex allieva di [Van Richten](<#van-richten>). D
 
 ### Baba Lysaga {#baba-lysaga}
 
-Strega antica di Berez, nutrice di [Strahd](<#strahd-von-zarovich>). Vive in una casa sulla gamba di gallina nella palude.
+Strega antica di [Berez](<../../lore/strahd/#berez>), nutrice di [Strahd](<#strahd-von-zarovich>). Vive in una casa sulla gamba di gallina nella palude.
 
 ### Kasimir Velikov {#kasimir}
 
-Elfo drow anziano, cerca vendetta contro [Strahd](<#strahd-von-zarovich>) per aver ucciso sua sorella Patrina. Diventa Sir Kasimir, cavaliere d'argento.
+Elfo drow anziano, cerca vendetta contro [Strahd](<#strahd-von-zarovich>) per aver ucciso sua sorella Patrina. Diventa Sir [Kasimir](<../../png/strahd/#kasimir>), cavaliere d'argento.
 
 ### Vladimir Horngaard {#vladimir}
 
-Cavaliere spettrale, comandante dei Cavalieri d'Argento caduti. Guardiano di Argynvostholt, consumato dall'odio.
+Cavaliere spettrale, comandante dei [Cavalieri d'Argento](<../../fazioni/strahd/#cavalieri-dargento>) caduti. Guardiano di [Argynvostholt](<../../lore/strahd/#argynvostholt>), consumato dall'odio.
 
 ### Sir Godfrey Gwilym {#sir-godfrey}
 
@@ -58,7 +58,7 @@ Ex capitano dei cavalieri d'argento, tra i pochi ancora legati alla luce.
 
 ### Vargas Vallakovich {#vargas-vallakovich}
 
-Borgomastro di Vallaki. Convinto che il buonumore forzato tenga lontana la nebbia.
+Borgomastro di [Vallaki](<../../lore/strahd/#vallaki>). Convinto che il buonumore forzato tenga lontana la nebbia.
 
 ### Victor Vallakovich {#victor-vallakovich}
 
@@ -70,11 +70,11 @@ Nobildonna di Vallaki, devota a [Strahd](<#strahd-von-zarovich>). Guida una fazi
 
 ### Padre Lucian Petrovich {#padre-lucian}
 
-Il prete di Vallaki, custode delle ossa di Sant'Andral.
+Il prete di Vallaki, custode delle ossa di [Sant'Andral](<../../fazioni/strahd/#chiesa-santandral>).
 
 ### Danika Martikov {#danika-martikov}
 
-Locandiera della Blue Water Inn, membro dei Custodi delle Piume.
+Locandiera della Blue Water Inn, membro dei [Custodi delle Piume](<../../fazioni/strahd/#custodi-delle-piume>).
 
 ### Urwin Martikov {#urwin-martikov}
 
@@ -90,7 +90,7 @@ Il becchino di Vallaki. Corrotto da una donna in rosso, nasconde vampiri nelle b
 
 ### Bluto {#bluto}
 
-Pescatore ubriaco di Krezk, disposto a tutto per compiacere [Strahd](<#strahd-von-zarovich>).
+Pescatore ubriaco di [Krezk](<../../lore/strahd/#krezk>), disposto a tutto per compiacere [Strahd](<#strahd-von-zarovich>).
 
 ### Dimitri Krezkov {#dimitri-krezkov}
 
@@ -98,7 +98,7 @@ Borgomastro di Krezk, uomo austero ma giusto.
 
 ### L'Abbate {#abbate}
 
-Enigmatico custode dell'Abbazia di San Markovia. Angelo del Signore del Mattino, ossessionato dalla perfezione.
+Enigmatico custode dell'[Abbazia di San Markovia](<../../lore/strahd/#abbazia-san-markovia>). Angelo del Signore del Mattino, ossessionato dalla perfezione.
 
 ### Odjek {#odjek}
 
@@ -110,11 +110,11 @@ Patriarca dei Martikov, gestore del Vigneto del Mago dei Vini.
 
 ### Muriel Vinshaw {#muriel}
 
-Corvo mannaro, membro dei Custodi delle Piume. Salva Randal al Lago Zarovich.
+Corvo mannaro, membro dei Custodi delle Piume. Salva Randal al [Lago Zarovich](<../../lore/strahd/#lago-zarovich>).
 
 ### Luvash {#luvash}
 
-Capo del campo Vistani alla Polla di Tser. Padre di [Arabelle](<#arabelle>).
+Capo del campo Vistani alla [Polla di Tser](<../../lore/strahd/#polla-di-tser>). Padre di [Arabelle](<#arabelle>).
 
 ### Arrigal {#arrigal}
 
@@ -130,7 +130,7 @@ Ciambellano di [Strahd](<#strahd-von-zarovich>), elfo dalla pelle scura. Elegant
 
 ### Escher {#escher}
 
-Vampiro, consorte e servitore di [Strahd](<#strahd-von-zarovich>). Sconfitto nel Tempio d'Ambra.
+Vampiro, consorte e servitore di [Strahd](<#strahd-von-zarovich>). Sconfitto nel [Tempio d'Ambra](<../../lore/strahd/#tempio-ambra>).
 
 ### Ludmilla {#ludmilla}
 
@@ -146,15 +146,15 @@ Sposa di [Strahd](<#strahd-von-zarovich>), minuta come una ragazzina, sadica.
 
 ### Gertruda {#gertruda}
 
-Figlia di Mary, la donna piangente di Barovia. Ospite a Castle Ravenloft.
+Figlia di Mary, la donna piangente di Barovia. Ospite a [Castle Ravenloft](<../../lore/strahd/#castle-ravenloft>).
 
 ### Xenia {#xenia}
 
-Acrobata del Witchlight Carnival, ex-PG diventata PNG. Rivaleggia con Luth.
+Acrobata del [Witchlight Carnival](<../../lore/strahd/#witchlight-carnival>), ex-PG diventata PNG. Rivaleggia con Luth.
 
 ### Morgantha {#morgantha}
 
-La vecchia del Mulino di Bonegrinder, strega notturna (night hag).
+La vecchia del [Mulino di Bonegrinder](<../../lore/strahd/#mulino-bonegrinder>), strega notturna (night hag).
 
 ### Vasili Von Holtz {#vasili-von-holtz}
 
