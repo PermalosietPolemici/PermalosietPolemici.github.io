@@ -4,68 +4,194 @@ I personaggi non giocanti incontrati durante l'avventura in Barovia.
 
 ---
 
-## Barovia
+### Strahd von Zarovich {#strahd-von-zarovich}
 
-- **Strahd von Zarovich** — Il Conte vampiro, signore indiscusso di Barovia. Elegante, crudele, immortale.
-- **Ireena Kolyana** — La giovane donna dal destino segnato, reincarnazione di Tatyana. Oggetto dell'ossessione di Strahd.
-- **Ismark Kolyanovich** — Il figlio del borgomastro di Barovia, detto "il Grande". Fratello di Ireena.
-- **Madam Eva** — La misteriosa veggente Vistani. Ha letto le carte ai personaggi all'inizio del loro viaggio.
-- **Rudolph van Richten** — Il leggendario cacciatore di vampiri. Invecchiato, segnato da tragedie, ma letale.
-- **Ezmeralda d'Avenir** — Cacciatrice di vampiri mezz'elfa, ex allieva di Van Richten. Determinata e coraggiosa.
-- **Baba Lysaga** — La strega di Berez, madre putativa di Strahd. Vive da sola nella palude, protetta da un'isterna di legno volante.
-- **Kasimir Velikov** — Elfo drow anziano, cerca vendetta contro Strahd per aver ucciso sua sorella Patrina.
-- **Vladimir Horngaard** — Cavaliere spettrale, comandante dei Cavalieri d'Argento caduti. Guardiano di Argynvostholt.
+Il Conte vampiro, signore indiscusso di Barovia. Elegante, crudele, immortale.
 
-## Vallaki
+### Ireena Kolyana {#ireena-kolyana}
 
-- **Vargas Vallakovich** — Il borgomastro di Vallaki. Convinto che il buonumore forzato tenga lontana la nebbia.
-- **Lydia Vallakovich** — Sua moglie, sottomessa e devota.
-- **Victor Vallakovich** — Il figlio, mago in erba con intenti poco chiari.
-- **Il Coniglio** — Il buffone di corte di Vargas. Più saggio di quanto sembri.
-- **Dame Fiona Wachter** — Nobildonna di Vallaki, devota a Strahd. Guida la sua fazione segreta.
-- **Padre Lucian Petrovich** — Il prete di Vallaki. Custode (e smarritore) delle ossa di Sant'Andral.
-- **Urwin Martikov** — Proprietario del Gatto Morto, membro dei Custodi delle Piume.
-- **Danika Martikov** — Sua moglie, altrettanto coinvolta nella rete di spie.
-- **Brom e Bray Martikov** — I loro figli.
-- **Izek Strazni** — Il capitano della guardia di Vallaki. Braccio destro brutale di Vargas.
-- **Ernst Larnak** — Il maggiordomo di Wachter, spia e sicario.
-- **Nikolai e Karl Wachter** — I figli di Fiona, poco più che teppisti.
-- **Bluto** — Il pescatore ubriaco, disposto a tutto per compiacere Strahd.
-- **Rictavio** — Un misterioso mezz'elfo con un carro da circo. In realtà Van Richten sotto copertura.
-- **Henrik** — Il mercante di oggetti rari di Vallaki, torturato a morte per il furto delle ossa.
+La giovane dal destino segnato, reincarnazione di Tatyana. Oggetto dell'ossessione di [Strahd](<#strahd-von-zarovich>).
 
-## Krezk
+### Tatyana {#tatyana}
 
-- **Dimitri Krezkov** — Il borgomastro di Krezk, uomo austero ma giusto.
-- **Anna Krezkov** — Sua moglie.
-- **Il Fratello Illarion** — Monaco dell'Abbazia di San Markovia.
-- **L'Abbate** — L'enigmatico custode dell'Abbazia. Ha un'ossessione per la "perfezione".
-- **Otto e Zygfrek** — Due strani "servitori" dell'Abbazia, creature modificate dall'Abbate.
-- **Odjek** — Un cittadino di Krezk, rimasto per accudire una ragazza salvata.
+L'amata perduta di [Strahd](<#strahd-von-zarovich>), reincarnata in [Ireena](<#ireena-kolyana>). La sua morte ha scatenato la maledizione del Conte.
 
-## Il Vigneto del Mago dei Vini (I Martikov)
+### Sergei von Zarovich {#sergei}
 
-- **Davian Martikov** — Il patriarca della famiglia Martikov, gestore del Vigneto del Mago dei Vini.
-- **Adrian, Elvir e Urwin Martikov** — I tre figli di Davian.
-- **Muriel Vinshaw** — Corvo mannaro, membro dei Custodi delle Piume, infiltrata a Vallaki.
+Fratello di [Strahd](<#strahd-von-zarovich>), ucciso dal Conte per gelosia. La sua anima è legata alla Sunsword.
 
-## Vistani
+### Ismark Kolyanovich {#ismark}
 
-- **Luvash** — Il capo del campo Vistani presso la Polla di Tser.
-- **Arrigal** — Suo fratello, abile assassino e spia.
-- **Arabelle** — La giovane figlia di Luvash, rapita e poi salvata.
-- **Mirabel** — Una delle tre sorelle Vistani che vendono trucchi e informazioni.
+Figlio del borgomastro di Barovia, detto "il Grande". Nuovo borgomastro dopo la morte del padre.
 
-## Altri
+### Madam Eva {#madam-eva}
 
-- **I Cavalieri d'Argento** — Gli spettri dei cavalieri di Argynvostholt, guidati da Vladimir Horngaard.
-- **Pidlwick II** — Un pupazzo animato, inquietante e silenzioso.
-- **Sir Godfrey** — Uno dei cavalieri d'argento spettrali, tra i pochi ancora legati alla luce.
-- **Il Conte** — Il misterioso personaggio al Tempio d'Ambra.
-- **I tre Maghi del Tempio d'Ambra** — Custodi enigmatici delle vestigia oscure.
-- **Exethanter** — Il lich decaduto del Tempio d'Ambra.
-- **Neferon** — L'arcilich che veglia sull'ingresso del Tempio.
+Misteriosa veggente Vistani, sorellastra di [Strahd](<#strahd-von-zarovich>). Ha letto le carte del destino ai personaggi.
+
+### Rudolph van Richten {#van-richten}
+
+Leggendario cacciatore di vampiri. Invecchiato, segnato da tragedie, ma letale. Sotto copertura come [Rictavio](<#rictavio>).
+
+### Rictavio {#rictavio}
+
+Misterioso bardo mezz'elfo con un carro da circo. In realtà [Van Richten](<#van-richten>) sotto copertura.
+
+### Ezmeralda d'Avenir {#ezmeralda}
+
+Cacciatrice di vampiri mezz'elfa, ex allieva di [Van Richten](<#van-richten>). Determinata e coraggiosa.
+
+### Baba Lysaga {#baba-lysaga}
+
+Strega antica di Berez, nutrice di [Strahd](<#strahd-von-zarovich>). Vive in una casa sulla gamba di gallina nella palude.
+
+### Kasimir Velikov {#kasimir}
+
+Elfo drow anziano, cerca vendetta contro [Strahd](<#strahd-von-zarovich>) per aver ucciso sua sorella Patrina. Diventa Sir Kasimir, cavaliere d'argento.
+
+### Vladimir Horngaard {#vladimir}
+
+Cavaliere spettrale, comandante dei Cavalieri d'Argento caduti. Guardiano di Argynvostholt, consumato dall'odio.
+
+### Sir Godfrey Gwilym {#sir-godfrey}
+
+Ex capitano dei cavalieri d'argento, tra i pochi ancora legati alla luce.
+
+### Vargas Vallakovich {#vargas-vallakovich}
+
+Borgomastro di Vallaki. Convinto che il buonumore forzato tenga lontana la nebbia.
+
+### Victor Vallakovich {#victor-vallakovich}
+
+Figlio del barone, mago in erba. Tortura Randal con esperimenti magici.
+
+### Dame Fiona Wachter {#fiona-watcher}
+
+Nobildonna di Vallaki, devota a [Strahd](<#strahd-von-zarovich>). Guida una fazione segreta. Prende il potere dopo la rivolta.
+
+### Padre Lucian Petrovich {#padre-lucian}
+
+Il prete di Vallaki, custode delle ossa di Sant'Andral.
+
+### Danika Martikov {#danika-martikov}
+
+Locandiera della Blue Water Inn, membro dei Custodi delle Piume.
+
+### Urwin Martikov {#urwin-martikov}
+
+Proprietario del Gatto Morto, membro dei Custodi delle Piume.
+
+### Izek Strazni {#izek}
+
+Capitano della guardia di Vallaki. Braccio demoniaco deforme. Muore e rinasce come Sir [Kasimir](<#kasimir>).
+
+### Henrik {#henrik}
+
+Il becchino di Vallaki. Corrotto da una donna in rosso, nasconde vampiri nelle bare.
+
+### Bluto {#bluto}
+
+Pescatore ubriaco di Krezk, disposto a tutto per compiacere [Strahd](<#strahd-von-zarovich>).
+
+### Dimitri Krezkov {#dimitri-krezkov}
+
+Borgomastro di Krezk, uomo austero ma giusto.
+
+### L'Abbate {#abbate}
+
+Enigmatico custode dell'Abbazia di San Markovia. Angelo del Signore del Mattino, ossessionato dalla perfezione.
+
+### Odjek {#odjek}
+
+Cacciatore di Krezk, innamorato di Yana.
+
+### Davian Martikov {#davian-martikov}
+
+Patriarca dei Martikov, gestore del Vigneto del Mago dei Vini.
+
+### Muriel Vinshaw {#muriel}
+
+Corvo mannaro, membro dei Custodi delle Piume. Salva Randal al Lago Zarovich.
+
+### Luvash {#luvash}
+
+Capo del campo Vistani alla Polla di Tser. Padre di [Arabelle](<#arabelle>).
+
+### Arrigal {#arrigal}
+
+Fratello di [Luvash](<#luvash>), abile assassino e spia Vistana.
+
+### Arabelle {#arabelle}
+
+Giovane figlia di [Luvash](<#luvash>), salvata dalle acque del Lago Zarovich.
+
+### Rahadin {#rahadin}
+
+Ciambellano di [Strahd](<#strahd-von-zarovich>), elfo dalla pelle scura. Elegante, sinistro, impeccabile.
+
+### Escher {#escher}
+
+Vampiro, consorte e servitore di [Strahd](<#strahd-von-zarovich>). Sconfitto nel Tempio d'Ambra.
+
+### Ludmilla {#ludmilla}
+
+Sposa di [Strahd](<#strahd-von-zarovich>), elegante e composta.
+
+### Anastrasya {#anastrasya}
+
+Sposa di [Strahd](<#strahd-von-zarovich>), bellissima e provocatrice. Guida l'attacco alla chiesa di Vallaki.
+
+### Volenta {#volenta}
+
+Sposa di [Strahd](<#strahd-von-zarovich>), minuta come una ragazzina, sadica.
+
+### Gertruda {#gertruda}
+
+Figlia di Mary, la donna piangente di Barovia. Ospite a Castle Ravenloft.
+
+### Xenia {#xenia}
+
+Acrobata del Witchlight Carnival, ex-PG diventata PNG. Rivaleggia con Luth.
+
+### Morgantha {#morgantha}
+
+La vecchia del Mulino di Bonegrinder, strega notturna (night hag).
+
+### Vasili Von Holtz {#vasili-von-holtz}
+
+Misterioso mercante gentile. Nessuno sa dove abiti.
+
+### Sarek {#sarek}
+
+Nipote di [Kasimir](<#kasimir>). Giura di combattere [Strahd](<#strahd-von-zarovich>).
+
+### Helga {#helga}
+
+Cameriera di Castle Ravenloft. Lascia un biglietto a Nezuko.
+
+### Rina {#rina}
+
+Strega napoletana che aiuta Nezuko nel Tempio d'Ambra.
+
+### Gnemo {#gnemo}
+
+Compagno del gruppo. Sopravvive all'assalto finale.
+
+### Padre Donavich {#donavich}
+
+Sacerdote della chiesa di Barovia. Ha nutrito suo figlio vampiro con la carne degli abitanti.
+
+### Doru {#doru}
+
+Figlio di [Donavich](<#donavich>), trasformato in vampiro. Il primo scomparso di Barovia.
+
+### Naso {#naso}
+
+Agente teatrale del Witchlight Carnival. Tyrannico ma efficace.
+
+### Maddok {#maddok}
+
+Kenku medico del Witchlight Carnival. Comunica scrivendo su una lavagnetta.
 
 ---
 
-*[Torna all'indice PNG](/png/)*
+*[Torna all'indice](/png/)*

@@ -4,48 +4,42 @@ Le organizzazioni e i gruppi incontrati durante l'avventura in Barovia.
 
 ---
 
-## I Custodi delle Piume
+### I Custodi delle Piume {#custodi-delle-piume}
 
-Una rete di spie formata da **corvi mannari** (wereraven). Operano nell'ombra per proteggere Barovia da Strahd. Guidati dalla famiglia **Martikov**, hanno basi operative al Gatto Morto di Vallaki e al Vigneto del Mago dei Vini.
+Rete di spie di corvi mannari. Operano nell'ombra per proteggere Barovia. Guidati dalla famiglia Martikov.
 
-Utilizzano i corvi come messaggeri e spie. Sono forse l'unica fazione apertamente ostile a Strahd che sia sopravvissuta fino a oggi.
+### I Cavalieri d'Argento {#cavalieri-dargento}
 
-## I Cavalieri d'Argento
+Ordine cavalleresco devoto alla protezione di Barovia. Guidati da Sir Vladimir Horngaard, giurarono fedeltà al drago Argynvost.
 
-Un ordine cavalleresco un tempo devoto alla protezione di Barovia. Guidati da **Sir Vladimir Horngaard**, giurarono fedeltà al **drago d'argento Argynvost**. Dopo la morte del drago e la caduta del loro maniero, i cavalieri divennero spettri, legati al loro giuramento per l'eternità. La loro magione è **Argynvostholt**.
+### I Vistani {#vistani}
 
-## I Vistani
+Popolo nomade, viaggiatori tra i piani. Unici a poter entrare e uscire da Barovia. Legati a Strahd da un patto antico.
 
-Un popolo nomade e misterioso, viaggiatori tra i piani. Sono gli unici a poter entrare e uscire liberamente da Barovia. Rispettano Strahd — si dice che il Conte abbia un patto con loro. Non si schierano mai apertamente, ma alcuni membri (come Madam Eva) giocano un ruolo chiave nel destino degli avventurieri.
+### La Chiesa di Sant'Andral {#chiesa-santandral}
 
-## I Lupi Mannari (Clan dei Lupi)
+Chiesa di Vallaki, dedicata a Sant'Andral, protettore contro il vampirismo.
 
-Un clan di **licantropi** che vive nella foresta di Svalich. Guidati da **Kiril**, il capobranco. Sono alleati di Strahd e terrorizzano i viandanti. Il loro territorio si estende tra la foresta e le colline intorno a Barovia.
+### La Famiglia Vallakovich {#famiglia-vallakovich}
 
-## I Druidi della Collina Selvaggia
+Casata regnante di Vallaki. Il barone Vargas governa col terrore e i festival forzati.
 
-I druidi che venerano il **Tempio d'Ambra** e le sue vestigia oscure. Guidano i rituali a **Yester Hill**. Sono corrotti dall'influenza del Tempio e servono forze antiche e malvagie.
+### La Famiglia Wachter {#famiglia-wachter}
 
-## Le Streghe di Ravenloft
+Nobile famiglia rivale dei Vallakovich. Dame Fiona guida una setta segreta di Strahd.
 
-Tre streghe al servizio diretto di Strahd, residenti a Castle Ravenloft. Si occupano della protezione del castello e della preparazione del "vino" speciale del Conte. Sono crudeli, sadiche e fedeli alla morte.
+### I Druidi della Collina Selvaggia {#druidi-collina-selvaggia}
 
-## Le Megere di Bonegrinder
+Druidi che venerano il Tempio d'Ambra e le sue vestigia oscure. Guidano rituali a Yester Hill.
 
-Tre streghe notturne (night hags) che operano dal **Mulino di Bonegrinder**. Trasformano i bambini in pasticcini magici attraverso un rituale oscuro. Commerciano con Vallaki e tengono in pugno parte della città con la loro dipendenza.
+### Le Streghe di Ravenloft {#streghe-di-ravenloft}
 
-## La Chiesa di Sant'Andral
+Tre streghe al servizio diretto di Strahd a Castle Ravenloft.
 
-La chiesa di Vallaki, dedicata a Sant'Andral, protettore contro il vampirismo. Le sue ossa sacre, un tempo sepolte sotto l'altare, proteggevano l'intera città. Quando vengono rubate, Vallaki perde la sua unica difesa contro Strahd.
+### Le Megere di Bonegrinder {#megere-di-bonegrinder}
 
-## La Famiglia Vallakovich
-
-La casata regnante di Vallaki. Il borgomastro **Vargas Vallakovich** governa col terrore e i festival forzati. Suo figlio **Victor** conduce esperimenti magici proibiti. La famiglia è corrotta e impopolare, ma mantiene il potere con la guardia cittadina e il terrore psicologico.
-
-## La Famiglia Wachter
-
-La nobile famiglia rivale dei Vallakovich. **Dame Fiona Wachter** è una devota seguace di Strahd e guida una setta segreta in città. Crede che un governo sotto il Conte porterebbe ordine e stabilità a Vallaki.
+Tre streghe notturne (night hags) al Mulino di Bonegrinder. Trasformano bambini in pasticcini magici.
 
 ---
 
-*[Torna all'indice Fazioni](/fazioni/)*
+*[Torna all'indice](/fazioni/)*

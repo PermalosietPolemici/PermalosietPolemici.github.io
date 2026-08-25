@@ -6,17 +6,17 @@
 
 ### La Richiesta di Danika
 
-Prima di lasciare Vallaki, **Danika** ricorda al gruppo la richiesta di andare a recuperare le scorte di vino alla **Wizard of Wines**, il vigneto che rifornisce tutta Barovia. Le scorte stanno terminando.
+Prima di lasciare Vallaki, **Danika** ricorda al gruppo la richiesta di andare a recuperare le scorte di vino alla **Wizard of Wines**, il vigneto che rifornisce tutta [Barovia](<../../lore/strahd/#barovia>). Le scorte stanno terminando.
 
 ### Il Viaggio Verso Krezk
 
-Il gruppo lascia Vallaki di notte, diretto verso ovest. Durante il viaggio, vengono attaccati da un branco di **lupi mannari**. **[[Slap]]** e **[[Luth]]** vengono morsi. **[[Nezuko]]** protegge Slap e fugge.
+Il gruppo lascia [Vallaki](<../../lore/strahd/#vallaki>) di notte, diretto verso ovest. Durante il viaggio, vengono attaccati da un branco di **lupi mannari**. **[[Slap]]** e **[[Luth]]** vengono morsi. **[[Nezuko]]** protegge Slap e fugge.
 
 ### Il Vigneto
 
 Arrivati al vigneto, incontrano il vecchio **Daviani Martikov**. Il vigneto è stato invaso da druidi malvagi con un'orda di creature arboree.
 
-Daviani spiega il segreto del vigneto: **tre gemme magiche** create nell'antichità erano sepolte nel terreno per renderlo fertile. Una è stata rubata dieci anni fa da un certo **Escher**. La seconda è stata rubata un anno fa da spaventapasseri provenienti da **Berez**. Ora i druidi cercano la terza. Se la troveranno, il vino di Barovia sarà perduto per sempre.
+Daviani spiega il segreto del vigneto: **tre gemme magiche** create nell'antichità erano sepolte nel terreno per renderlo fertile. Una è stata rubata dieci anni fa da un certo **[Escher](<../../png/strahd/#escher>)**. La seconda è stata rubata un anno fa da spaventapasseri provenienti da **Berez**. Ora i druidi cercano la terza. Se la troveranno, il vino di Barovia sarà perduto per sempre.
 
 ### L'Assalto alla Vineria
 
@@ -32,15 +32,15 @@ Nella cantina, il gruppo scopre un passaggio segreto che porta a una grotta. Uno
 
 ### La Vittoria e la Scoperta
 
-In superficie, **[[Laszlo]]** e **Sarek** sconfiggono il druido. Usando il bastone del druido, Laszlo può passare incolume tra le creature arboree.
+In superficie, **[[Laszlo]]** e **[Sarek](<../../png/strahd/#sarek>)** sconfiggono il druido. Usando il bastone del druido, Laszlo può passare incolume tra le creature arboree.
 
 L'albero gigante emette un grido e richiama tutte le creature. Se ne vanno, portando con sé la terza gemma.
 
 ### Il Totem del Corvo
 
-Una volta estratti dalle macerie, **Daviani** racconta la storia dei **Custodi delle Piume**. Il **Totem del Corvo** — l'unico rimasto non corrotto a Barovia — è stato tramandato per generazioni. Conferisce il dono della **korantropia** (licantropi corvo).
+Una volta estratti dalle macerie, **Daviani** racconta la storia dei **[Custodi delle Piume](<../../fazioni/strahd/#custodi-delle-piume>)**. Il **Totem del Corvo** — l'unico rimasto non corrotto a Barovia — è stato tramandato per generazioni. Conferisce il dono della **korantropia** (licantropi corvo).
 
-Il gruppo recupera del vino e riparte verso **Krezk**.
+Il gruppo recupera del vino e riparte verso **[Krezk](<../../lore/strahd/#krezk>)**.
 
 ---
 

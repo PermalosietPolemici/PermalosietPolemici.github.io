@@ -6,21 +6,21 @@
 
 ### La Collina Maledetta
 
-Dopo aver salvato il vino al Mago dei Vini, il gruppo segue le tracce dell'enorme creatura arborea che si dirige verso sud, fino a una solitaria collina ai margini estremi della valle: **Yester Hill**.
+Dopo aver salvato il vino al Mago dei Vini, il gruppo segue le tracce dell'enorme creatura arborea che si dirige verso sud, fino a una solitaria collina ai margini estremi della valle: **[Yester Hill](<../../lore/strahd/#yester-hill>)**.
 
 ### L'Incontro con Strahd
 
-Sulla cima della collina, **Strahd** li attende. Li invita a seguirlo. **Sarek** e **Kasimir** si rifiutano. Strahd, senza esitare, scaglia i suoi vampiri su di loro.
+Sulla cima della collina, **Strahd** li attende. Li invita a seguirlo. **Sarek** e **[Kasimir](<../../png/strahd/#kasimir>)** si rifiutano. Strahd, senza esitare, scaglia i suoi vampiri su di loro.
 
-Mentre le creature non morte attaccano, Strahd chiede al gruppo di seguirlo e non badare a ciò che accade. Attraversano la collina e vedono druidi costruire croci di legno.
+Mentre le creature non morte attaccano, [Strahd](<../../png/strahd/#strahd-von-zarovich>) chiede al gruppo di seguirlo e non badare a ciò che accade. Attraversano la collina e vedono druidi costruire croci di legno.
 
-Strahd li porta dalla parte opposta, dove un **muro di nebbia** forma immagini che ricordano una città — il regno natio di Strahd, oltre Barovia.
+Strahd li porta dalla parte opposta, dove un **muro di nebbia** forma immagini che ricordano una città — il regno natio di Strahd, oltre [Barovia](<../../lore/strahd/#barovia>).
 
 ### La Punizione
 
-Sarek e Kasimir vengono abbattuti dai vampiri. Strahd fa crocifiggere entrambi, insieme ad **Anastrasya** che ha agito di sua iniziativa a Vallaki. Resteranno lì per un anno, curati dai druidi.
+Sarek e Kasimir vengono abbattuti dai vampiri. Strahd fa crocifiggere entrambi, insieme ad **[Anastrasya](<../../png/strahd/#anastrasya>)** che ha agito di sua iniziativa a Vallaki. Resteranno lì per un anno, curati dai druidi.
 
-Strahd chiede notizie di **Van Richten**. **[[Nezuko]]**, ingenuamente, racconta tutto. Poi Strahd chiede al gruppo di recuperare la **testa rimpicciolita** dalla torre di Baratok.
+Strahd chiede notizie di **[Van Richten](<../../png/strahd/#van-richten>)**. **[[Nezuko]]**, ingenuamente, racconta tutto. Poi Strahd chiede al gruppo di recuperare la **testa rimpicciolita** dalla torre di Baratok.
 
 Rinnova la sua offerta a **[[Laszlo]]** di diventare signore dei druidi. Laszlo rifiuta, ma Strahd non accetta il rifiuto — gli dà tempo per pensarci.
 
@@ -36,7 +36,7 @@ Solo Laszlo, forte del bastone druidico, rimane in piedi, curando le ferite di t
 
 Il gruppo libera Kasimir dalla croce usando un espediente magico. **Nezuko** però si fa prendere la mano e scatena l'ira dei druidi, che risvegliano guerrieri berserk.
 
-Sconfitti i nemici, **Sarek** decide di proseguire da solo — non accetta i modi del gruppo di interfacciarsi con Strahd. Le strade si dividono.
+Sconfitti i nemici, **[Sarek](<../../png/strahd/#sarek>)** decide di proseguire da solo — non accetta i modi del gruppo di interfacciarsi con Strahd. Le strade si dividono.
 
 ### La Confessione di Laszlo
 

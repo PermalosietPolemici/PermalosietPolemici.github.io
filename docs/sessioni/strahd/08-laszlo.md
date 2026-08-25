@@ -6,7 +6,7 @@
 
 ### La Luce nel Bosco
 
-Lasciato l'accampamento Vistani, il gruppo si rimette in marcia in direzione del castello. Il cielo è sempre coperto, la nebbia continua a stringersi intorno a loro come una compagna silenziosa. La strada si snoda attraverso un bosco fitto, quando una luce improvvisa attira la loro attenzione.
+Lasciato l'accampamento [Vistani](<../../fazioni/strahd/#vistani>), il gruppo si rimette in marcia in direzione del castello. Il cielo è sempre coperto, la nebbia continua a stringersi intorno a loro come una compagna silenziosa. La strada si snoda attraverso un bosco fitto, quando una luce improvvisa attira la loro attenzione.
 
 Qualcosa brilla tra gli alberi.
 
@@ -16,15 +16,15 @@ Seguendo il bagliore, si addentrano nel sottobosco e scoprono una radura che osp
 
 Liberata l'area dagli insetti, il gruppo fa la conoscenza della figura nel cerchio.
 
-È **[[Laszlo]]**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in Barovia dai Vistani stessi. Ha incontrato Madam Eva, e con lei ha condiviso parte della sua conoscenza divinatoria.
+È **[[Laszlo]]**, un veggente dall'aspetto trasandato e dal modo di parlare alquanto singolare. Studia le stelle e legge le carte, e racconta di essere stato attirato in Barovia dai Vistani stessi. Ha incontrato [Madam Eva](<../../png/strahd/#madam-eva>), e con lei ha condiviso parte della sua conoscenza divinatoria.
 
-Il suo arrivo a Barovia è recente, eppure il fato lo ha già messo sulla strada giusta: è in cerca di una **stella in particolare** — una stella sopita, come la chiama lui — ma il cielo di Barovia, perennemente coperto dalle nebbie, non lascia molto spazio alla sua ricerca.
+Il suo arrivo a [Barovia](<../../lore/strahd/#barovia>) è recente, eppure il fato lo ha già messo sulla strada giusta: è in cerca di una **stella in particolare** — una stella sopita, come la chiama lui — ma il cielo di Barovia, perennemente coperto dalle nebbie, non lascia molto spazio alla sua ricerca.
 
 ### Un Invito Inaspettato
 
-Durante la conversazione emerge un dettaglio che fa scattare qualcosa: anche Laszlo è stato **invitato al castello da Rahadin**, il sinistro ciambellano di Strahd. La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
+Durante la conversazione emerge un dettaglio che fa scattare qualcosa: anche Laszlo è stato **invitato al castello da [Rahadin](<../../png/strahd/#rahadin>)**, il sinistro ciambellano di Strahd. La stessa carrozza che li ha condotti fin qui sembra destinata anche a lui.
 
-Una coincidenza che non lascia spazio a dubbi. I destini del gruppo e del veggente si intrecciano proprio mentre si preparano a varcare le soglie di Castle Ravenloft. Laszlo si unisce a loro, e il gruppo accoglie un nuovo compagno.
+Una coincidenza che non lascia spazio a dubbi. I destini del gruppo e del veggente si intrecciano proprio mentre si preparano a varcare le soglie di [Castle Ravenloft](<../../lore/strahd/#castle-ravenloft>). Laszlo si unisce a loro, e il gruppo accoglie un nuovo compagno.
 
 ### Verso le Porte Ovest
 
@@ -57,7 +57,7 @@ Sbrigate queste formalità, vengono scortati nell'enorme **Sala da Pranzo**. Le 
 ## NPC Incontrati
 
 - **Cyrus** — Un umanoide composito, fatto di parti di più creature, che funge da guardiano all'ingresso del castello.
-- **Rahadin** — Ciambellano di Strahd, elfo dalla pelle scura e lunghi capelli neri. Elegante, sinistro, impeccabile.
+- **Rahadin** — Ciambellano di [Strahd](<../../png/strahd/#strahd-von-zarovich>), elfo dalla pelle scura e lunghi capelli neri. Elegante, sinistro, impeccabile.
 
 ---
 

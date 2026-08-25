@@ -20,7 +20,7 @@ Prendono alla leggera la cosa, ma decidono di dare un'occhiata alla casa. Pochi 
 
 La casa, nonostante esternamente appaia vecchia e logora, internamente è molto ben curata e pulita.
 
-Non passa molto che iniziano a sentire alcuni rumori provenire dal piano di sopra: **passi**. Un campanello suona in una stanza. Aprono la porta: una cucina ben curata e ordinata. Su un muro c'è un **montavivande** con attaccato un piccolo campanello. Dietro un'altra porta sentono dei colpi. Provano ad aprirla, ma è chiusa. **Xenia** cerca di mettere in risalto le sue doti da scassinatrice, ma invano. Quando **[[Luth]]** si avvicina alla porta, questa si apre da sola.
+Non passa molto che iniziano a sentire alcuni rumori provenire dal piano di sopra: **passi**. Un campanello suona in una stanza. Aprono la porta: una cucina ben curata e ordinata. Su un muro c'è un **montavivande** con attaccato un piccolo campanello. Dietro un'altra porta sentono dei colpi. Provano ad aprirla, ma è chiusa. **[Xenia](<../../png/strahd/#xenia>)** cerca di mettere in risalto le sue doti da scassinatrice, ma invano. Quando **[[Luth]]** si avvicina alla porta, questa si apre da sola.
 
 Decidono di chiamare i due bambini per fare loro alcune domande, ma la porta d'ingresso è chiusa. Alle spalle di Luth, anche quella del corridoio. Non resta che sfondarle — e a questo ci pensa, senza troppa fatica, **[[Nezuko]]**.
 
@@ -42,7 +42,7 @@ La casa sta mettendo alla prova i loro nervi. Urla, porte che sbattono, campanel
 
 ### Il Passaggio Segreto
 
-Dietro la libreria trovano un **passaggio segreto**: una libreria nascosta piena di libri che trattano di **pratiche oscure**. Un forziere semi aperto con un **cadavere riverso dentro** è in fondo alla stanza. All'interno trovano, oltre a qualche oggetto, una **lettera** indirizzata al padrone di casa. La mano che scrive è quella di **Strahd Von Zarovich**, e accusa il padrone di casa di essere un verme, un inetto, non degno della vita che ha e di calpestare il suolo del suo dominio.
+Dietro la libreria trovano un **passaggio segreto**: una libreria nascosta piena di libri che trattano di **pratiche oscure**. Un forziere semi aperto con un **cadavere riverso dentro** è in fondo alla stanza. All'interno trovano, oltre a qualche oggetto, una **lettera** indirizzata al padrone di casa. La mano che scrive è quella di **[Strahd](<../../png/strahd/#strahd-von-zarovich>) Von Zarovich**, e accusa il padrone di casa di essere un verme, un inetto, non degno della vita che ha e di calpestare il suolo del suo dominio.
 
 ### La Stanza del Neonato
 
@@ -145,7 +145,7 @@ Il biglietto recita:
 ## Oggetti Trovati
 
 - **Lettera di Strahd** — Indirizzata al padrone di casa, lo accusa di essere un verme indegno del suo dominio.
-- **Cesto con vino e biglietto** — "Benvenuti in Barovia", sigillo del Conte.
+- **Cesto con vino e biglietto** — "Benvenuti in [Barovia](<../../lore/strahd/#barovia>)", sigillo del Conte.
 
 ---
 

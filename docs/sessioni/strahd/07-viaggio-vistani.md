@@ -6,13 +6,13 @@
 
 ### La Partenza
 
-Preparati i bagagli, il gruppo esce da Barovia in direzione del castello. [[Randal]] è stranamente silenzioso durante il viaggio. Camminano alcune ore lasciandosi il villaggio alle spalle, sotto un cielo nuvoloso e una nebbia che non li abbandona mai.
+Preparati i bagagli, il gruppo esce da [Barovia](<../../lore/strahd/#barovia>) in direzione del castello. [[Randal]] è stranamente silenzioso durante il viaggio. Camminano alcune ore lasciandosi il villaggio alle spalle, sotto un cielo nuvoloso e una nebbia che non li abbandona mai.
 
 Arrivano a un fiume che taglia la valle in due, attraversato da un ponte di pietra.
 
 ### Il Rituale di Luth
 
-Vicino al ponte, [[Luth]] decide — con l'aiuto di Xenia — di eseguire uno strano rituale di caccia che aveva visto in passato, per cercare di canalizzare meglio le sue doti. Il gruppo non nota particolari differenze in lui, ma [[Nezuko]] si rende conto che nell'ombra il suo corpo sembra svanire come quello di un fantasma, come se diventasse lui stesso un'ombra.
+Vicino al ponte, [[Luth]] decide — con l'aiuto di [Xenia](<../../png/strahd/#xenia>) — di eseguire uno strano rituale di caccia che aveva visto in passato, per cercare di canalizzare meglio le sue doti. Il gruppo non nota particolari differenze in lui, ma [[Nezuko]] si rende conto che nell'ombra il suo corpo sembra svanire come quello di un fantasma, come se diventasse lui stesso un'ombra.
 
 ### Il Bivacco Misterioso
 
@@ -22,11 +22,11 @@ Accanto al ponte trovano un piccolo bivacco: un fuoco spento ormai da giorni, tr
 
 La marcia prosegue per alcune ore attraverso il bosco, finché la strada li porta a un incrocio. Un piccolo spiazzo, un piccolo cimitero con tombe senza nome e un patibolo con una corda penzolante mossa dal vento.
 
-Al centro dell'incrocio, un'insegna con due indicazioni: a sud, verso **Vallaki**; l'altra, verso la **Polla di Tser**.
+Al centro dell'incrocio, un'insegna con due indicazioni: a sud, verso **Vallaki**; l'altra, verso la **[Polla di Tser](<../../lore/strahd/#polla-di-tser>)**.
 
 Slap entra nel cimitero ed esamina le tombe. Una mano esce dal terreno e afferra la sua gamba — Luth corre in suo aiuto, ma si rende conto che è semplicemente rimasto incastrato in una radice. Questo ambiente gioca brutti scherzi alla mente.
 
-Un **corvo con la punta delle ali blu** si posa sul cartello e inizia a picchiettare con il becco il cartello che indica la Polla di Tser. Lo hanno già visto. Luth prova a comunicare con la magia, senza successo. Anche Nezuko prova, intimorito dagli occhi dell'animale che gli ricordano quelli di Maddok. Il corvo vola via.
+Un **corvo con la punta delle ali blu** si posa sul cartello e inizia a picchiettare con il becco il cartello che indica la Polla di Tser. Lo hanno già visto. Luth prova a comunicare con la magia, senza successo. Anche Nezuko prova, intimorito dagli occhi dell'animale che gli ricordano quelli di [Maddok](<../../png/strahd/#maddok>). Il corvo vola via.
 
 Mentre proseguono, Slap si volta per guardare indietro e vede il **suo stesso cadavere appeso alla forca**.
 
@@ -36,9 +36,9 @@ Lungo la strada, alcune creature arboree li attaccano. Randal riprende coscienza
 
 ### L'Accampamento Vistani
 
-Il viaggio prosegue fino a sera, quando una musica gioviale e un buon profumino di cibo li attirano verso un lago, dove trovano un **accampamento Vistani**.
+Il viaggio prosegue fino a sera, quando una musica gioviale e un buon profumino di cibo li attirano verso un lago, dove trovano un **accampamento [Vistani](<../../fazioni/strahd/#vistani>)**.
 
-I Vistani, senza porsi troppe domande, li trascinano in una serata fatta di danze e buon cibo. Poi inizia la conversazione: il gruppo cerca di capire chi sia questo popolo, che rapporti abbia con Strahd e come mai siano gli unici che sembrano poter lasciare Barovia.
+I Vistani, senza porsi troppe domande, li trascinano in una serata fatta di danze e buon cibo. Poi inizia la conversazione: il gruppo cerca di capire chi sia questo popolo, che rapporti abbia con [Strahd](<../../png/strahd/#strahd-von-zarovich>) e come mai siano gli unici che sembrano poter lasciare Barovia.
 
 Uno dei vecchi racconta una storia di un passato lontano, quando Strahd non era che un principe guerriero. Venne salvato in fin di vita e protetto dai suoi nemici, ricondotto sano e salvo a casa. In segno di gratitudine, Strahd disse loro di sentirsi sempre i benvenuti e che avrebbero potuto andare e venire come volevano nelle sue terre. Questo antico patto sembra perdurare ancora oggi, nonostante la terribile maledizione che vige su questa terra e sul conte.
 
@@ -46,7 +46,7 @@ I Vistani non sanno dire molto altro: queste sono antiche leggende tramandate da
 
 ### Madam Eva
 
-Vengono invitati a parlare con **Madam Eva**, la loro più vecchia saggia e matrona. Entrati nella sua tenda, hanno una sensazione di *déjà vu*: il sogno che avevano fatto sembra prendere vita. La vecchia chiede il permesso di leggere le carte, e lo fa.
+Vengono invitati a parlare con **[Madam Eva](<../../png/strahd/#madam-eva>)**, la loro più vecchia saggia e matrona. Entrati nella sua tenda, hanno una sensazione di *déjà vu*: il sogno che avevano fatto sembra prendere vita. La vecchia chiede il permesso di leggere le carte, e lo fa.
 
 Gira cinque carte sul tavolo e, una ad una, inizia a parlare:
 
@@ -72,7 +72,7 @@ Madam Eva è stupita di questa nuova carta. Li congeda, dubbiosa.
 
 Mentre [[Radagast]] passa la notte in riva al lago ubriaco e Slap intorno al fuoco più o meno nelle stesse condizioni, gli altri vengono ospitati nelle tende. Randal e Nezuko affrontano una notte orribile: tremori e incubi, sudore freddo. La notte non è ristoratrice. Si svegliano al mattino più stanchi della sera prima, con crampi allo stomaco, un terribile mal di testa, gambe molli e una sensazione di malanno — ma con un'unica voglia: avere per colazione uno di quei meravigliosi pasticcini.
 
-Prima di partire, cercano informazioni sulla vecchietta dei dolcetti. I Vistani li informano che una signora anziana su un carro è passata circa quattro giorni fa sulla strada in direzione Vallaki, ma non sanno se sia la persona che cercano.
+Prima di partire, cercano informazioni sulla vecchietta dei dolcetti. I Vistani li informano che una signora anziana su un carro è passata circa quattro giorni fa sulla strada in direzione [Vallaki](<../../lore/strahd/#vallaki>), ma non sanno se sia la persona che cercano.
 
 Lasciano l'accampamento in direzione del castello.
 
