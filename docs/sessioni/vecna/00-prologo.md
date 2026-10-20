@@ -8,11 +8,11 @@
 
 Per due anni la compagnia — **[[Karesh]]**, **[[Kobrut]]**, **[[Asha]]** e **[[Astorio]]** — aveva percorso la **Costa della Spada** estirpando i culti di **Vecna**, il Signore dei Segreti Sussurrati. Non era stata una grande guerra aperta, ma una serie di battaglie nascoste, lungo un sentiero segnato di oscurità.
 
-A **[Waterdeep](<../../lore/vecna/#waterdeep-undermountain>)**, la Città degli Splendori, scoprirono che sotto le fondamenta dormiva un labirinto senza fine, plasmato dal folle Halaster Blackcloak, dove alcuni non erano semplicemente svaniti. A **[Baldur's Gate](<../../lore/vecna/#baldurs-gate>)**, la città baluardo dagli immensi bastioni, combatterono al fianco dei **Pugni Fiammeggianti** contro un marciume scivolato attraverso i bagni termali. A **[Luskan](<../../lore/vecna/#luskan-arcane-brotherhood>)**, città aspra degli arcani, si innalzavano le torri della **Arcane Brotherhood**, dove cultisti mascherati da studiosi avevano intrecciato rituali proibiti.
+A **[Waterdeep](<../../../lore/vecna/#waterdeep-undermountain>)**, la Città degli Splendori, scoprirono che sotto le fondamenta dormiva un labirinto senza fine, plasmato dal folle Halaster Blackcloak, dove alcuni non erano semplicemente svaniti. A **[Baldur's Gate](<../../../lore/vecna/#baldurs-gate>)**, la città baluardo dagli immensi bastioni, combatterono al fianco dei **Pugni Fiammeggianti** contro un marciume scivolato attraverso i bagni termali. A **[Luskan](<../../../lore/vecna/#luskan-arcane-brotherhood>)**, città aspra degli arcani, si innalzavano le torri della **Arcane Brotherhood**, dove cultisti mascherati da studiosi avevano intrecciato rituali proibiti.
 
 La guerra non concedeva tregua. E la loro reputazione, persino come "eroi di Neverwinter e del mondo conosciuto", era nota ai più.
 
-Poi, un corvo giunse, recando in volo un messaggio di **[Lord Raener Neverember](<../../png/vecna/#lord-raener-neverember>)**, Signore di Neverwinter.
+Poi, un corvo giunse, recando in volo un messaggio di **[Lord Raener Neverember](<../../../png/vecna/#lord-raener-neverember>)**, Signore di Neverwinter.
 
 ---
 
@@ -24,28 +24,28 @@ Il rientro della compagnia non fu una semplice celebrazione. Attraverso le vie, 
 
 ### L'Accoglienza al Castello Never
 
-Giunti al **[Castello Never](<../../lore/vecna/#castello-never>)**, il più grande mai visto, la compagnia fu fermata dalle guardie. Karesh mostrò la missiva; un superiore li condusse alle loro stanze, in attesa dell'udienza di Lord Neverember, trattenuto al Tempio di Oghma.
+Giunti al **[Castello Never](<../../../lore/vecna/#castello-never>)**, il più grande mai visto, la compagnia fu fermata dalle guardie. Karesh mostrò la missiva; un superiore li condusse alle loro stanze, in attesa dell'udienza di Lord Neverember, trattenuto al Tempio di Oghma.
 
 ### La Coppa del Corvo
 
-Al calar del giorno, seguendo il consiglio di un superiore, la compagnia si recò alla **[Coppa del Corvo](<../../lore/vecna/#coppa-del-corvo>)**, taverna del quartiere nobiliare riconoscibile dall'insegna con una coppa d'argento e due ali nere. Era affollatissima; tra gli avventori spiccavano un enorme felino e uno strano ippopotamo in abiti quasi da capitano di marina. Kobrut, di nascosto, consegnò al servitore una moneta d'oro in più perché la porzione del «paladino dragonide» fosse più abbondante; quando i piatti arrivarono, quello di Karesh era grande il doppio degli altri — e Karesh ne condivise una parte con i compagni.
+Al calar del giorno, seguendo il consiglio di un superiore, la compagnia si recò alla **[Coppa del Corvo](<../../../lore/vecna/#coppa-del-corvo>)**, taverna del quartiere nobiliare riconoscibile dall'insegna con una coppa d'argento e due ali nere. Era affollatissima; tra gli avventori spiccavano un enorme felino e uno strano ippopotamo in abiti quasi da capitano di marina. Kobrut, di nascosto, consegnò al servitore una moneta d'oro in più perché la porzione del «paladino dragonide» fosse più abbondante; quando i piatti arrivarono, quello di Karesh era grande il doppio degli altri — e Karesh ne condivise una parte con i compagni.
 
 ### Commissioni in Città
 
-**Il Tempio di Bahamut.** Karesh e Kobrut si recarono al piccolo **[tempo di Bahamut](<../../lore/vecna/#tempio-di-bahamut>)** dalla cupola color platino, dove Karesh ritrovò il suo mentore, **[Saratar](<../../png/vecna/#saratar>)**, anziano dragonide dalle scaglie bianche. Karesh chiese che il proprio scudo fosse benedetto e infuso di magia; Saratar spiegò che un'opera simile richiede mesi. Allora Karesh **donò gran parte del suo oro al tempio** — mille e trecento monete — perché servisse ad ampliarlo. Kobrut volle imitarlo, ma Karesh glielo vietò. Kobrut, affascinato, chiese di restare a servirlo; Saratar gli disse di non servire nessuno: era un principe e doveva vivere come tale.
+**Il Tempio di Bahamut.** Karesh e Kobrut si recarono al piccolo **[tempo di Bahamut](<../../../lore/vecna/#tempio-di-bahamut>)** dalla cupola color platino, dove Karesh ritrovò il suo mentore, **[Saratar](<../../../png/vecna/#saratar>)**, anziano dragonide dalle scaglie bianche. Karesh chiese che il proprio scudo fosse benedetto e infuso di magia; Saratar spiegò che un'opera simile richiede mesi. Allora Karesh **donò gran parte del suo oro al tempio** — mille e trecento monete — perché servisse ad ampliarlo. Kobrut volle imitarlo, ma Karesh glielo vietò. Kobrut, affascinato, chiese di restare a servirlo; Saratar gli disse di non servire nessuno: era un principe e doveva vivere come tale.
 
-**La Volta delle Cose Perdute.** Astorio e Asha si recarono da una gioielleria, **[la Volta delle Cose Perdute](<../../lore/vecna/#volta-delle-cose-perdute>)**, dove il proprietario, **[Cedric Ashford](<../../png/vecna/#cedric-ashford>)**, mostrò loro due **diamanti del valore di trecento monete ciascuno**, che la compagnia acquistò per gli incantesimi di Karesh.
+**La Volta delle Cose Perdute.** Astorio e Asha si recarono da una gioielleria, **[la Volta delle Cose Perdute](<../../../lore/vecna/#volta-delle-cose-perdute>)**, dove il proprietario, **[Cedric Ashford](<../../../png/vecna/#cedric-ashford>)**, mostrò loro due **diamanti del valore di trecento monete ciascuno**, che la compagnia acquistò per gli incantesimi di Karesh.
 
-**Il Mercante dell'Impossibile.** Per lo scudo, la compagnia si recò dal nano mercante d'armi **[Edric, il Mercante dell'Impossibile](<../../lore/vecna/#mercante-dell-impossibile>)**, oltre il lago. Il nano, scorbutico, ne chiese ottocento monete d'oro; Karesh tentò di usare la missiva come leva, ma [Edric](<../../png/vecna/#edric>) strappò la lettera di mano e rispose che avrebbe trattato solo di persona con il Lord. Alla fine la compagnia raccolse la somma, pagò, e Karesh lasciò il proprio vecchio scudo in cambio di un piccolo sconto.
+**Il Mercante dell'Impossibile.** Per lo scudo, la compagnia si recò dal nano mercante d'armi **[Edric, il Mercante dell'Impossibile](<../../../lore/vecna/#mercante-dell-impossibile>)**, oltre il lago. Il nano, scorbutico, ne chiese ottocento monete d'oro; Karesh tentò di usare la missiva come leva, ma [Edric](<../../../png/vecna/#edric>) strappò la lettera di mano e rispose che avrebbe trattato solo di persona con il Lord. Alla fine la compagnia raccolse la somma, pagò, e Karesh lasciò il proprio vecchio scudo in cambio di un piccolo sconto.
 
 ### L'Udienza di Lord Neverember
 
 All'ora di cena, li attendeva **Lord Raener Neverember**, uomo di circa trentacinque anni dallo sguardo indecifrabile. Disse di averli richiamati perché qualcosa si muove di nuovo: **persone spariscono nel nulla**, senza lasciare traccia. Quattro casi, in particolare:
 
-- **[Eldon](<../../png/vecna/#eldon>)**, un elfo, studioso dei piani esterni;
-- **[Gilbert](<../../png/vecna/#gilbert>)**, uno gnomo;
-- **[Sarcell](<../../png/vecna/#sarcell>)**, un'umana, stregona ed esploratrice dei piani esterni;
-- e un quarto scomparso, che più lo preoccupa: un **tabaxi** vissuto nel castello da circa dieci anni, cantastorie e amico fidato, soprannominato **[Coda](<../../png/vecna/#coda>)**.
+- **[Eldon](<../../../png/vecna/#eldon>)**, un elfo, studioso dei piani esterni;
+- **[Gilbert](<../../../png/vecna/#gilbert>)**, uno gnomo;
+- **[Sarcell](<../../../png/vecna/#sarcell>)**, un'umana, stregona ed esploratrice dei piani esterni;
+- e un quarto scomparso, che più lo preoccupa: un **tabaxi** vissuto nel castello da circa dieci anni, cantastorie e amico fidato, soprannominato **[Coda](<../../../png/vecna/#coda>)**.
 
 Le divinazioni pagate dal Lord ai chierici di Kelemvor terminavano tutte **in un unico punto**: il cimitero di **Neverdeath**, davanti a un mausoleo preciso, quello degli **Alix**. Il primo scomparso risaliva a circa dieci giorni prima. La compagnia accettò l'incarico.
 
@@ -53,7 +53,7 @@ Le divinazioni pagate dal Lord ai chierici di Kelemvor terminavano tutte **in un
 
 ## Neverdeath
 
-All'alba, **[Gareth Stormwind](<../../png/vecna/#gareth-stormwind>)**, sommo padre del **[tempio di Kelemvor](<../../fazioni/vecna/#ordine-di-kelemvor>)**, fu incaricato di accompagnarli. Lungo la strada raccontò la storia del **[cimitero](<../../lore/vecna/#neverdeath>)**: Neverdeath è il più grande cimitero di Neverwinter, diviso tra i mausolei dei ricchi e il «campo dei poveri». Qui i morti hanno imparato a tornare: la piaga della magia e la rovina di Neverwinter avevano riempito le fosse comuni, e poi necromanti avevano cominciato a saccheggiare le tombe. L'**Ordine di Kelemvor** veglia su quel luogo.
+All'alba, **[Gareth Stormwind](<../../../png/vecna/#gareth-stormwind>)**, sommo padre del **[tempio di Kelemvor](<../../../fazioni/vecna/#ordine-di-kelemvor>)**, fu incaricato di accompagnarli. Lungo la strada raccontò la storia del **[cimitero](<../../../lore/vecna/#neverdeath>)**: Neverdeath è il più grande cimitero di Neverwinter, diviso tra i mausolei dei ricchi e il «campo dei poveri». Qui i morti hanno imparato a tornare: la piaga della magia e la rovina di Neverwinter avevano riempito le fosse comuni, e poi necromanti avevano cominciato a saccheggiare le tombe. L'**Ordine di Kelemvor** veglia su quel luogo.
 
 Gareth diede loro tre consigli: **non correre, non urlare, non toccare le tombe** — e se qualcuno li avesse chiamati per nome, non rispondere, perché non tutti i non morti sono uguali: alcuni conservano intelligenza, formano gruppi e ingannano i visitatori.
 
@@ -65,7 +65,7 @@ La compagnia si trovò davanti a una distesa immensa di lapidi trascurate. Tra l
 
 ### Il Mausoleo degli Alix
 
-Oltre la porta che separa il campo dei poveri dal cimitero dei ricchi, trovarono il piccolo **[mausoleo degli Alix](<../../lore/vecna/#mausoleo-degli-alix>)**. Una doppia porta di metallo finemente incisa, accostata, con una catena chiusa da un lucchetto **nuovo e aperto**: qualcuno li aveva preceduti. La porta si aprì su una stanza con sei tombe scavate nel terreno e, oltre, una scala verso il buio. Nel pavimento centrale più sgombro, segno di un passaggio frequente.
+Oltre la porta che separa il campo dei poveri dal cimitero dei ricchi, trovarono il piccolo **[mausoleo degli Alix](<../../../lore/vecna/#mausoleo-degli-alix>)**. Una doppia porta di metallo finemente incisa, accostata, con una catena chiusa da un lucchetto **nuovo e aperto**: qualcuno li aveva preceduti. La porta si aprì su una stanza con sei tombe scavate nel terreno e, oltre, una scala verso il buio. Nel pavimento centrale più sgombro, segno di un passaggio frequente.
 
 Mentre Kobrut metteva piede sulla scala, le porte del mausoleo **si chiusero di colpo**.
 
@@ -85,7 +85,7 @@ Oltre una porta apparve una figura in porpora incappucciata con una maschera, ch
 
 ### La Donna e l'Elfo
 
-Mentre Asha perquisiva il mago caduto, una porta si aprì e ne uscirono due figure: una donna umana e un elfo. La donna schernì il cadavere — «Povero, povero **[Oxtu](<../../png/vecna/#oxtu>)**, povero stupido» — e propose di mostrare loro «l'ospitalità di Vecna», conducendoli al loro capo. Astorio era diffidente; Karesh accettò di ascoltarli. L'elfo, di nome **[Hannel](<../../png/vecna/#hannel>)**, li canzonò. Solo Asha, nel passare, colse due suoni dietro una porta: un leggero ringhio e il suono di un liuto.
+Mentre Asha perquisiva il mago caduto, una porta si aprì e ne uscirono due figure: una donna umana e un elfo. La donna schernì il cadavere — «Povero, povero **[Oxtu](<../../../png/vecna/#oxtu>)**, povero stupido» — e propose di mostrare loro «l'ospitalità di Vecna», conducendoli al loro capo. Astorio era diffidente; Karesh accettò di ascoltarli. L'elfo, di nome **[Hannel](<../../../png/vecna/#hannel>)**, li canzonò. Solo Asha, nel passare, colse due suoni dietro una porta: un leggero ringhio e il suono di un liuto.
 
 ---
 
@@ -95,7 +95,7 @@ La donna li guidò per corridoi illuminati da fiaccole, che si aprivano in tre r
 
 ### La Stanza del Capo
 
-Allo scrittoio sedeva un uomo che, al loro ingresso, richiuse di colpo il diario su cui scriveva: **[Geroth](<../../png/vecna/#geroth>)**. Il capo li squadrò uno per uno, chiedendo i loro nomi. Karesh si presentò a nome di Lord Neverember; Asha disse il proprio vero nome; Astorio tentò di ingannarlo con un nome falso. Geroth sfogliò un piccolo diario, osservandoli, e si rivolse ad Asha: il suo nome curioso, la sua stirpe interessante — lei poteva essere «la prossima». Rimproverò la donna — che chiamò **[Algra](<../../png/vecna/#algra>)** — per non averli legati e disarmati per il rituale. La compagnia rifiutò, e lo scontro ebbe inizio.
+Allo scrittoio sedeva un uomo che, al loro ingresso, richiuse di colpo il diario su cui scriveva: **[Geroth](<../../../png/vecna/#geroth>)**. Il capo li squadrò uno per uno, chiedendo i loro nomi. Karesh si presentò a nome di Lord Neverember; Asha disse il proprio vero nome; Astorio tentò di ingannarlo con un nome falso. Geroth sfogliò un piccolo diario, osservandoli, e si rivolse ad Asha: il suo nome curioso, la sua stirpe interessante — lei poteva essere «la prossima». Rimproverò la donna — che chiamò **[Algra](<../../../png/vecna/#algra>)** — per non averli legati e disarmati per il rituale. La compagnia rifiutò, e lo scontro ebbe inizio.
 
 ### Il Primo Scontro
 
@@ -149,37 +149,37 @@ La scena si dissolse. La compagnia sapeva che l'arco aperto sotto Neverdeath si 
 - **[[Kobrut]]** — Guerriero kobold.
 - **[[Asha]]** — Ranger umana.
 - **[[Astorio]]** — Mago umano.
-- **[Lord Raener Neverember](<../../png/vecna/#lord-raener-neverember>)** — Signore di *Neverwinter*.
-- **[Saratar](<../../png/vecna/#saratar>)** — Mentore di Karesh, del Tempio di Bahamut.
-- **[Cedric Ashford](<../../png/vecna/#cedric-ashford>)** — Gioielliere della Volta delle Cose Perdute.
-- **[Edric, il Mercante dell'Impossibile](<../../png/vecna/#edric>)** — Nano mercante d'armi.
-- **[Gareth Stormwind](<../../png/vecna/#gareth-stormwind>)** — Sommo padre dell'Ordine di Kelemvor.
-- **[Oxtu](<../../png/vecna/#oxtu>)** — Il mago di porpora, capo dei cultisti.
-- **[Geroth](<../../png/vecna/#geroth>)** — Il capo dei cultisti del Sussurro di Vecna sotto Neverdeath.
-- **[Algra](<../../png/vecna/#algra>)** — La donna seguace di Vecna.
-- **[Hannel](<../../png/vecna/#hannel>)** — Elfo seguace di Vecna.
-- **[Eldon](<../../png/vecna/#eldon>), [Gilbert](<../../png/vecna/#gilbert>), [Sarcell](<../../png/vecna/#sarcell>)** — Gli studiosi scomparsi.
-- **[Coda](<../../png/vecna/#coda>)** — Il bardo tabaxi, cantastorie del castello.
+- **[Lord Raener Neverember](<../../../png/vecna/#lord-raener-neverember>)** — Signore di *Neverwinter*.
+- **[Saratar](<../../../png/vecna/#saratar>)** — Mentore di Karesh, del Tempio di Bahamut.
+- **[Cedric Ashford](<../../../png/vecna/#cedric-ashford>)** — Gioielliere della Volta delle Cose Perdute.
+- **[Edric, il Mercante dell'Impossibile](<../../../png/vecna/#edric>)** — Nano mercante d'armi.
+- **[Gareth Stormwind](<../../../png/vecna/#gareth-stormwind>)** — Sommo padre dell'Ordine di Kelemvor.
+- **[Oxtu](<../../../png/vecna/#oxtu>)** — Il mago di porpora, capo dei cultisti.
+- **[Geroth](<../../../png/vecna/#geroth>)** — Il capo dei cultisti del Sussurro di Vecna sotto Neverdeath.
+- **[Algra](<../../../png/vecna/#algra>)** — La donna seguace di Vecna.
+- **[Hannel](<../../../png/vecna/#hannel>)** — Elfo seguace di Vecna.
+- **[Eldon](<../../../png/vecna/#eldon>), [Gilbert](<../../../png/vecna/#gilbert>), [Sarcell](<../../../png/vecna/#sarcell>)** — Gli studiosi scomparsi.
+- **[Coda](<../../../png/vecna/#coda>)** — Il bardo tabaxi, cantastorie del castello.
 
 ## Fazioni
 
-- **[Ordine di Kelemvor](<../../fazioni/vecna/#ordine-di-kelemvor>)** — Veglia su Neverdeath.
-- **[Il Sussurro di Vecna](<../../fazioni/vecna/#sussurro-di-vecna>)** — Il culto segreto di Vecna.
-- **[Arcane Brotherhood](<../../fazioni/vecna/#arcane-brotherhood>)** — Le torri degli arcani di Luskan.
-- **[I Pugni Fiammeggianti](<../../fazioni/vecna/#pugni-fiammeggianti>)** — Guardiani di Baldur's Gate.
-- **[Gilda dell'Orologio ad Acqua](<../../fazioni/vecna/#gilda-orologio-acqua>)** — Costruttori di orologi, scomparsa.
+- **[Ordine di Kelemvor](<../../../fazioni/vecna/#ordine-di-kelemvor>)** — Veglia su Neverdeath.
+- **[Il Sussurro di Vecna](<../../../fazioni/vecna/#sussurro-di-vecna>)** — Il culto segreto di Vecna.
+- **[Arcane Brotherhood](<../../../fazioni/vecna/#arcane-brotherhood>)** — Le torri degli arcani di Luskan.
+- **[I Pugni Fiammeggianti](<../../../fazioni/vecna/#pugni-fiammeggianti>)** — Guardiani di Baldur's Gate.
+- **[Gilda dell'Orologio ad Acqua](<../../../fazioni/vecna/#gilda-orologio-acqua>)** — Costruttori di orologi, scomparsa.
 
 ## Luoghi
 
-- **[Neverwinter](<../../lore/vecna/#neverwinter>)** — La città eternamente in estate.
-- **[Neverdeath](<../../lore/vecna/#neverdeath>)** — Il grande cimitero.
-- **[Mausoleo degli Alix](<../../lore/vecna/#mausoleo-degli-alix>)** — Il punto d'origine delle sparizioni.
-- **[Castello Never](<../../lore/vecna/#castello-never>)** — La sede di Lord Neverember.
-- **[La Coppa del Corvo](<../../lore/vecna/#coppa-del-corvo>)** — Taverna del quartiere nobiliare.
-- **[Tempio di Bahamut](<../../lore/vecna/#tempio-di-bahamut>)** — Dimora di Saratar.
-- **[La Volta delle Cose Perdute](<../../lore/vecna/#volta-delle-cose-perdute>)** — Gioielleria.
-- **[Il Mercante dell'Impossibile](<../../lore/vecna/#mercante-dell-impossibile>)** — Negozio d'armi di Edric.
-- **[Waterdeep e Undermountain](<../../lore/vecna/#waterdeep-undermountain>)**, **[Baldur's Gate](<../../lore/vecna/#baldurs-gate>)**, **[Luskan](<../../lore/vecna/#luskan-arcane-brotherhood>)** — Le tappe della caccia.
+- **[Neverwinter](<../../../lore/vecna/#neverwinter>)** — La città eternamente in estate.
+- **[Neverdeath](<../../../lore/vecna/#neverdeath>)** — Il grande cimitero.
+- **[Mausoleo degli Alix](<../../../lore/vecna/#mausoleo-degli-alix>)** — Il punto d'origine delle sparizioni.
+- **[Castello Never](<../../../lore/vecna/#castello-never>)** — La sede di Lord Neverember.
+- **[La Coppa del Corvo](<../../../lore/vecna/#coppa-del-corvo>)** — Taverna del quartiere nobiliare.
+- **[Tempio di Bahamut](<../../../lore/vecna/#tempio-di-bahamut>)** — Dimora di Saratar.
+- **[La Volta delle Cose Perdute](<../../../lore/vecna/#volta-delle-cose-perdute>)** — Gioielleria.
+- **[Il Mercante dell'Impossibile](<../../../lore/vecna/#mercante-dell-impossibile>)** — Negozio d'armi di Edric.
+- **[Waterdeep e Undermountain](<../../../lore/vecna/#waterdeep-undermountain>)**, **[Baldur's Gate](<../../../lore/vecna/#baldurs-gate>)**, **[Luskan](<../../../lore/vecna/#luskan-arcane-brotherhood>)** — Le tappe della caccia.
 
 ---
 
