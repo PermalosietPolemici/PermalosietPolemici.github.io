@@ -183,4 +183,6 @@ La scena si dissolse. La compagnia sapeva che l'arco aperto sotto Neverdeath si 
 
 ---
 
+[**Capitolo successivo →**](01-lo-specchio-oscuro.md)
+
 *[Torna all'indice](/sessioni/vecna/)*
