@@ -22,6 +22,15 @@ Quattro persone sono scomparse senza lasciare traccia — **Eldon**, **Gilbert**
 
 Per due anni la compagnia ha percorso la **Costa della Spada** estirpando i culti di Vecna: a **Waterdeep**/Undermountain, a **Baldur's Gate** e a **Luskan**. La guerra non conosce tregua finché un solo sussurro di Vecna echeggia nel mondo.
 
+### Il Viaggio Nello Shadowfell {#viaggio-shadowfell}
+
+**Committente:** nessuno — la compagnia, risucchiata dalla luce viola oltre lo strappo sotto Neverdeath.
+**Stato:** Completata (ritorno a Neverwinter).
+
+Sopraffatti dal rituale del Sussurro di Vecna, la compagnia finisce nello **Shadowfell** e deve trovare una **frattura** per tornare a casa. Dopo il banchetto illusorio di Asmodeus, la tragedia della freccia di Asha, il patto con **Sangora** e la discesa nella **tomba dei Dolindar**, i compagni attraversano la frattura e tornano a Neverwinter.
+
+**Esito:** il ritorno a casa, la ricomposizione con **Lord Neverember**, il ritorno di **Malverio** e la nuova casa della compagnia. Ma il Sussurro di Vecna ha lasciato altre tracce.
+
 ---
 
 *[Torna all'indice](/missioni/)*
