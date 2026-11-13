@@ -4,3 +4,4 @@
 - [Karesh "Brightscale" Jenrath](karesh.md) — Dragonide Paladino 10 (Oath of the Watchers), guardia di Neverwinter
 - [Kobrut](kobrut.md) — Kobold Psi Warrior Fighter 10, principe spodestato
 - [Astorio Wisewind](astorio.md) — Umano Divination Wizard 10, mago consulente di Neverwinter
+- [Malverio dalle Poche Certezze](malverio.md) — Tiefling Warlock (Hexblade) 10, ufficiale della Guardia di Neverwinter
