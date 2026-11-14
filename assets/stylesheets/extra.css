@@ -1,0 +1,17 @@
+/* Ritratto del personaggio: a destra su desktop, centrato su mobile */
+img.portrait {
+  float: right;
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+  margin: 0 0 1em 1em;
+}
+
+@media (max-width: 768px) {
+  img.portrait {
+    float: none;
+    display: block;
+    max-width: 80%;
+    margin: 1em auto;
+  }
+}
