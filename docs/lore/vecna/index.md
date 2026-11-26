@@ -96,6 +96,22 @@ Il bazar del quartiere di Neverwinter dove Astorio fa la spesa per la nuova casa
 
 La casa ristrutturata assegnata da Lord Neverember alla compagnia, oltre il ponte del drago addormentato e il tempio di Tyr. A due piani, luminosa, con sei camere, un ampio salotto e un portico: la prima vera dimora della compagnia a Neverwinter.
 
+### La Stella Errante {#stella-errante}
+
+Nave commerciale giunta a Neverwinter semidistrutta, con l'equipaggio di una ventina di persone ritrovato morto e senza una goccia di sangue, tra grandi buchi circolari nello scafo. Proveniva dalle fredde Icewind Dale; l'ultima pagina del diario di bordo diceva che il capitano aveva avvistato il faro di Neverwinter il giorno prima. A bordo la compagnia trova un brandello di stoffa con il simbolo di **Vecna**.
+
+### La Lanterna Spezzata {#lanterna-spezzata}
+
+Bettola enorme e rumorosa dei portuali di Neverwinter, dove Malverio conduce la compagnia per trovare un passaggio verso il faro. Dietro il bancone un mezzorco con una zanna spezzata e una cicatrice su un occhio.
+
+### Il Serpente di Mare {#serpente-di-mare}
+
+Galeone enorme a tre alberi del capitano **Adrian Westfall**, fra i più grandi ormeggiati a Neverwinter, sul quale la compagnia prende il largo verso il faro. Viene spezzato in due dai tentacoli della creatura dei cerchi neri al largo del faro.
+
+### Il Faro di Neverwinter {#faro-di-neverwinter}
+
+Antico faro su uno scoglio in mare aperto davanti a Neverwinter, la cui luce «non illumina ma ricorda»: un luogo pervaso da un alone magico che ha richiamato a sé la compagnia. Al suo interno si cela una forza primordiale che vuole capire che cosa significhi essere vivi, e che sembra aver già conosciuto i compagni.
+
 ---
 
 *[Torna all'indice](/lore/)*

@@ -213,6 +213,6 @@ Poi una luce accecante, quasi bruciante per gli occhi; e con essa tornarono gli 
 
 ---
 
-[**← Capitolo precedente**](00-prologo.md)
+[**← Capitolo precedente**](00-prologo.md) | [**Capitolo successivo →**](02-il-faro-che-ricorda.md)
 
 *[Torna all'indice](/sessioni/vecna/)*

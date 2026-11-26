@@ -84,6 +84,18 @@ Uomo dal sangue raro, legato a **Sangora** e rifugiatosi da Severin. Tenuto prig
 
 Ciambellano di corte di Neverwinter. In vece di Lord Neverember conferisce alla compagnia la cittadinanza e la nuova casa, e ascolta i loro primi rapporti al ritorno dallo Shadowfell.
 
+### Bastian Gollmer «Senzocchio» {#bastian-senzocchio}
+
+Ufficiale maggiore a capo del corpo di guardia della città, detto **Senzocchio** per la vecchia ferita che gli ha chiuso un occhio. Abile ma autoritario, si dice ammansito da cittadini potenti perché chiuda un occhio. Accetta di occuparsi della ricerca di **Franco** per conto di **[[Kobrut]]**, dietro lauto compenso.
+
+### Adrian Westfall {#adrian-westfall}
+
+Capitano del galeone **Serpente di Mare**. Vende alla compagnia un passaggio verso il faro e una scialuppa per il ritorno. Muore durante l'assalto dei tentacoli al largo del faro, nonostante i tentativi di **[[Karesh]]** di sostenerlo.
+
+### Franco {#franco}
+
+Coboldo che ha rubato l'identità e i documenti a **Kobrut**, principe dei coboldi, approfittando del fatto che gli umani distinguono male i coboldi tra loro. Da anni costringe Kobrut a ripetere la propria storia di principe. Ricercato dalla guardia cittadina; Bastian Senzocchio apre un fascicolo su di lui dietro compenso.
+
 ---
 
 *[Torna all'indice](/png/)*

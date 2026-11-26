@@ -26,11 +26,15 @@ I guardiani inflessibili di **Baldur's Gate**, temprati dal ferro e dalla legge.
 
 ### Guardia di Neverwinter {#guardia-di-neverwinter}
 
-La milizia cittadina in cui militano **Karesh**, **Asha** e **Kobrut**. Ha accolto Kobrut quando nessuno credeva alla sua storia di principe. Vi ha fatto carriera fino al grado di ufficiale anche **Malverio**, che ora combatte al fianco della compagnia.
+La milizia cittadina in cui militano **Karesh**, **Asha** e **Kobrut**. Ha accolto Kobrut quando nessuno credeva alla sua storia di principe. Vi ha fatto carriera fino al grado di ufficiale anche **Malverio**, che ora combatte al fianco della compagnia. Il suo corpo di guardia è retto dall'ufficiale maggiore **Bastian Gollmer**, detto Senzocchio.
 
 ### Sangora Sanguinaris {#sangora-sanguinaris}
 
 La casata vampirica di **Sangora**, commerciante di sangue raro al mercato delle salme di Evernight. Colleziona sangue raro da trecento anni e commercia più che aiutare, scambiando le sue conoscenze sulle fratture con incarichi e rarità.
+
+### Gilda dei Marinai {#gilda-dei-marinai}
+
+L'organizzazione dei marinai di Neverwinter che paga piccole imbarcazioni per pattugliare la baia dal faro alla città, da sempre ritenuta sicura. Dai fondali bassi e dalle acque senza pirati da decenni, la baia vede nel caso della **Stella Errante** il suo primo episodio isolato e inspiegato.
 
 ---
 

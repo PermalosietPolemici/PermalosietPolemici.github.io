@@ -31,6 +31,15 @@ Sopraffatti dal rituale del Sussurro di Vecna, la compagnia finisce nello **Shad
 
 **Esito:** il ritorno a casa, la ricomposizione con **Lord Neverember**, il ritorno di **Malverio** e la nuova casa della compagnia. Ma il Sussurro di Vecna ha lasciato altre tracce.
 
+### La Stella Errante {#stella-errante}
+
+**Committente:** Lord Raener Neverember (via il ciambellano **Lucan Crone**).
+**Stato:** In corso.
+
+La **Stella Errante**, nave mercantile giunta a Neverwinter con l'equipaggio morto e senza una goccia di sangue, reca a bordo un brandello con il simbolo di **Vecna**. La compagnia deve scoprire chi o cosa ha attaccato la nave, e segue la pista fino al faro di Neverwinter.
+
+**Esito attuale:** saliti a bordo del **Serpente di Mare** verso il faro, la compagnia viene assalita da cerchi neri e dal kraken, che spezza la nave; a bordo del faro trova un vecchio che li ammonisce a non salire, una stanza degli specchi con riflessi in ritardo e una luce «che ricorda» — che alla fine li strappa di nuovo dal mondo, lasciando **Karesh** tra una carezza e il freddo del metallo.
+
 ---
 
 *[Torna all'indice](/missioni/)*
