@@ -115,13 +115,19 @@ Mentre Asha perquisiva il mago caduto, una porta si aprì e ne uscirono due figu
 
 La donna li guidò per corridoi illuminati da fiaccole, che si aprivano in tre rientranze con catene e manette. Nella prima era incatenata una donna dal pallore innaturale e gli occhi vitrei, che apriva e chiudeva la bocca senza emettere suono. In fondo, a sinistra, una grande porta di legno rosso con incisa una mano sinistra che racchiudeva un occhio; da essa filtrava un bagliore violaceo. La donna bussò — dall'interno una sola parola: «Avanti» — ed aprì.
 
+> 🎬 *Rivedi il corridoio delle catene: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=961>){: target="_blank" }*
+
 ### La Stanza del Capo
 
 Allo scrittoio sedeva un uomo che, al loro ingresso, richiuse di colpo il diario su cui scriveva: **[Geroth](<../../../png/vecna/#geroth>)**. Il capo li squadrò uno per uno, chiedendo i loro nomi. Karesh si presentò a nome di Lord Neverember; Asha disse il proprio vero nome; Astorio tentò di ingannarlo con un nome falso. Geroth sfogliò un piccolo diario, osservandoli, e si rivolse ad Asha: il suo nome curioso, la sua stirpe interessante — lei poteva essere «la prossima». Rimproverò la donna — che chiamò **[Algra](<../../../png/vecna/#algra>)** — per non averli legati e disarmati per il rituale. La compagnia rifiutò, e lo scontro ebbe inizio.
 
+> 🎬 *Rivedi la stanza del capo: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=1212>){: target="_blank" }*
+
 ### Il Primo Scontro
 
 Nella stanza angusta, Geroth evocò una schiera di scheletri attorno ad Astorio. Li affrontarono mentre l'uomo colpiva con la magia. Quando Geroth cadde, i suoi scheletri si dissolsero in cenere. Algra fuggì attraverso la porta rossa; Astorio la colpì alle spalle e, per un istante, oltre la porta vide un lampo di luce viola e udì salire una cantilena. Poi la porta si richiuse.
+
+> 🎬 *Rivedi il primo scontro con Geroth: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=2659>){: target="_blank" }*
 
 ### Dietro la Porta Scarlatta
 
@@ -129,13 +135,19 @@ Karesh si avvicinò per forzarla: la lama gli fu afferrata, la porta si spalanc�
 
 La compagnia era stremata. Karesh disperse alcune creature con il proprio potere sacro, ma i nemici erano troppi: si ritirarono nel corridoio e richiusero la porta.
 
+> 🎬 *Rivedi ciò che c'è dietro la porta scarlatta: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=4562>){: target="_blank" }*
+
 ### La Fine del Rituale
 
 Algra riaprì la porta e scagliò una palla di fuoco. Pur esausti, la compagnia la affrontò e la uccise. Poi sulla soglia comparve un'altra figura, che chiuse lentamente la porta: ormai tutto era compiuto. Del giovane elfo prigioniero non seppero più nulla — Karesh se ne rammaricò a lungo.
 
+> 🎬 *Rivedi la fine del rituale: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=5409>){: target="_blank" }*
+
 ### La Sala dei Nomi
 
 Sui cadaveri trovarono tre libri di incantesimi, il libro della donna e un centinaio di monete d'oro. Astorio raccolse appunti, diari e la **mappa di Neverwinter** segnata da una quindicina di croci. Una porta si aprì su una stanza spoglia con decine e decine di **targhe di metallo**, ognuna con inciso un nome; quelle in fondo apparivano graffiate.
+
+> 🎬 *Rivedi la sala dei nomi: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=7173>){: target="_blank" }*
 
 ### Il Gorilla Invisibile e Coda
 
@@ -143,15 +155,21 @@ Asha si accostò alla porta da cui proveniva il suono del liuto. Alle sue spalle
 
 Nella piccola camera c'era **Coda**, il bardo tabaxi scomparso: smunto ma altezzoso, disse di aspettare da secoli che venissero a prenderlo. Raccontò di essere stato preso di notte sulle merlature del castello, trascinato via in un sacco da tre o quattro uomini, quattro o cinque giorni prima.
 
+> 🎬 *Rivedi il gorilla invisibile e il ritrovamento di Coda: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=7497>){: target="_blank" }*
+
 ### I Ghoul nell'Antica Biblioteca
 
 I sensi di Karesh avvertirono quattro presenze non morte. Era un'antica biblioteca ridotta a carnificina, dove i cadaveri venivano gettati a marcire. Quattro creature grondanti bava si avventarono su di loro; Karesh rispose con un soffio di luce radiante e la lama, Kobrut con la balestra. Furono abbattute.
+
+> 🎬 *Rivedi gli scontri nell'antica biblioteca: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=8904>){: target="_blank" }*
 
 ---
 
 ## Lo Strappo e la Visione
 
 Mentre si riorganizzavano, Astorio fu colto da un mancamento, le mani come sdoppiate; Asha vide un lampo viola attraversarle il corpo e apparirle una stanza con una tavola imbandita. Poi i raggi viola inondarono il corridoio: il soffitto si squarciò, fenditure si aprirono in pareti e pavimento e, attraverso di esse, apparve un cielo violaceo pulsante. Nella luce iniziò a delinearsi una scena.
+
+> 🎬 *Rivedi lo strappo nel soffitto e la visione: [guarda il video](<https://www.youtube.com/watch?v=IWN5kzD0lRU&t=9917>){: target="_blank" }*
 
 Videro una sala da pranzo elegante, dalle pareti di pietra nera, con un camino le cui fiamme non producevano calore. A un tavolo imbandito sedevano due uomini molto giovani.
 
