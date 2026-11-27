@@ -73,17 +73,21 @@ Giunti alle porte, il sacerdote le aprì e le richiuse alle loro spalle: «Se to
 
 La compagnia si trovò davanti a una distesa immensa di lapidi trascurate. Tra le tombe iniziarono a muoversi figure: **zombie** semiputrefatti, che eliminarono facendosi largo, mentre la spada di Karesh prendeva a vibrare — qualcuno li osservava.
 
+> 🎬 *Rivedi l'imbattersi negli zombie del cimitero: [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=1690>){: target="_blank" }*
+
 ### Il Mausoleo degli Alix
 
 Oltre la porta che separa il campo dei poveri dal cimitero dei ricchi, trovarono il piccolo **[mausoleo degli Alix](<../../../lore/vecna/#mausoleo-degli-alix>)**. Una doppia porta di metallo finemente incisa, accostata, con una catena chiusa da un lucchetto **nuovo e aperto**: qualcuno li aveva preceduti. La porta si aprì su una stanza con sei tombe scavate nel terreno e, oltre, una scala verso il buio. Nel pavimento centrale più sgombro, segno di un passaggio frequente.
 
 Mentre Kobrut metteva piede sulla scala, le porte del mausoleo **si chiusero di colpo**.
 
-> 🎬 *Rivedi il mausoleo degli Alix: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=10616>){: target="_blank" }*
+> 🎬 *Rivedi il mausoleo degli Alix: [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=1879>){: target="_blank" }*
 
 ### La Prima Battaglia
 
 Nella stanza in fondo, cinque creature dalla pelle ridotta a brandelli, con occhi rossi e spade lunghe, avanzarono. La battaglia fu dura ma breve: Kobrut falcidiò i nemici con la balestra pesante e un grido draconico, Karesh si piantò sulla scala stretta proteggendo i compagni, Asha combatté prima con l'arco e poi con la sciabola, Astorio colpì con il raggio di gelo. I non morti risucchiavano la vita con il tocco, ma uno dopo l'altro caddero tutti.
+
+> 🎬 *Rivedi la prima battaglia contro i non morti: [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=2153>){: target="_blank" }*
 
 ### Le Stanze Sotterranee
 
@@ -91,13 +95,19 @@ Oltre il crollo, una grande scala portava a un pianerottolo con porte di legno. 
 
 Più avanti, una voce risuonò: **«Il Sussurro di Vecna impedirà di entrare qui. Avete già fatto troppa strada. Avete già visto il centro.»** Memore delle regole di Gareth, la compagnia non rispose e avanzò camminando all'indietro.
 
+> 🎬 *Rivedi la scoperta nelle stanze sotterranee (arpa e veste porpora): [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=5829>){: target="_blank" }*
+
 ### Il Mago di Porpora
 
 Oltre una porta apparve una figura in porpora incappucciata con una maschera, che lanciò un cono di ghiaccio. Lo inseguirono in una grande sala comune il cui pavimento rimbombava di vuoto e rivelò nascondigli segreti con ospiti dall'animo malintenzionato. Il mago, senza armatura, cadde sotto i dardi di Kobrut; i cultisti gridarono che **«Il Sussurro di Vecna non si arrenderà mai a dei porci come voi»**, e uno ammaliò Astorio, paralizzandolo. Astorio, già provato, cadde in gravi condizioni; Asha lo trascinò via e gli fece inghiottire una delle sue bacche, riportandolo in vita. Kobrut abbatté il mago e gridò ai cultisti che il loro capo era morto. Alla fine la compagnia li sopraffece e imprigionò l'ultimo per interrogarlo.
 
+> 🎬 *Rivedi lo scontro con il mago di porpora: [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=8354>){: target="_blank" }*
+
 ### La Donna e l'Elfo
 
 Mentre Asha perquisiva il mago caduto, una porta si aprì e ne uscirono due figure: una donna umana e un elfo. La donna schernì il cadavere — «Povero, povero **[Oxtu](<../../../png/vecna/#oxtu>)**, povero stupido» — e propose di mostrare loro «l'ospitalità di Vecna», conducendoli al loro capo. Astorio era diffidente; Karesh accettò di ascoltarli. L'elfo, di nome **[Hannel](<../../../png/vecna/#hannel>)**, li canzonò. Solo Asha, nel passare, colse due suoni dietro una porta: un leggero ringhio e il suono di un liuto.
+
+> 🎬 *Rivedi la donna e l'elfo: [guarda il video](<https://www.youtube.com/watch?v=WhmYJyKruOc&t=10917>){: target="_blank" }*
 
 ---
 
