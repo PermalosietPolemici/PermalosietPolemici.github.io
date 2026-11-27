@@ -4,7 +4,7 @@
 
 ---
 
-## [I Due Anni di Caccia](https://www.youtube.com/watch?v=PE5g_-1adW4&t=2280)
+## I Due Anni di Caccia
 
 Per due anni la compagnia — **[[Karesh]]**, **[[Kobrut]]**, **[[Asha]]** e **[[Astorio]]** — aveva percorso la **Costa della Spada** estirpando i culti di **Vecna**, il Signore dei Segreti Sussurrati. Non era stata una grande guerra aperta, ma una serie di battaglie nascoste, lungo un sentiero segnato di oscurità.
 
@@ -14,6 +14,8 @@ La guerra non concedeva tregua. E la loro reputazione, persino come "eroi di Nev
 
 Poi, un corvo giunse, recando in volo un messaggio di **[Lord Raener Neverember](<../../../png/vecna/#lord-raener-neverember>)**, Signore di Neverwinter.
 
+> 🎬 *Rivedi la sintesi videomappa dei due anni di caccia: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=2280>){: target="_blank" }*
+
 ---
 
 ## Il Ritorno a Neverwinter
@@ -22,7 +24,7 @@ Neverwinter era rimasta immensa e cosmopolita, crocevia di razze e mercanzie, vi
 
 Il rientro della compagnia non fu una semplice celebrazione. Attraverso le vie, Kobrut apostrofò un passante che non aveva salutato Karesh, intimandogli di porgere i dovuti rispetti «all'eroe di Neverwinter e del mondo conosciuto». Il passante, perplesso, si allontanò senza capire.
 
-> 🎬 *Rivedi la scena del rientro a Neverwinter: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=3417>)*
+> 🎬 *Rivedi la scena del rientro a Neverwinter: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=3417>){: target="_blank" }*
 
 ### L'Accoglienza al Castello Never
 
