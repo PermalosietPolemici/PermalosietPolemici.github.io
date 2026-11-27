@@ -34,6 +34,8 @@ Giunti al **[Castello Never](<../../../lore/vecna/#castello-never>)**, il più g
 
 Al calar del giorno, seguendo il consiglio di un superiore, la compagnia si recò alla **[Coppa del Corvo](<../../../lore/vecna/#coppa-del-corvo>)**, taverna del quartiere nobiliare riconoscibile dall'insegna con una coppa d'argento e due ali nere. Era affollatissima; tra gli avventori spiccavano un enorme felino e uno strano ippopotamo in abiti quasi da capitano di marina. Kobrut, di nascosto, consegnò al servitore una moneta d'oro in più perché la porzione del «paladino dragonide» fosse più abbondante; quando i piatti arrivarono, quello di Karesh era grande il doppio degli altri — e Karesh ne condivise una parte con i compagni.
 
+> 🎬 *Rivedi la scena alla Coppa del Corvo: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=4815>){: target="_blank" }*
+
 ### Commissioni in Città
 
 **Il Tempio di Bahamut.** Karesh e Kobrut si recarono al piccolo **[tempo di Bahamut](<../../../lore/vecna/#tempio-di-bahamut>)** dalla cupola color platino, dove Karesh ritrovò il suo mentore, **[Saratar](<../../../png/vecna/#saratar>)**, anziano dragonide dalle scaglie bianche. Karesh chiese che il proprio scudo fosse benedetto e infuso di magia; Saratar spiegò che un'opera simile richiede mesi. Allora Karesh **donò gran parte del suo oro al tempio** — mille e trecento monete — perché servisse ad ampliarlo. Kobrut volle imitarlo, ma Karesh glielo vietò. Kobrut, affascinato, chiese di restare a servirlo; Saratar gli disse di non servire nessuno: era un principe e doveva vivere come tale.
@@ -53,6 +55,8 @@ All'ora di cena, li attendeva **Lord Raener Neverember**, uomo di circa trentaci
 
 Le divinazioni pagate dal Lord ai chierici di Kelemvor terminavano tutte **in un unico punto**: il cimitero di **Neverdeath**, davanti a un mausoleo preciso, quello degli **Alix**. Il primo scomparso risaliva a circa dieci giorni prima. La compagnia accettò l'incarico.
 
+> 🎬 *Rivedi l'udienza con Lord Neverember: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=8585>){: target="_blank" }*
+
 ---
 
 ## Neverdeath
@@ -63,6 +67,8 @@ Gareth diede loro tre consigli: **non correre, non urlare, non toccare le tombe*
 
 Giunti alle porte, il sacerdote le aprì e le richiuse alle loro spalle: «Se tornate, potrete uscire.» Consegnò loro la copia delle chiavi.
 
+> 🎬 *Rivedi l'arrivo a Neverdeath con Gareth Stormwind: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=9776>){: target="_blank" }*
+
 ### Il Cimitero dei Poveri
 
 La compagnia si trovò davanti a una distesa immensa di lapidi trascurate. Tra le tombe iniziarono a muoversi figure: **zombie** semiputrefatti, che eliminarono facendosi largo, mentre la spada di Karesh prendeva a vibrare — qualcuno li osservava.
@@ -72,6 +78,8 @@ La compagnia si trovò davanti a una distesa immensa di lapidi trascurate. Tra l
 Oltre la porta che separa il campo dei poveri dal cimitero dei ricchi, trovarono il piccolo **[mausoleo degli Alix](<../../../lore/vecna/#mausoleo-degli-alix>)**. Una doppia porta di metallo finemente incisa, accostata, con una catena chiusa da un lucchetto **nuovo e aperto**: qualcuno li aveva preceduti. La porta si aprì su una stanza con sei tombe scavate nel terreno e, oltre, una scala verso il buio. Nel pavimento centrale più sgombro, segno di un passaggio frequente.
 
 Mentre Kobrut metteva piede sulla scala, le porte del mausoleo **si chiusero di colpo**.
+
+> 🎬 *Rivedi il mausoleo degli Alix: [guarda il video](<https://www.youtube.com/watch?v=PE5g_-1adW4&t=10616>){: target="_blank" }*
 
 ### La Prima Battaglia
 
