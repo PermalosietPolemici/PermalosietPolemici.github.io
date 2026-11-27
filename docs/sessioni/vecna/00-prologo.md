@@ -181,6 +181,8 @@ L'uomo con la spada brindò alla libertà. Poi chiese: e se il prezzo fosse trop
 
 La scena si dissolse. La compagnia sapeva che l'arco aperto sotto Neverdeath si era compiuto — ma che qualcosa, molto più grande, aveva appena cominciato a muovere i primi passi nel mondo.
 
+[**Capitolo successivo →**](01-lo-specchio-oscuro.md)
+
 ---
 
 ## Personaggi
@@ -222,7 +224,5 @@ La scena si dissolse. La compagnia sapeva che l'arco aperto sotto Neverdeath si 
 - **[Waterdeep e Undermountain](<../../../lore/vecna/#waterdeep-undermountain>)**, **[Baldur's Gate](<../../../lore/vecna/#baldurs-gate>)**, **[Luskan](<../../../lore/vecna/#luskan-arcane-brotherhood>)** — Le tappe della caccia.
 
 ---
-
-[**Capitolo successivo →**](01-lo-specchio-oscuro.md)
 
 *[Torna all'indice](/sessioni/vecna/)*
